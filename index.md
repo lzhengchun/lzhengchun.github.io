@@ -5,12 +5,11 @@ title: Home
 
 # Short Bio.
 
-I am a Postdoctoral Appointee at the [Mathematics and Computer Science Division](http://mcs.anl.gov/), [Argonne National Laboratory](http://www.anl.gov/), working with Rajkumar Kettimuthu. I contribute to the [RAMSES](https://ramsesproject.github.io) (Robust Analytic Models for Science at Extreme Scales) project. 
+I am a Postdoctoral Appointee at the [Mathematics and Computer Science Division](http://www.mcs.anl.gov/person/zhengchun-liu), [Argonne National Laboratory](http://www.anl.gov/), working with [Rajkumar Kettimuthu](http://www.mcs.anl.gov/~kettimut/). He contribute to the [RAMSES](https://ramsesproject.github.io) (Robust Analytic Models for Science at Extreme Scales) project. 
 
-NEWS: 
+I develope end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. More specifically, these models are developed to predict the behavior of a science workflow before it is implemented, to explain why performance does not meet design goals, and to architect science environments to meet workflow needs.
 
-We are looking for intern candidates now, contact me if you have experience and interests in: large scale Network simulation or Modeling and Simulation for HPC systems or performance modeling of workflow over distributed infrastructure.
-The 13th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems (SRMPDS'17) is calling for paper now, details can be found at: here or here.
+I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles_ from the Northwestern Polytechnic University, China; his master's degree in _Guidance Navigation and Control_ from the Northwestern Polytechnic University, China; and his Ph.D. in computer science (awarded ___Summa Cum Laude___, the highest honor) from the Universitat Autònoma de Barcelona, Spain.
 
 ---
 # Research Interests:
@@ -24,3 +23,4 @@ I am interested in Computer Science related research, mainly include:
 * Embedded Technique, Real-Time Operating System
 * Decision Support System, Operations Research (past)
 
+---
