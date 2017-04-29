@@ -9,7 +9,7 @@ I am a Postdoctoral Appointee at the [Mathematics and Computer Science Division]
 
 I develope end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. More specifically, these models are developed to predict the behavior of a science workflow before it is implemented, to explain why performance does not meet design goals, and to architect science environments to meet workflow needs.
 
-I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles_ from the Northwestern Polytechnic University, China; his master's degree in _Guidance Navigation and Control_ from the Northwestern Polytechnic University, China; and his Ph.D. in computer science (awarded ___Summa Cum Laude___, the highest honor) from the Universitat Autònoma de Barcelona, Spain.
+I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles_ from the Northwestern Polytechnic University, China; my master's degree in _Guidance Navigation and Control_ from the Northwestern Polytechnic University, China; and my Ph.D. in computer science (awarded ___Summa Cum Laude___, the highest honor) from the Universitat Autònoma de Barcelona, Spain.
 
 ---
 ## Research Interests:
@@ -37,3 +37,9 @@ I am interested in Computer Science related research, mainly include:
 * Extensive development experience with backend software on Linux.
 * Extensive experience with embedded system, real-time OS, hardware and firmware development.
 * Simulation with NS3, Netlogo etc.
+
+---
+<span style="color:blue">
+***NEWS***: 
+We are looking for intern candidates now, contact me if you have experience and interests in: large scale Network simulation or Modeling and Simulation for HPC systems or performance modeling of workflow over distributed infrastructure.
+</span>.
