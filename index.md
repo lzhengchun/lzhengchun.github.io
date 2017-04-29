@@ -5,7 +5,7 @@ title: Home
 
 # Short Bio.
 
-I am a Postdoctoral Appointee at the [Mathematics and Computer Science Division](http://www.mcs.anl.gov/person/zhengchun-liu), [Argonne National Laboratory](http://www.anl.gov/), working with [Rajkumar Kettimuthu](http://www.mcs.anl.gov/~kettimut/). He contribute to the [RAMSES](https://ramsesproject.github.io) (Robust Analytic Models for Science at Extreme Scales) project. 
+I am a Postdoctoral Appointee at the [Mathematics and Computer Science Division](http://www.mcs.anl.gov/person/zhengchun-liu), [Argonne National Laboratory](http://www.anl.gov/), working with [Rajkumar Kettimuthu](http://www.mcs.anl.gov/~kettimut/). I contribute to the [RAMSES](https://ramsesproject.github.io) (Robust Analytic Models for Science at Extreme Scales) project. 
 
 I develope end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. More specifically, these models are developed to predict the behavior of a science workflow before it is implemented, to explain why performance does not meet design goals, and to architect science environments to meet workflow needs.
 
