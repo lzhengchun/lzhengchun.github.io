@@ -13,19 +13,19 @@ title: Home
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. Support managing population aging stress of emergency departments in a computational way. (_to appear in ICCS'17_).
 
-- Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan. Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale. Applied Physics Letters, Vol.108, Issue 17. [[DOI](https://doi.org/10.1063/1.4947533)]
+- Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan. Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale. Applied Physics Letters, Vol.108, Issue 17. [[link](https://doi.org/10.1063/1.4947533)]
 
-- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity. Computers & Industrial Engineering, Vol. 103, 2017.[[DOI](https://doi.org/10.1016/j.cie.2016.11.036)]
+- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity. Computers & Industrial Engineering, Vol. 103, 2017.[[link](https://doi.org/10.1016/j.cie.2016.11.036)]
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments. (_under peer review_).
 
-- __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. International Journal of Integrated Care, 16(6):A145, pp.1-8 (ICIC'16).[[DOI](https://doi.org/10.5334/ijic.2693), slides].
+- __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. International Journal of Integrated Care, 16(6):A145, pp.1-8 (ICIC'16).[[link](https://doi.org/10.5334/ijic.2693), slides].
 
-- __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs, Francisco Epelde and Emilio Luque. Simulating the Micro-level Behavior of Emergency Department for Macro-level Features Prediction. 2015 Winter Simulation Conference.[[DOI](https://doi.org/10.1109/WSC.2015.7408162)], slides)
+- __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs, Francisco Epelde and Emilio Luque. Simulating the Micro-level Behavior of Emergency Department for Macro-level Features Prediction. 2015 Winter Simulation Conference.[[link](https://doi.org/10.1109/WSC.2015.7408162)], slides)
 
-- __Zhengchun Liu__, Eduardo Cabrera, Manel Taboada, Francisco Epelde, Dolores Rexachs and Emilio Luque. Quantitative Evaluation of Decision Effects in the Management of Emergency Department Problems. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[DOI](https://doi.org/10.1016/j.procs.2015.05.265)]
+- __Zhengchun Liu__, Eduardo Cabrera, Manel Taboada, Francisco Epelde, Dolores Rexachs and Emilio Luque. Quantitative Evaluation of Decision Effects in the Management of Emergency Department Problems. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.265)]
 
-- Xueping Zhu, __Zhengchun Liu__ and Jun Yang. Model of Collaborative UAV Swarm Toward Coordination and Control Mechanisms Study. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[DOI](https://doi.org/10.1016/j.procs.2015.05.274)], slides)
+- Xueping Zhu, __Zhengchun Liu__ and Jun Yang. Model of Collaborative UAV Swarm Toward Coordination and Control Mechanisms Study. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.274)], slides)
 
 - __Zhengchun Liu__. High Performance Computing Based Simulation for Healthcare Decision Support (slides, abstract). The Second International BSC Doctoral Symposium, Barcelona, Spain. May 5 - 7, 2015.
 
