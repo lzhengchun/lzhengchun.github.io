@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: What's new
 ---
 
 * I gave a talk about "Explaining/Understanding Wide Area Data Transfer Performance" in [GlobusWorld](https://www.globusworld.org/) 2017.
@@ -15,15 +15,15 @@ title: Home
 
 * I gave a presentation entitled: __A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance__ at The 16th International Conference for Integrated Care held in Barcelona, Spain. (slides) 2016/May/23~25.
 
-* I visited the __Oak Ridge National Laboratory__, Discrete Computing Systems Group, worked with professor Kalyan S. Perumalla, from Dec. 2015 to Apr. 2016.
+* I visited the __Oak Ridge National Laboratory__, Discrete Computing Systems Group, worked with professor [Kalyan S. Perumalla](http://kalper.net/kp/people/kalyan/), from Dec. 2015 to Apr. 2016.
 
 * I gave a presentation entitled: __Simulating the Micro-level Behavior of Emergency Departments for Macro-level Features Prediction__ at 2015 Winter Simulation Conference held in Huntington Beach, CA, USA. (slides) 2015/Dec./6~9.
 
 * I got the Online Course __DAT203x: Data Science and Machine Learning Essentials__ HONOR CODE CERTIFICATE  from edX by Satya Nadella and Björn Rettig, Microsoft. 2015/Nov./4.
 
-* I participated in the __10th Marathon of Parallel Programming Contest__ and got ___the First place___. Results. 2015/Oct./19.
+* I participated in the [10th Marathon of Parallel Programming Contest](http://lspd.mackenzie.br/marathon/15/) and got ___the First place___. Results. 2015/Oct./19.
 
-* We participated in the __5th Spanish Parallel Programming Contest__ and got ___the First place___, Record. 2015/Sep./23.
+* We participated in the [5th Spanish Parallel Programming Contest](http://luna.inf.um.es/2015/) and got ___the First place___, [Record](http://luna.inf.um.es/2015/results.php). 2015/Sep./23.
 
 * I gave a presentation entitled: __Model of Collaborative UAV Swarm Towards Coordination and Control Mechanisms Study__ at International Conference on Computational Science 2015 Reykjavík, Iceland. 2015/Jun./1~3.
 
