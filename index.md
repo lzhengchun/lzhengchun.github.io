@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: default
+title: Home
 ---
 
 # Short Bio.
