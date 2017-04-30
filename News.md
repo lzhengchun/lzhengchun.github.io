@@ -29,11 +29,11 @@ title: What's new
 
 * I presented a talk entitled: __High Performance Computing Based Simulation for Healthcare Decision Support__ ([slides](file/SIMUL_2014_slide.pdf), [PDF](file/SIMUL_2014_article.pdf)) on the second BSC International Doctoral Symposium, 5~7 May 2015.
 
-* I got the Online Course __Mining Massive Datasets__ Statement of Accomplishment ([SoA](file/Coursera mmds 2015.pdf)) from Coursera by Jure Leskovec, Anand Rajaraman and Jeff Ullman, Stanford University. 2015/April/9.
+* I got the Online Course __Mining Massive Datasets__ Statement of Accomplishment ([SoA](file/Coursera-mmds-2015.pdf)) from Coursera by Jure Leskovec, Anand Rajaraman and Jeff Ullman, Stanford University. 2015/April/9.
 
 * I gave a presentation entitled: __A Generalized Agent-Based Model to Simulate Emergency Departments__ at SIMUL 2014, Nice, France. ([slides](file/SIMUL_2014_slide.pdf)) 2014/Oct./12~16.
 
-* I got the Online Course __Machine Learning__ Statement of Accomplishment ([SoA](file/Coursera ml 2014.pdf)) from Coursera by Andrew Ng, Stanford University. 2014/Sep./30.
+* I got the Online Course __Machine Learning__ Statement of Accomplishment ([SoA](file/Coursera-ml-2014.pdf)) from Coursera by Andrew Ng, Stanford University. 2014/Sep./30.
 
 * I gave a presentation about __Study of Emergency Department by Using High Performance Computing__ at Jornadas sarteco 2014, Valladolid, Spain. ([slides](file/Jornadas_sarteco_2014.pdf)) 2014/Sep./16~19.
 
