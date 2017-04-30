@@ -42,11 +42,11 @@ I am interested in Computer Science related research, mainly include:
 ## Certifications:
 * Online Course DAT203x: __Data Science and Machine Learning Essentials__ HONOR CODE CERTIFICATE from [edX](https://courses.edx.org/courses/course-v1:Microsoft+DAT203x+1T2016/info) by Microsoft.
 * The [10th Marathon of Parallel Programming Contest](https://courses.edx.org/courses/course-v1:Microsoft+DAT203x+1T2016/info), The ___First___ Place, [Results](http://lspd.mackenzie.br/marathon/last/winners.html).
-* The [5th Spanish Parallel Progamming Contest](http://luna.inf.um.es/2015/), The ___First___ Place, [Results](http://luna.inf.um.es/2015/results.php?lang=en), Certificate.
-* Online Course __Scalable Machine Learning__ Statement of Accomplishment (SoA) from [edX](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info) by University of California, Berkeley.
-* Online Course __Mining Massive Datasets__ Statement of Accomplishment (SoA) from [Coursera](https://www.coursera.org/course/mmds) by Jure Leskovec, Anand Rajaraman and Jeff Ullman, Stanford University.
-* Online Course __Machine Learning__ Statement of Accomplishment (SoA) from [Coursera](https://www.coursera.org/course/ml) by Andrew Ng, Stanford University.
-* The [IV Spanish Parallel Progamming Contest](http://luna.inf.um.es/2014/) , The ___Second___ Place, [Results](http://luna.inf.um.es/2014/results.php?lang=en), Certificate, [how](img/competition.jpg).
+* The [5th Spanish Parallel Progamming Contest](http://luna.inf.um.es/2015/), The ___First___ Place, [Results](http://luna.inf.um.es/2015/results.php?lang=en), [Certificate](file/certificado_2015_UAB.pdf).
+* Online Course __Scalable Machine Learning__ Statement of Accomplishment ([SoA](Scalable Machine Learning 2015.pdf)) from [edX](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info) by University of California, Berkeley.
+* Online Course __Mining Massive Datasets__ Statement of Accomplishment ([SoA](Coursera mmds 2015.pdf)) from [Coursera](https://www.coursera.org/course/mmds) by Jure Leskovec, Anand Rajaraman and Jeff Ullman, Stanford University.
+* Online Course __Machine Learning__ Statement of Accomplishment ([SoA](file/Coursera ml 2014.pdf)) from [Coursera](https://www.coursera.org/course/ml) by Andrew Ng, Stanford University.
+* The [IV Spanish Parallel Progamming Contest](http://luna.inf.um.es/2014/) , The ___Second___ Place, [Results](http://luna.inf.um.es/2014/results.php?lang=en), [Certificate](file/certificado_2014_UAB.pdf), [how](img/competition.jpg).
 
 ---
 <span style="color:blue">
