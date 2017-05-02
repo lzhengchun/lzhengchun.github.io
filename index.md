@@ -16,7 +16,7 @@ I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles
 
 I am interested in Computer Science related research, mainly include:
 
-* Wide-area data transfer, GridFTP/Globus.org, modeling & optimizing data transfer 
+* Wide-area data transfer, GridFTP/Globus.org, explaining, modeling & optimizing data transfer 
 * High Performance Computing, Big-Data and Data Mining, Feature Engineering
 * Machine Learning and Artificial Intelligence
 * Complex System, Modeling and Simulation, Agent Based Modeling and Simulation
