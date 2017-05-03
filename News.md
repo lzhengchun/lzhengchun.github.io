@@ -9,7 +9,7 @@ title: What's new
 
 * I joined the __Argonne National Laboratory__ as a Postdoctoral appointee since Sep. 2016.
 
-* I defended my Ph.D. thesis (Modeling and Simulation for Healthcare Operations Management using High-Performance Computing and Agent-Based Model) on July 22, 2016 and my thesis awarded the __Summa Cum Laude__ (the highest score regulated by RD 534/2013, [wiki](https://en.wikipedia.org/wiki/Latin_honors)).
+* I defended my Ph.D. thesis (Modeling and Simulation for Healthcare Operations Management using High-Performance Computing and Agent-Based Model, [slides](file/Zhengchun-Liu-PhD-Thesis.pdf)) on July 22, 2016 and my thesis awarded the __Summa Cum Laude__ (the highest score regulated by RD 534/2013, [wiki](https://en.wikipedia.org/wiki/Latin_honors)).
 
 * I gave a talk entitled __Modeling and Simulation for Healthcare Operations Management using High-Performance Computing and Agent-Based Model__ to the Argonne National Laboratory via a Teleseminar on April 29, 2016.
 
