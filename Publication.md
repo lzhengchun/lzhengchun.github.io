@@ -21,7 +21,7 @@ title: Home
 
 - __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs, Francisco Epelde and Emilio Luque. Simulating the Micro-level Behavior of Emergency Department for Macro-level Features Prediction. 2015 Winter Simulation Conference.[[link](https://doi.org/10.1109/WSC.2015.7408162)], [slides](file/Z.Liu-WSC-2015.pdf))
 
-- __Zhengchun Liu__, Eduardo Cabrera, Manel Taboada, Francisco Epelde, Dolores Rexachs and Emilio Luque. Quantitative Evaluation of Decision Effects in the Management of Emergency Department Problems. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.265)]
+- __Zhengchun Liu__, Eduardo Cabrera, Manel Taboada, Francisco Epelde, Dolores Rexachs and Emilio Luque. Quantitative Evaluation of Decision Effects in the Management of Emergency Department Problems. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.265), [bib](zhengchun-liu-bibtex.html#liu-iccs2015)]
 
 - Xueping Zhu, __Zhengchun Liu__ and Jun Yang. Model of Collaborative UAV Swarm Toward Coordination and Control Mechanisms Study. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.274)], [slides](file/uav-agent.pdf))
 
