@@ -1,5 +1,15 @@
-title: 
-description:
+gems:
+  - jekyll-seo-tag
+title: Zhengchun Liu's Home Page
+description: Academic home page
+url: http://zliu.info
+social:
+  name: Zhengchun Liu
+  links:
+    - https://twitter.com/lzhengchun
+    - https://www.researchgate.net/profile/Zhengchun_Liu3
+    - http://github.com/liuzhengchun
+    - http://linkedin.com/in/liuzhengchun
 show_downloads: 
 google_analytics: UA-61001376-1
 theme: 
