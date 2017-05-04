@@ -13,7 +13,7 @@ title: Home
 
 - Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan. Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale. Applied Physics Letters, Vol.108, Issue 17. [[link](https://doi.org/10.1063/1.4947533)]
 
-- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity. Computers & Industrial Engineering, Vol. 103, 2017.[[link](https://doi.org/10.1016/j.cie.2016.11.036)]
+- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity. Computers & Industrial Engineering, Vol. 103, 2017. [[link](https://doi.org/10.1016/j.cie.2016.11.036), [bib](file/bibtex/Liu2017300.bib)]
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments. (_under peer review_).
 
