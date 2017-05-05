@@ -3,7 +3,7 @@ layout: default
 title: What's new
 ---
 
-* I gave a talk about "Explaining/Understanding Wide Area Data Transfer Performance" in [GlobusWorld](https://www.globusworld.org/) 2017.
+* I gave a talk about "Explaining/Understanding Wide Area Data Transfer Performance" in [GlobusWorld](https://www.globusworld.org/) 2017. ([slides](https://www.globusworld.org/files/2017/12_WAN_Data_Performance_Liu.pdf))
 
 * I am organizing the 13th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems as a co-chair, [call for paper](https://sites.google.com/site/srmpds/). 
 
