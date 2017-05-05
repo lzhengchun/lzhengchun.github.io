@@ -51,5 +51,5 @@ I am interested in Computer Science related research, mainly include:
 ---
 <span style="color:blue">
 ***NEWS***: 
-We are looking for intern candidates now, contact me if you have experience and interests in: large scale Network simulation or Modeling and Simulation for HPC systems or performance modeling of workflow over distributed infrastructure.
+We are hiring intern students, contact me if you have experience and interests in: large scale Network simulation or Modeling and Simulation for HPC systems or performance modeling of workflow over distributed infrastructure.
 </span>.
