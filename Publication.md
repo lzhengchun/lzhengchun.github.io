@@ -13,11 +13,11 @@ title: Home
 
 - Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan. Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale. Applied Physics Letters, Vol.108, Issue 17. [[link](https://doi.org/10.1063/1.4947533)]
 
-- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity. Computers & Industrial Engineering, Vol. 103, 2017. [[link](https://doi.org/10.1016/j.cie.2016.11.036), [bib](zhengchun-liu-bibtex.html#abm-calibration)]
+- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity. Computers & Industrial Engineering, Vol. 103, 2017. [[link](https://doi.org/10.1016/j.cie.2016.11.036), [bib](zhengchun-liu-bibtex.html#abm-calibration), [PDF](file/abm-calibration-zhengchun-liu.pdf)]
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments. Journal of Computational Science, 2017. [[link](https://doi.org/10.1016/j.jocs.2017.05.015)].
 
-- __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. International Journal of Integrated Care, 16(6):A145, pp.1-8 (ICIC'16). ([[link](https://doi.org/10.5334/ijic.2693)], [slides](file/5.8_Zhengchun_Liu_139.pdf)).
+- __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. International Journal of Integrated Care, 16(6):A145, pp.1-8 (ICIC'16). ([link](https://doi.org/10.5334/ijic.2693), [slides](file/5.8_Zhengchun_Liu_139.pdf)).
 
 - __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs, Francisco Epelde and Emilio Luque. Simulating the Micro-level Behavior of Emergency Department for Macro-level Features Prediction. 2015 Winter Simulation Conference.([link](https://doi.org/10.1109/WSC.2015.7408162), [slides](file/Z.Liu-WSC-2015.pdf))
 
