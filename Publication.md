@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-- __Zhengchun Liu__ and Emilio Luque. Modeling and Simulation for Healthcare Operations Management using High Performance Computing and Agent-Based Model. [thesis overview] Journal of Computer Science & Technology, Vol. 17, No. 1.
+- __Zhengchun Liu__ and Emilio Luque. Modeling and Simulation for Healthcare Operations Management using High Performance Computing and Agent-Based Model. [thesis overview] Journal of Computer Science & Technology, Vol. 17, No. 1. [[link](http://journal.info.unlp.edu.ar/wp-content/uploads/2017/05/JCST-44-Thesis-Overview-2.pdf)]
 
 - __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. Explaining Wide Area Data Transfer Performance. (_to appear in HPDC'17_, [Preprint PDF](http://www.mcs.anl.gov/~zcliu/files/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf)).
 
