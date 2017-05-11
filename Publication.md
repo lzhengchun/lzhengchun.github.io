@@ -7,29 +7,29 @@ title: Home
 
 - __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. Explaining Wide Area Data Transfer Performance. (_to appear in HPDC'17_, [Preprint PDF](http://www.mcs.anl.gov/~zcliu/files/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf)).
 
-- __Zhengchun Liu__ and Kalyan S. Perumalla. Optimizing High Performance 3D Stencil Computations on Large Scale Heterogeneous Platforms. (_work in progress_).
+- __Zhengchun Liu__ and Kalyan S. Perumalla. Optimizing High Performance 3D Stencil Computations on Large Scale Heterogeneous Platforms. (_work in progress_, [Preprint PDF](file/B2R-3d.pdf)).
 
-- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. Support managing population aging stress of emergency departments in a computational way. (_to appear in ICCS'17_).
+- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. Support managing population aging stress of emergency departments in a computational way. (_to appear in ICCS'17_, [Preprint PDF](file/aging-iccs2017.pdf)).
 
 - Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan. Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale. Applied Physics Letters, Vol.108, Issue 17. [[link](https://doi.org/10.1063/1.4947533)]
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity. Computers & Industrial Engineering, Vol. 103, 2017. [[link](https://doi.org/10.1016/j.cie.2016.11.036), [bib](zhengchun-liu-bibtex.html#abm-calibration), [PDF](file/abm-calibration-zhengchun-liu.pdf)]
 
-- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments. Journal of Computational Science, 2017. [[link](https://doi.org/10.1016/j.jocs.2017.05.015)].
+- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments. Journal of Computational Science, 2017. [[link](https://doi.org/10.1016/j.jocs.2017.05.015), [Preprint PDF](file/abm-ed-mdl_Zhengchun-Liu.pdf)]
 
-- __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. International Journal of Integrated Care, 16(6):A145, pp.1-8 (ICIC'16). ([link](https://doi.org/10.5334/ijic.2693), [slides](file/5.8_Zhengchun_Liu_139.pdf)).
+- __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. International Journal of Integrated Care, 16(6):A145, pp.1-8 (ICIC'16). [[link](http://www.ijic.org/articles/abstract/10.5334/ijic.2693/), [slides](file/5.8_Zhengchun_Liu_139.pdf)].
 
-- __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs, Francisco Epelde and Emilio Luque. Simulating the Micro-level Behavior of Emergency Department for Macro-level Features Prediction. 2015 Winter Simulation Conference.([link](https://doi.org/10.1109/WSC.2015.7408162), [slides](file/Z.Liu-WSC-2015.pdf))
+- __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs, Francisco Epelde and Emilio Luque. Simulating the Micro-level Behavior of Emergency Department for Macro-level Features Prediction. 2015 Winter Simulation Conference. [[link](https://doi.org/10.1109/WSC.2015.7408162), [slides](file/Z.Liu-WSC-2015.pdf)]
 
 - __Zhengchun Liu__, Eduardo Cabrera, Manel Taboada, Francisco Epelde, Dolores Rexachs and Emilio Luque. Quantitative Evaluation of Decision Effects in the Management of Emergency Department Problems. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.265), [bib](zhengchun-liu-bibtex.html#liu-iccs2015)]
 
-- Xueping Zhu, __Zhengchun Liu__ and Jun Yang. Model of Collaborative UAV Swarm Toward Coordination and Control Mechanisms Study. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, ([link](https://doi.org/10.1016/j.procs.2015.05.274), [slides](file/uav-agent.pdf))
+- Xueping Zhu, __Zhengchun Liu__ and Jun Yang. Model of Collaborative UAV Swarm Toward Coordination and Control Mechanisms Study. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.274), [slides](file/uav-agent.pdf)]
 
-- __Zhengchun Liu__. High Performance Computing Based Simulation for Healthcare Decision Support ([slides](file/zliu-bsc-2015.pdf), [abstract](file/Extended-Research-Abstract.pdf)). The Second International BSC Doctoral Symposium, Barcelona, Spain. May 5-7, 2015.
+- __Zhengchun Liu__. High Performance Computing Based Simulation for Healthcare Decision Support [[slides](file/zliu-bsc-2015.pdf), [abstract](file/Extended-Research-Abstract.pdf)]. The Second International BSC Doctoral Symposium, Barcelona, Spain. May 5-7, 2015.
 
-- __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs and Emilio Luque. A Generalized Agent-Based Model to Simulate Emergency Departments. The sixth International Conference on Advances in System Simulation.([slides](file/SIMUL_2014_slide.pdf), [PDF](file/SIMUL_2014_article.pdf))
+- __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs and Emilio Luque. A Generalized Agent-Based Model to Simulate Emergency Departments. The sixth International Conference on Advances in System Simulation. [[slides](file/SIMUL_2014_slide.pdf), [PDF](file/SIMUL_2014_article.pdf)]
 
-- __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs and Emilio Luque. Study of Emergency Department by Using High Performance Computing. XXV Jornadas de Paralelismo Valladolid, Spain. September 2014 ([slides](file/Jornadas_sarteco_2014.pdf)). Jornadas sarteco 2014
+- __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs and Emilio Luque. Study of Emergency Department by Using High Performance Computing. XXV Jornadas de Paralelismo Valladolid, Spain. September 2014 [[slides](file/Jornadas_sarteco_2014.pdf)]. Jornadas sarteco 2014
 
 - __Zhengchun Liu__, Emilio Luque, Dolores Rexachs, Francisco Epelde, Eduardo Cabrera, Manel Taboada González. A Simulator of Emergency Departments for Decision Support and QoS Improving ([poster](file/girona_ict_poster.pdf)). V CONFERENCE: R+D+I Research and Development in ICT and Health. Girona, Spain, June 2014.
 
