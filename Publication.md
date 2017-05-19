@@ -15,7 +15,7 @@ title: Home
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity. Computers & Industrial Engineering, Vol. 103, 2017. [[link](https://doi.org/10.1016/j.cie.2016.11.036), [bib](zhengchun-liu-bibtex.html#abm-calibration), [PDF](file/abm-calibration-zhengchun-liu.pdf)]
 
-- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments. Journal of Computational Science, 2017. [[link](https://doi.org/10.1016/j.jocs.2017.05.015), [Preprint PDF](file/abm-ed-mdl_Zhengchun-Liu.pdf)]
+- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments. Journal of Computational Science, Vol.21, pp 11–23 2017. [[link](https://doi.org/10.1016/j.jocs.2017.05.015), [Preprint PDF](file/abm-ed-mdl_Zhengchun-Liu.pdf)]
 
 - __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. International Journal of Integrated Care, 16(6):A145, pp.1-8 (ICIC'16). [[link](http://www.ijic.org/articles/abstract/10.5334/ijic.2693/), [slides](file/5.8_Zhengchun_Liu_139.pdf)].
 
