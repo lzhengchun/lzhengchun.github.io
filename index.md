@@ -26,8 +26,8 @@ I am interested in Computer Science related research, mainly include:
 ---
 ## Recent Professional Service:
 * Program Co-Chair of the 13th International Workshop on Scheduling and Resource  Management for Parallel and Distributed Systems ([SRMPDS](https://sites.google.com/site/srmpds/) 2017).
-* Review Committee of the 8th International Conference on Advances in System Simulation (SIMUL 2016).
-* Review Committee of the 7th International Conference on Advances in System Simulation (SIMUL 2015).
+* Technical Program Committee of the 8th International Conference on Advances in System Simulation (SIMUL 2016).
+* Technical Program Committee of the 7th International Conference on Advances in System Simulation (SIMUL 2015).
 
 ---
 ## Skills:
