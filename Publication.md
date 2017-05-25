@@ -9,7 +9,7 @@ title: Home
 
 - __Zhengchun Liu__ and Kalyan S. Perumalla. Optimizing High Performance 3D Stencil Computations on Large Scale Heterogeneous Platforms. (_work in progress_, [Preprint PDF](file/B2R-3d.pdf)).
 
-- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. Support managing population aging stress of emergency departments in a computational way. (_to appear in ICCS'17_, [Preprint PDF](file/aging-iccs2017.pdf)).
+- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. Support managing population aging stress of emergency departments in a computational way. 2017 International Conference on Computational Science, ([link](https://doi.org/10.1016/j.procs.2017.05.147), [Preprint PDF](file/aging-iccs2017.pdf)).
 
 - Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan. Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale. Applied Physics Letters, Vol.108, Issue 17. [[link](https://doi.org/10.1063/1.4947533)]
 
