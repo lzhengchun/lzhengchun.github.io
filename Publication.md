@@ -5,7 +5,7 @@ title: Home
 
 - __Zhengchun Liu__ and Emilio Luque. Modeling and Simulation for Healthcare Operations Management using High Performance Computing and Agent-Based Model. [thesis overview] Journal of Computer Science & Technology, Vol. 17, No, 1. 2017. [[link](http://journal.info.unlp.edu.ar/wp-content/uploads/2017/05/JCST-44-Thesis-Overview-2.pdf)]
 
-- __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. Explaining Wide Area Data Transfer Performance. (_to appear in HPDC'17_, [Preprint PDF](http://www.mcs.anl.gov/~zcliu/files/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf)).
+- __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. Explaining Wide Area Data Transfer Performance. (acceptance rate: 19%), (_to appear in HPDC'17_, [Preprint PDF](http://www.mcs.anl.gov/~zcliu/files/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf)).
 
 - __Zhengchun Liu__ and Kalyan S. Perumalla. Optimizing High Performance 3D Stencil Computations on Large Scale Heterogeneous Platforms. (_work in progress_, [Preprint PDF](file/B2R-3d.pdf)).
 
@@ -21,9 +21,9 @@ title: Home
 
 - __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs, Francisco Epelde and Emilio Luque. Simulating the Micro-level Behavior of Emergency Department for Macro-level Features Prediction. 2015 Winter Simulation Conference. [[link](https://doi.org/10.1109/WSC.2015.7408162), [slides](file/Z.Liu-WSC-2015.pdf), [PDF](file/wsc15-micro2macro.pdf)]
 
-- __Zhengchun Liu__, Eduardo Cabrera, Manel Taboada, Francisco Epelde, Dolores Rexachs and Emilio Luque. Quantitative Evaluation of Decision Effects in the Management of Emergency Department Problems. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.265), [bib](zhengchun-liu-bibtex.html#liu-iccs2015)]
+- __Zhengchun Liu__, Eduardo Cabrera, Manel Taboada, Francisco Epelde, Dolores Rexachs and Emilio Luque. Quantitative Evaluation of Decision Effects in the Management of Emergency Department Problems. 2015 International Conference on Computational Science (acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.265), [bib](zhengchun-liu-bibtex.html#liu-iccs2015)]
 
-- Xueping Zhu, __Zhengchun Liu__ and Jun Yang. Model of Collaborative UAV Swarm Toward Coordination and Control Mechanisms Study. 2015 International Conference on Computational Science(acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.274), [slides](file/uav-agent.pdf)]
+- Xueping Zhu, __Zhengchun Liu__ and Jun Yang. Model of Collaborative UAV Swarm Toward Coordination and Control Mechanisms Study. 2015 International Conference on Computational Science (acceptance rate: 79/304 = 26%, [[link](https://doi.org/10.1016/j.procs.2015.05.274), [slides](file/uav-agent.pdf)]
 
 - __Zhengchun Liu__. High Performance Computing Based Simulation for Healthcare Decision Support [[slides](file/zliu-bsc-2015.pdf), [abstract](file/Extended-Research-Abstract.pdf)]. The Second International BSC Doctoral Symposium, Barcelona, Spain. May 5-7, 2015.
 
