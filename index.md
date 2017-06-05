@@ -9,7 +9,7 @@ I am a Postdoctoral Appointee in the [Mathematics and Computer Science Division]
 
 I work with [Rajkumar Kettimuthu](http://www.mcs.anl.gov/~kettimut/) (supervisor), Prof. [Ian Foster](https://www.cs.uchicago.edu/directory/ian-foster), [Prasanna Balaprakash](http://www.mcs.anl.gov/~pbalapra), [Sven Leyffer](https://wiki.mcs.anl.gov/leyffer/index.php/Sven_Leyffer) and [Kyle Chard](https://kylechard.com/) et al. I contribute to the [RAMSES](https://ramsesproject.github.io) (Robust Analytic Models for Science at Extreme Scales) project. 
 
-I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles_ in 2010, from the Northwestern Polytechnic University, China; my master's degree in _Guidance Navigation and Control_ in 2013, from the Northwestern Polytechnic University, China; and my Ph.D. in _Computer Science_ (awarded ___Summa Cum Laude___, the highest honor) in 2016, from the Universitat Autònoma de Barcelona, Spain.
+I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles_ in 2010, from the Northwestern Polytechnic University, China; my master's degree in _Guidance Navigation and Control_ in 2013, from the Northwestern Polytechnic University, China; and my Ph.D. in _Computer Science_ (awarded ___Summa Cum Laude___, the highest honor; and **Internation doctoral research component** mention) in 2016, from the Universitat Autònoma de Barcelona, Spain.
 
 ---
 ## Research Interests:
@@ -25,9 +25,9 @@ I am interested in Computer Science related research, mainly include:
 
 ---
 ## Recent Professional Service:
-* Program Co-Chair of the 13th International Workshop on Scheduling and Resource  Management for Parallel and Distributed Systems ([SRMPDS](https://sites.google.com/site/srmpds/) 2017).
-* Technical Program Committee of the 8th International Conference on Advances in System Simulation (SIMUL 2016).
-* Technical Program Committee of the 7th International Conference on Advances in System Simulation (SIMUL 2015).
+* **Co-Chair** of the 13th International Workshop on Scheduling and Resource  Management for Parallel and Distributed Systems ([SRMPDS](https://sites.google.com/site/srmpds/) 2017).
+* **Technical Program Committee**: the 8th International Conference on Advances in System Simulation (SIMUL 2016); SIMUL 2015.
+* **Subreviewer**: Euro-Par 2017; COMPUTATION TOOLS 2017; CLUSTER 2017;
 
 ---
 ## Skills:
