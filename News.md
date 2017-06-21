@@ -5,6 +5,8 @@ title: What's new
 
 * I gave a talk about "Explaining/Understanding Wide Area Data Transfer Performance" in [GlobusWorld](https://www.globusworld.org/) 2017. ([slides](https://www.globusworld.org/files/2017/12_WAN_Data_Performance_Liu.pdf))
 
+* New paper on explaining wide area data transfer performance was accepted by the 26th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'17), [Preprint PDF](http://www.mcs.anl.gov/~zcliu/files/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf), [Highlight](http://www.mcs.anl.gov/articles/machine-learning-methods-used-develop-data-transfer-performance-models).
+
 * I am organizing the 13th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems as a co-chair, [call for paper](https://sites.google.com/site/srmpds/). 
 
 * I joined the __Argonne National Laboratory__ as a Postdoctoral appointee since Sep. 2016.
