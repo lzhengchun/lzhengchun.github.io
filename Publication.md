@@ -5,7 +5,7 @@ title: Home
 
 - __Zhengchun Liu__ and Emilio Luque. Modeling and Simulation for Healthcare Operations Management using High Performance Computing and Agent-Based Model. [thesis overview] Journal of Computer Science & Technology, Vol. 17, No, 1. 2017. [[link](http://journal.info.unlp.edu.ar/wp-content/uploads/2017/05/JCST-44-Thesis-Overview-2.pdf)]
 
-- __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. Explaining Wide Area Data Transfer Performance. The 26th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'17), ([link](https://doi.org/10.1145/3078597.3078605), [Preprint PDF](http://www.mcs.anl.gov/~zcliu/files/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf), [Highlight](http://www.mcs.anl.gov/articles/machine-learning-methods-used-develop-data-transfer-performance-models)).
+- __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. Explaining Wide Area Data Transfer Performance. The 26th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'17), ([link](https://doi.org/10.1145/3078597.3078605), [Preprint PDF](http://www.mcs.anl.gov/~zcliu/files/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf), [Highlight](http://www.mcs.anl.gov/articles/machine-learning-methods-used-develop-data-transfer-performance-models), [poster](file/hpdc17-poster.pdf), [slides](file/slides-HPDC-2017-Zhengchun-Liu.pdf)).
 
 - __Zhengchun Liu__ and Kalyan S. Perumalla. Optimizing High Performance 3D Stencil Computations on Large Scale Heterogeneous Platforms. (_work in progress_, [Preprint PDF](file/B2R-3d.pdf)).
 
