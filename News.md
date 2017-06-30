@@ -2,6 +2,7 @@
 layout: default
 title: What's new
 ---
+* I attended the HPDC'17 and gave a talk entitled Explaining Wide Area Data Transfer Performance. [slides](slides-HPDC-2017-Zhengchun-Liu.pdf)
 
 * I gave a talk about "Explaining/Understanding Wide Area Data Transfer Performance" in [GlobusWorld](https://www.globusworld.org/) 2017. ([slides](https://www.globusworld.org/files/2017/12_WAN_Data_Performance_Liu.pdf))
 
