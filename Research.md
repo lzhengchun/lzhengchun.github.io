@@ -19,8 +19,8 @@ I am focusing on:
 At the Computational Sciences and Engineering Division in the Oak Ridge National Laboratory. I worked on: 
 
 * A framework for efficient simulation on multi-GPU and multi-Core clusters, it is designed to accommodate the hierarchical organization as well as heterogeneity of current state-of-the-art parallel computing platforms. We design it to support agent-based simulation and 3D finite difference method based simulation (stencil computation); 
-* Interactive, graphical processing unit-based evaluation (faster than real time) of evacuation scenarios at the state scale; [[code & demo](https://github.com/lzhengchun/vehicle-evacuation)]
-* Implemented an earthquake wave propagation model on multiple GPUs using CUDA and the framework described in (1). [[code & demo](https://github.com/lzhengchun/eqwp-opt)]
+* Interactive, graphical processing unit-based evaluation (faster than real time) of evacuation scenarios at the state scale; [[code & demo <i class="fa fa-link" aria-hidden="true"></i>](https://github.com/lzhengchun/vehicle-evacuation)]
+* Implemented an earthquake wave propagation model on multiple GPUs using CUDA and the framework described in (1). [[code & demo <i class="fa fa-link" aria-hidden="true"></i>](https://github.com/lzhengchun/eqwp-opt)]
 
 ---
 ## Agent-Based Model and Simulation of Emergency Department
