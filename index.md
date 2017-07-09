@@ -26,7 +26,7 @@ I am interested in Computer Science related research, mainly include:
 ---
 ## Recent Professional Service:
 * **Co-Chair** of the 13th International Workshop on Scheduling and Resource  Management for Parallel and Distributed Systems ([SRMPDS](https://sites.google.com/site/srmpds/) 2017).
-* **Technical Program Committee**: the 8th International Conference on Advances in System Simulation (SIMUL 2016); SIMUL 2015.
+* **Technical Program Committee**: [SIMUL 2016](https://www.iaria.org/conferences2016/ComSIMUL16.html); [SIMUL 2015](https://www.iaria.org/conferences2015/ComSIMUL15.html); [DAAC 2017](http://www.depts.ttu.edu/cac/conferences/ucc2017/page-2/daacworkshop.html).
 * **Subreviewer**: COMPUTATION TOOLS 2015; Euro-Par 2017; CLUSTER 2017;
 
 ---
