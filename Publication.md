@@ -3,13 +3,14 @@ layout: default
 title: Home
 ---
 
-- __Zhengchun Liu__ and Emilio Luque. Modeling and Simulation for Healthcare Operations Management using High Performance Computing and Agent-Based Model. [thesis overview] *Journal of Computer Science & Technology*, Vol. 17, 2017. [[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://journal.info.unlp.edu.ar/wp-content/uploads/2017/05/JCST-44-Thesis-Overview-2.pdf)] 
+- __Zhengchun Liu__ and Emilio Luque. Modeling and Simulation for Healthcare Operations Management using High Performance Computing and Agent-Based Model. [thesis overview] *Journal of Computer Science & Technology*, Vol. 17, 2017. 
+[[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://journal.info.unlp.edu.ar/wp-content/uploads/2017/05/JCST-44-Thesis-Overview-2.pdf)] 
 
 - __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. Explaining Wide Area Data Transfer Performance. *The 26th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'17)*. (acceptance rate: 19/100 = 19%), ([<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1145/3078597.3078605), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.mcs.anl.gov/~zcliu/files/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf), [Highlight](http://www.mcs.anl.gov/articles/machine-learning-methods-used-develop-data-transfer-performance-models), [poster](file/hpdc17-poster.pdf), [<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/slides-HPDC-2017-Zhengchun-Liu.pdf)). 
 
 - __Zhengchun Liu__ and Kalyan S. Perumalla. Optimizing High Performance 3D Stencil Computations on Large Scale Heterogeneous Platforms. (_work in progress_, [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/B2R-3d.pdf)).
 
-- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. Support managing population aging stress of emergency departments in a computational way. *2017 International Conference on Computational Science*, [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1016/j.procs.2017.05.147), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/aging-iccs2017.pdf)].
+- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. Support managing population aging stress of emergency departments in a computational way. *2017 International Conference on Computational Science*. [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1016/j.procs.2017.05.147), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/aging-iccs2017.pdf)].
 
 - Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan. Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale. *Applied Physics Letters*, Vol.108, January 2017, Pages 300–309. [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1063/1.4947533)].
 
