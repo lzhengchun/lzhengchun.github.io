@@ -2,11 +2,23 @@
 layout: default
 title: What's new
 ---
+* One paper got accepted by the 13th IEEE eSceince international conference. Aug. 8, 2017.
+
+<!---
+* One paper got rejected by SC'17. Although we wrote it in a hurry and failed to make some things clear enough, we do learn a lot from the comments. 
+--->
+
+* One paper got accepted by the 2017 International Conference on Computational Science. May 23, 2017. | [link](https://doi.org/10.1016/j.procs.2017.05.147)
+
 * I attended the HPDC'17 and gave a talk entitled Explaining Wide Area Data Transfer Performance. [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/slides-HPDC-2017-Zhengchun-Liu.pdf)]
 
 * I gave a talk about "Explaining/Understanding Wide Area Data Transfer Performance" in [GlobusWorld](https://www.globusworld.org/) 2017. [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](https://www.globusworld.org/files/2017/12_WAN_Data_Performance_Liu.pdf)]
 
+* One paper is accepted by Journal of Computational Science | [link](https://doi.org/10.1016/j.jocs.2017.05.015). May 10, 2017.
+
 * New paper on explaining wide area data transfer performance was accepted by the 26th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'17), [[Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/Z.Liu-etc-hpdc2017.pdf), [Highlight](http://www.mcs.anl.gov/articles/machine-learning-methods-used-develop-data-transfer-performance-models)].
+
+* One paper is accepted by Computers & Industrial Engineering | [link](https://doi.org/10.1016/j.cie.2016.11.036). Nov. 28, 2017.
 
 * I am organizing the 13th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems as a co-chair, [[call for paper](https://sites.google.com/site/srmpds/)]. 
 
