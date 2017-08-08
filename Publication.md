@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+- __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices. The 13th IEEE International Conference on eScience. (to appear).
+
 - __Zhengchun Liu__ and Emilio Luque. Modeling and Simulation for Healthcare Operations Management using High Performance Computing and Agent-Based Model. [thesis overview] *Journal of Computer Science & Technology*, Vol. 17, 2017. 
 [[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://journal.info.unlp.edu.ar/wp-content/uploads/2017/05/JCST-44-Thesis-Overview-2.pdf)] 
 
