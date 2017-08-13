@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-### Refereed Conference Papers
+## Refereed Conference Papers
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices. The 13th IEEE International Conference on eScience. (to appear).
 
 - __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. Explaining Wide Area Data Transfer Performance. *The 26th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'17)*. (acceptance rate: 19/100 = 19%), ([<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1145/3078597.3078605), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.mcs.anl.gov/~zcliu/files/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf), [Highlight](http://www.mcs.anl.gov/articles/machine-learning-methods-used-develop-data-transfer-performance-models), [poster](file/hpdc17-poster.pdf), [<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/slides-HPDC-2017-Zhengchun-Liu.pdf)). 
@@ -18,14 +18,14 @@ title: Home
 
 - __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs and Emilio Luque. A Generalized Agent-Based Model to Simulate Emergency Departments. *The sixth International Conference on Advances in System Simulation*. [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/SIMUL_2014_slide.pdf), [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/SIMUL_2014_article.pdf)].
 
-### Refereed Journal Papers
+## Refereed Journal Papers
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity. *Computers & Industrial Engineering*, Vol. 103, 2017. [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1016/j.cie.2016.11.036), [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/abm-calibration-zhengchun-liu.pdf)].
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments. *Journal of Computational Science*, Vol.21, July 2017, Pages 11–23. [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1016/j.jocs.2017.05.015), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/abm-ed-mdl_Zhengchun-Liu.pdf)].
 
 - __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. *International Journal of Integrated Care*, 16(6):A145, pp.1-8 (from ICIC'16). [[<i class="ai ai-doi" aria-hidden="true"></i>](http://www.ijic.org/articles/abstract/10.5334/ijic.2693/), [<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/5.8_Zhengchun_Liu_139.pdf)].
 
-### Other Selected Papers
+## Other Selected Papers
 - __Zhengchun Liu__ and Kalyan S. Perumalla. Optimizing High Performance 3D Stencil Computations on Large Scale Heterogeneous Platforms. (_work in progress_, [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/B2R-3d.pdf)).
 
 - Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan. Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale. *Applied Physics Letters*, Vol.108, January 2017, Pages 300–309. [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1063/1.4947533)].
