@@ -12,7 +12,7 @@ I contribute to the <a href="https://ramsesproject.github.io" target="_blank"> R
 
 I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles_ in 2010, from the Northwestern Polytechnic University, China; my master's degree in _Guidance Navigation and Control_ in 2013, from the Northwestern Polytechnic University, China; and my Ph.D. in _Computer Science_ (awarded ___Summa Cum Laude___, the highest honor; and **International doctoral research component** mention) in 2016, from the Universitat Autònoma de Barcelona, Spain.
 
-For more details, please see my curriculum vitae(with [pdf](file/Zhengchun_Liu_CV.pdf) or [html](file/Zhengchun_Liu_CV.html)).
+For more details, please see my curriculum vitae(with  <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">pdf</a> or  <a href="file/Zhengchun_Liu_CV.html" target="_blank">html</a>).
 
 ---
 ## Research Interests:
@@ -43,8 +43,8 @@ I am interested in Computer Science related research, mainly include:
 
 ---
 ## Professional Training & Certifications:
-* Online Course __Neural Networks and Deep Learning__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/J93J6LDKAWFJ" target="_blank"> Certificate </a> earned on August 14, 2017
-* Online Course __Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/DAN32L2EDNUT" target="_blank"> Certificate </a> earned on August 15, 2017
+* Online Course __Neural Networks and Deep Learning__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/J93J6LDKAWFJ" target="_blank">Certificate</a> earned on August 14, 2017
+* Online Course __Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/DAN32L2EDNUT" target="_blank">Certificate</a> earned on August 15, 2017
 * Online Course __Structuring Machine Learning Projects__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/GTUWDPUQJHJB" target="_blank">Certificate</a> earned on August 17, 2017
 * Online Course DAT203x: __Data Science and Machine Learning Essentials__ [HONOR CODE CERTIFICATE](file/) from [edX](https://courses.edx.org/courses/course-v1:Microsoft+DAT203x+1T2016/info) by Microsoft.
 * The [10th Marathon of Parallel Programming Contest](https://courses.edx.org/courses/course-v1:Microsoft+DAT203x+1T2016/info), The ___First___ Place, [Results](http://lspd.mackenzie.br/marathon/last/winners.html).
