@@ -9,7 +9,6 @@ I am a Postdoctoral Appointee in the [Mathematics and Computer Science Division]
 <!---
 I work with [Rajkumar Kettimuthu](http://www.mcs.anl.gov/~kettimut/) (supervisor), Prof. [Ian Foster](https://www.cs.uchicago.edu/directory/ian-foster), [Prasanna Balaprakash](http://www.mcs.anl.gov/~pbalapra), [Sven Leyffer](https://wiki.mcs.anl.gov/leyffer/index.php/Sven_Leyffer) and [Kyle Chard](https://kylechard.com/) et al. --->
 I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles_ in 2010, from the Northwestern Polytechnic University, China; my master's degree in _Guidance Navigation and Control_ in 2013, from the Northwestern Polytechnic University, China; and my Ph.D. in _Computer Science_ (awarded ___Summa Cum Laude___, the highest honor; and **International doctoral research component** mention) in 2016, from the Universitat Autònoma de Barcelona, Spain.
-
 For more details, please see my curriculum vitae, with  <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">html</a>.
 
 ## Research Highlights
