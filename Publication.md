@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Refereed Conference Papers
-- __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices. The 13th IEEE International Conference on eScience. (to appear).
+- __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices. The 13th IEEE International Conference on eScience. (to appear, [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/eScience17-preprint-Liu.pdf)).
 
 - __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. Explaining Wide Area Data Transfer Performance. *The 26th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'17)*. (acceptance rate: 19/100 = 19%), ([<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1145/3078597.3078605), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.mcs.anl.gov/~zcliu/files/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf), [Highlight](http://www.mcs.anl.gov/articles/machine-learning-methods-used-develop-data-transfer-performance-models), [Poster](file/hpdc17-poster.pdf), [Slides <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/slides-HPDC-2017-Zhengchun-Liu.pdf)). 
 
