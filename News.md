@@ -2,6 +2,8 @@
 layout: default
 title: What's new
 ---
+* I accomplished three online course about ***Deep Learning*** taught by on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it. 
+
 * One paper got accepted by the 13th IEEE eSceince international conference. Aug. 8, 2017.
 
 <!---
