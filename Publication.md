@@ -26,7 +26,7 @@ title: Home
 - __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. *International Journal of Integrated Care*, 16(6):A145, pp.1-8 (from ICIC'16). [[<i class="ai ai-doi" aria-hidden="true"></i>](http://www.ijic.org/articles/abstract/10.5334/ijic.2693/), [Slides <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/5.8_Zhengchun_Liu_139.pdf)].
 
 ## Other Selected Papers
-- __Zhengchun Liu__ and Kalyan S. Perumalla. Optimizing High Performance 3D Stencil Computations on Large Scale Heterogeneous Platforms. (_work in progress_, [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/B2R-3d.pdf)).
+- __Zhengchun Liu__ and Kalyan S. Perumalla. Efficient Large-scale Parallel Stencil Computation on Multi-Core and Multi-GPU Accelerated Clusters. (_under peer review_, [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/B2R-3d.pdf)).
 
 - Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan. Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale. *Applied Physics Letters*, Vol.108, January 2017, Pages 300–309. [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1063/1.4947533)].
 
