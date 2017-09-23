@@ -28,6 +28,10 @@ title: Home
 ## Under peer review
 - __Zhengchun Liu__ and Kalyan S. Perumalla. Efficient Large-scale Parallel Stencil Computation on Multi-Core and Multi-GPU Accelerated Clusters. (_under peer review_, [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/B2R-3d.pdf)).
 
+- __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman. Towards a Smart Data Transfer Node
+
+- Rajkumar Kettimuthu, __Zhengchun Liu__, Ian Foster, Katrin Heitmann, Franck Cappello. Transferring a Petabyte in a Day.
+
 ## Other Selected Papers
 
 - Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan. Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale. *Applied Physics Letters*, Vol.108, January 2017, Pages 300–309. [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1063/1.4947533)].
