@@ -25,7 +25,7 @@ title: Home
 
 - __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. *International Journal of Integrated Care*, 16(6):A145, pp.1-8 (from ICIC'16). [[<i class="ai ai-doi" aria-hidden="true"></i>](http://www.ijic.org/articles/abstract/10.5334/ijic.2693/), [Slides <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/5.8_Zhengchun_Liu_139.pdf)].
 
-## Under peer review
+## Under Peer-Review Papers
 - __Zhengchun Liu__ and Kalyan S. Perumalla. Efficient Large-scale Parallel Stencil Computation on Multi-Core and Multi-GPU Accelerated Clusters. (_under peer review_, [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/B2R-3d.pdf)).
 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman. Towards a Smart Data Transfer Node

@@ -31,6 +31,7 @@ He is interested in Computer Science related research, mostly include:
 * **Co-Chair** of the 13th International Workshop on Scheduling and Resource  Management for Parallel and Distributed Systems ([SRMPDS](https://sites.google.com/site/srmpds/) 2017).
 * **Technical Program Committee**: [SIMUL 2016](https://www.iaria.org/conferences2016/ComSIMUL16.html); [SIMUL 2015](https://www.iaria.org/conferences2015/ComSIMUL15.html); [DAAC 2017](http://www.depts.ttu.edu/cac/conferences/ucc2017/page-2/daacworkshop.html).
 * **Subreviewer**: [COMPUTATION TOOLS 2015](https://www.iaria.org/conferences2015/COMPUTATIONTOOLS15.html); [Euro-Par 2017](http://europar2017.usc.es/); [CLUSTER 2017](https://cluster17.github.io/); [HiPC 2017](http://hipc.org/); [WoWS 2017](https://words.sdsc.edu/wows2017);
+* **Journal Reviewer**: [MDPI-Algorithms](http://www.mdpi.com/journal/algorithms);
 
 ---
 ## Skills:
