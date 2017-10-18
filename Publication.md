@@ -6,7 +6,7 @@ title: Home
 ## Refereed Conference Papers
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman. Towards a Smart Data Transfer Node. International Workshop on Innovating the Network for Data Intensive Science in conjunction with SC17 (_to appear_).
 
-- Rajkumar Kettimuthu, __Zhengchun Liu__, Ian Foster, Katrin Heitmann, Franck Cappello. Transferring a Petabyte in a Day. International Workshop on Innovating the Network for Data Intensive Science in conjunction with SC17 (_to appear_).
+- Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello. Transferring a Petabyte in a Day. International Workshop on Innovating the Network for Data Intensive Science in conjunction with SC17 (_to appear_).
 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices. *The 13th IEEE International Conference on eScience (eScience 2017)*. (to appear, [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/eScience17-preprint-Liu.pdf)).
 
