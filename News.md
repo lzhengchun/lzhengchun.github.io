@@ -4,7 +4,7 @@ title: What's new
 ---
 * Two papers got accepted by the 4th International Workshop on Innovating the Network for Data Intensive Science (INDIS) 2017 held in conjunction with SC'17. Oct. 13, 2017.
 
-* I accomplished three online courses about ***Deep Learning*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it. 
+* I accomplished three online courses about ***Deep Learning*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it. Aug. 14, 2017.
 
 * One paper got accepted by the 13th IEEE eSceince international conference. Aug. 8, 2017.
 
