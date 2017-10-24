@@ -5,19 +5,19 @@ title: Home
 
 ## Short Bio.
 
-Zhengchun is a Postdoctoral Appointee in the [Mathematics and Computer Science Division](http://www.mcs.anl.gov/person/zhengchun-liu) at [Argonne National Laboratory](http://www.anl.gov/). 
+I am a Postdoctoral Appointee in the [Mathematics and Computer Science Division](http://www.mcs.anl.gov/person/zhengchun-liu) at [Argonne National Laboratory](http://www.anl.gov/). 
 <!---
 I work with [Rajkumar Kettimuthu](http://www.mcs.anl.gov/~kettimut/) (supervisor), Prof. [Ian Foster](https://www.cs.uchicago.edu/directory/ian-foster), [Prasanna Balaprakash](http://www.mcs.anl.gov/~pbalapra), [Sven Leyffer](https://wiki.mcs.anl.gov/leyffer/index.php/Sven_Leyffer) and [Kyle Chard](https://kylechard.com/) et al. --->
-He received his bachelor's degree in _Manufacturing Engineering of Flight Vehicles_ in 2010 and his master's degree in _Guidance Navigation and Control_ in 2013, both from the Northwestern Polytechnic University, China; and his Ph.D. in _Computer Science_ (awarded ___Summa Cum Laude___, the highest honor; and **International doctoral research component** mention) in 2016, from the Universitat Autònoma de Barcelona, Spain.
-For more details, please see his curriculum vitae, with  <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">html</a>.
+I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles_ in 2010 and my master's degree in _Guidance Navigation and Control_ in 2013, both from the Northwestern Polytechnic University, China; and my Ph.D. in _Computer Science_ (awarded ___Summa Cum Laude___, the highest honor; and **International doctoral research component** mention) in 2016, from the Universitat Autònoma de Barcelona, Spain.
+For more details and contact info, please see my curriculum vitae with <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">html</a>.
 
 ## Research Highlights
-Zhengchun develops end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. These models are developed to __predict__ the behavior of a science workflow before it is implemented, to __explain__ why performance does not meet design goals, and to architect science environments to meet workflow needs. Powered by the ability of __explain__ and __predict__ performance, He also works on smart computing which adds smartness to computing edges. He contributes to the DoE <a href="https://ramsesproject.github.io" target="_blank"> RAMSES </a> (Robust Analytic Models for Science at Extreme Scales) project. 
+At Argonne, I develop end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. These models are developed to __predict__ the behavior of a science workflow before it is implemented, to __explain__ why performance does not meet design goals, and to architect science environments to meet workflow needs. Powered by the ability of __explain__ and __predict__ performance, I also work on smart computing which adds smartness to computing edges. I contribute to the DoE <a href="https://ramsesproject.github.io" target="_blank"> RAMSES </a> (Robust Analytic Models for Science at Extreme Scales) project. 
 
 ---
 ## Research Interests:
 
-He is interested in Computer Science related research, mostly include:
+I am interested in Computer Science related research, mostly include:
 
 * Wide-area data transfer, GridFTP/Globus.org, explaining, modeling & optimizing data transfer 
 * High Performance Computing, Big-Data and Data Mining, Feature Engineering
@@ -58,5 +58,5 @@ He is interested in Computer Science related research, mostly include:
 ---
 <span style="color:blue">
 ***NEWS***: 
-We are looking for intern students, contact me if you have experience or interests in: large scale network simulation or modeling and simulation for HPC systems or performance modeling of workflow over distributed infrastructure.
+We are looking for intern students, contact me if you have experience or are interested in any one of: performance modeling, simulation, high performance computing, distributed systems, workflow over distributed infrastructure.
 </span>.
