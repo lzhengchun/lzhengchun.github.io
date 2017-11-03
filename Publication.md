@@ -27,7 +27,7 @@ title: Home
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments. *Journal of Computational Science*, Vol.21, July 2017, Pages 11–23. [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1016/j.jocs.2017.05.015), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/abm-ed-mdl_Zhengchun-Liu.pdf)].
 
-- __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. *International Journal of Integrated Care*, 16(6):A145, pp.1-8 (from ICIC'16). [[<i class="ai ai-doi" aria-hidden="true"></i>](http://www.ijic.org/articles/abstract/10.5334/ijic.2693/), [Slides <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/5.8_Zhengchun_Liu_139.pdf)].
+- __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. *International Journal of Integrated Care*, 16(6):A145 (from ICIC'16). [[<i class="ai ai-doi" aria-hidden="true"></i>](http://www.ijic.org/articles/abstract/10.5334/ijic.2693/), [Slides <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/5.8_Zhengchun_Liu_139.pdf)].
 
 ## Under Peer-Review Papers
 - __Zhengchun Liu__ and Kalyan S. Perumalla. Efficient Large-scale Parallel Stencil Computation on Multi-Core and Multi-GPU Accelerated Clusters. (_under peer review_, [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/B2R-3d.pdf)).
