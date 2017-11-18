@@ -2,6 +2,8 @@
 layout: default
 title: What's new
 ---
+* I attended the [SC'17](http://sc17.supercomputing.org) and gave a talk entitled "Towards a Smart Data Transfer Node", [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](https://scinet.supercomputing.org/workshop/sites/default/files/liu-smart_dtn.pdf)]. 
+
 * Two papers got accepted by the 4th International Workshop on Innovating the Network for Data Intensive Science (INDIS) 2017 held in conjunction with SC'17. Oct. 13, 2017.
 
 * I accomplished three online courses about ***Deep Learning*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it. Aug. 14, 2017.
