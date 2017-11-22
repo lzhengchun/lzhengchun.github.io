@@ -2,7 +2,7 @@
 layout: default
 title: What's new
 ---
-* I attended the [SC'17](http://sc17.supercomputing.org) and gave a talk entitled "Towards a Smart Data Transfer Node", [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](https://scinet.supercomputing.org/workshop/sites/default/files/liu-smart_dtn.pdf)]. 
+* I attended the [SC'17](http://sc17.supercomputing.org) and gave a talk entitled "Towards a Smart Data Transfer Node" [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](https://scinet.supercomputing.org/workshop/sites/default/files/liu-smart_dtn.pdf)] at the the Innovating the Network for Data-Intensive Science workshop. 
 
 * Two papers got accepted by the 4th International Workshop on Innovating the Network for Data Intensive Science (INDIS) 2017 held in conjunction with SC'17. Oct. 13, 2017.
 
