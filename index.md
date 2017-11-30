@@ -32,7 +32,7 @@ I am interested in Computer Science related research, mostly include:
 ## Recent Professional Service:
 * **Co-Chair** of the 13th International Workshop on Scheduling and Resource  Management for Parallel and Distributed Systems ([SRMPDS](https://sites.google.com/site/srmpds/) 2017).
 * **Technical Program Committee**: [SIMUL 2016](https://www.iaria.org/conferences2016/ComSIMUL16.html); [SIMUL 2015](https://www.iaria.org/conferences2015/ComSIMUL15.html); [DAAC 2017](http://www.depts.ttu.edu/cac/conferences/ucc2017/page-2/daacworkshop.html).
-* **Subreviewer**: [COMPUTATION TOOLS 2015](https://www.iaria.org/conferences2015/COMPUTATIONTOOLS15.html); [Euro-Par 2017](http://europar2017.usc.es/); [CLUSTER 2017](https://cluster17.github.io/); [HiPC 2017](http://hipc.org/); [WoWS 2017](https://words.sdsc.edu/wows2017);
+* **Subreviewer**: [COMPUTATION TOOLS 2015](https://www.iaria.org/conferences2015/COMPUTATIONTOOLS15.html); [Euro-Par 2017](http://europar2017.usc.es/); [CLUSTER 2017](https://cluster17.github.io/); [HiPC 2017](http://hipc.org/); [WoWS 2017](https://words.sdsc.edu/wows2017); [IPDPS 2018](http://www.ipdps.org/ipdps2018/2018_call_for_papers.html);
 * **Journal Reviewer**: [Algorithms-MDPI](http://www.mdpi.com/journal/algorithms);
 
 ---
@@ -46,6 +46,7 @@ I am interested in Computer Science related research, mostly include:
 
 ---
 ## Professional Training & Certifications:
+* Online Course __Convolutional Neural Networks__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/convolutional-neural-networks). <a href="https://www.coursera.org/account/accomplishments/certificate/PS2LT4WMR7M8" target="_blank">Certificate</a> earned on November 30, 2017
 * Online Course __Structuring Machine Learning Projects__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/GTUWDPUQJHJB" target="_blank">Certificate</a> earned on August 17, 2017
 * Online Course __Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/DAN32L2EDNUT" target="_blank">Certificate</a> earned on August 15, 2017
 * Online Course __Neural Networks and Deep Learning__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/J93J6LDKAWFJ" target="_blank">Certificate</a> earned on August 14, 2017

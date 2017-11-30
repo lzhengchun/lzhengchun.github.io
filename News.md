@@ -13,6 +13,7 @@ title: What's new
 <!---
 * One paper got rejected by SC'17. Although we wrote it in a hurry and failed to make some things clear enough, we do learn a lot from the comments. 
 --->
+* I accomplished the online courses about Convolutional Neural Networks taught by Andrew Ng on coursera. Nov. 14, 2017.
 
 * One paper got accepted by the 2017 International Conference on Computational Science. May 23, 2017. [link](https://doi.org/10.1016/j.procs.2017.05.147)
 
