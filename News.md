@@ -2,18 +2,18 @@
 layout: default
 title: What's new
 ---
+* I accomplished three online courses about ***Convolutional Neural Networks*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it. Aug. 14, 2017.
+
 * I attended the [SC'17](http://sc17.supercomputing.org) and gave a talk entitled "Towards a Smart Data Transfer Node" [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](https://scinet.supercomputing.org/workshop/sites/default/files/liu-smart_dtn.pdf)] at the the Innovating the Network for Data-Intensive Science workshop. 
 
 * Two papers got accepted by the 4th International Workshop on Innovating the Network for Data Intensive Science (INDIS) 2017 held in conjunction with SC'17. Oct. 13, 2017.
-
-* I accomplished three online courses about ***Deep Learning*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it. Aug. 14, 2017.
 
 * One paper got accepted by the 13th IEEE eSceince international conference. Aug. 8, 2017.
 
 <!---
 * One paper got rejected by SC'17. Although we wrote it in a hurry and failed to make some things clear enough, we do learn a lot from the comments. 
 --->
-* I accomplished the online courses about Convolutional Neural Networks taught by Andrew Ng on coursera. Nov. 14, 2017.
+* I accomplished the online courses about ***Deep Learning*** taught by Andrew Ng on coursera. Nov. 14, 2017.
 
 * One paper got accepted by the 2017 International Conference on Computational Science. May 23, 2017. [link](https://doi.org/10.1016/j.procs.2017.05.147)
 
