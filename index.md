@@ -63,6 +63,6 @@ I am interested in Computer Science related research, mostly include:
 We are looking for intern students, contact me if you have experience or are interested in any one of: performance modeling, simulation, high performance computing, distributed systems, workflow over distributed infrastructure and smart computing/storage/network.
 </span>
 
-<span style="color:#B32000">
-Call for paper for the 14th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems
-</span>[SRMPDS'18](https://easychair.org/cfp/srmpds2018).
+<span style="color:#E5D807">
+Call for paper for the 14th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems [SRMPDS'18](https://easychair.org/cfp/srmpds2018).
+</span>
