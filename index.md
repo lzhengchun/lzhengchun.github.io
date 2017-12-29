@@ -64,5 +64,5 @@ We are looking for intern students, contact me if you have experience or are int
 </span>
 
 <span style="color:#B32000">
-Call for paper for the 14th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems [SRMPDS'18](https://easychair.org/cfp/srmpds2018).
-</span>
+Call for paper for the 14th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems
+</span>[SRMPDS'18](https://easychair.org/cfp/srmpds2018).
