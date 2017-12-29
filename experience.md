@@ -38,25 +38,25 @@ Visiting Researcher, Host: ___Kalyan S. Perumalla___
 ### Software Engineer (Part-time) 2010.05 – 2013.06 | Xi'an FengLiTong Electronic CO. LTD
 Application development on an ARM Cortex-M3 with μC/OS-II platform. More specifically, I was in charge of: 
 
-- μC/OS-II real-time operating system porting and public library development; 
+1. μC/OS-II real-time operating system porting and public library development; 
 
-- USB driver and filesystem development for pen-drive drive in order to export historical records from the embedded device to an USB drive, and load configuration files and system firmware from the USB drive; 
+2. USB driver and filesystem development for pen-drive drive in order to export historical records from the embedded device to an USB drive, and load configuration files and system firmware from the USB drive; 
 
-- OTA (On The Air technology) firmware upgrade, this subsystem handles the firmware upgrade request from the client side. It includes request and download firmware data from server and flash embedded device itself with new firmware (through In Application Program); 
+3. OTA (On The Air technology) firmware upgrade, this subsystem handles the firmware upgrade request from the client side. It includes request and download firmware data from server and flash embedded device itself with new firmware (through In Application Program); 
 
-- Reliable communication via GSM network (GPRS); 
+4. Reliable communication via GSM network (GPRS); 
 
-- GPS module driver developing and location data parsing. 
+5. GPS module driver developing and location data parsing. 
 
 Backend software development of a communication server for million of embedded devices, on Linux. 
 
-- This server works as a bridge for terminal devices and users, terminal devices report their real time information each minute (or even 15 seconds) and some unpredictable alarm events. 
+1. This server works as a bridge for terminal devices and users, terminal devices report their real time information each minute (or even 15 seconds) and some unpredictable alarm events. 
 
-- The server needs to receive, store these information, and push subscribed events to user's client. 
+2. The server needs to receive, store these information, and push subscribed events to user's client. 
 
-- The users also can send some control and query requests to terminal devices through their clients, and the server needs to push these requests to the corresponding terminals and handle responses from the terminals. This service program runs on a distributed system.
+3. The users also can send some control and query requests to terminal devices through their clients, and the server needs to push these requests to the corresponding terminals and handle responses from the terminals. This service program runs on a distributed system.
 
 ### Product (Outsourcing Service) 2010.09 – 2013.07
-- Graphic HMIs (Human Machine Interfaces) based integrated power management for ambulances. This power management system consist of two parts, user-side HMIs and command executing embedded device. The main challeng includes high reliability, and PCB layout due to heavy current and high power. In this project, my work include embedded hardware design and firmware development, i.e., from customer's requirements to the final production. 
+1. Graphic HMIs (Human Machine Interfaces) based integrated power management for ambulances. This power management system consist of two parts, user-side HMIs and command executing embedded device. The main challeng includes high reliability, and PCB layout due to heavy current and high power. In this project, my work include embedded hardware design and firmware development, i.e., from customer's requirements to the final production. 
 
-- I cooperated with the company directly to design a temperature control and management system for machine tool's cooling oil. This embedded system was based on a 8051 MCU, system hardware includes sensors, user function keys, and display; software includes user operation response, sensor data processing and control logic.
+2. I cooperated with the company directly to design a temperature control and management system for machine tool's cooling oil. This embedded system was based on a 8051 MCU, system hardware includes sensors, user function keys, and display; software includes user operation response, sensor data processing and control logic.
