@@ -41,7 +41,7 @@ Visiting Researcher, Host: ___Kalyan S. Perumalla___
 
 ## Engineering Work Experience
 ### Software Engineer (Part-time) 2010.05 – 2013.06 | Xi'an FengLiTong Electronic CO. LTD
-Application development on an ARM Cortex-M3 with μC/OS-II platform. More specifically, I was in charge of: 
+__Application development on an ARM Cortex-M3 with μC/OS-II platform. More specifically, I was in charge of:__ 
 
 1. μC/OS-II real-time operating system porting and public library development; 
 
@@ -53,7 +53,7 @@ Application development on an ARM Cortex-M3 with μC/OS-II platform. More specif
 
 5. GPS module driver developing and location data parsing. 
 
-Backend software development of a communication server for million of embedded devices, on Linux. 
+__Backend software development of a communication server for millions of embedded devices, on Linux.__
 
 1. This server works as a bridge for terminal devices and users, terminal devices report their real time information each minute (or even 15 seconds) and some unpredictable alarm events. 
 
