@@ -32,6 +32,7 @@ Visiting Researcher, Host: ___Kalyan S. Perumalla___
 - Learned and earned collaborative leadership. 
 - Six-Degree-of-Freedom ﬂight dynamics model of ﬁxed-wing drone.
 
+---
 
 ## Engineering Work Experience
 ### Software Engineer (Part-time) 2010.05 – 2013.06 | Xi'an FengLiTong Electronic CO. LTD
@@ -54,8 +55,6 @@ Backend software development of a communication server for million of embedded d
 - The server needs to receive, store these information, and push subscribed events to user's client. 
 
 - The users also can send some control and query requests to terminal devices through their clients, and the server needs to push these requests to the corresponding terminals and handle responses from the terminals. This service program runs on a distributed system.
-
----
 
 ### Product (Outsourcing Service) 2010.09 – 2013.07
 - Graphic HMIs (Human Machine Interfaces) based integrated power management for ambulances. This power management system consist of two parts, user-side HMIs and command executing embedded device. The main challeng includes high reliability, and PCB layout due to heavy current and high power. In this project, my work include embedded hardware design and firmware development, i.e., from customer's requirements to the final production. 
