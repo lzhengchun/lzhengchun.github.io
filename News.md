@@ -2,6 +2,8 @@
 layout: default
 title: What's new
 ---
+* I accomplished three online courses about ***Sequence Models*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it in practice. Feb. 04, 2018.
+
 * I accomplished three online courses about ***Convolutional Neural Networks*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it. Nov. 30, 2017.
 
 * I attended the [SC'17](http://sc17.supercomputing.org) and gave a talk entitled "Towards a Smart Data Transfer Node" [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](https://scinet.supercomputing.org/workshop/sites/default/files/liu-smart_dtn.pdf)] at the the Innovating the Network for Data-Intensive Science workshop. 

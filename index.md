@@ -45,6 +45,7 @@ I am interested in Computer Science related research, mostly include:
 
 ---
 ## Professional Training & Certifications:
+* Online Course __Sequence Models__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/nlp-sequence-models/home/welcome). <a href="https://www.coursera.org/account/accomplishments/certificate/98J8RFKMCGAA" target="_blank">Certificate</a> earned on February 4, 2018
 * Online Course __Convolutional Neural Networks__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/convolutional-neural-networks). <a href="https://www.coursera.org/account/accomplishments/certificate/PS2LT4WMR7M8" target="_blank">Certificate</a> earned on November 30, 2017
 * Online Course __Structuring Machine Learning Projects__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/GTUWDPUQJHJB" target="_blank">Certificate</a> earned on August 17, 2017
 * Online Course __Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/DAN32L2EDNUT" target="_blank">Certificate</a> earned on August 15, 2017
