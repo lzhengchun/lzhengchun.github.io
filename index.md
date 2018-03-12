@@ -4,8 +4,7 @@ title: Home
 ---
 
 ## Short Bio.
-
-I am a Postdoctoral Appointee in the [Mathematics and Computer Science Division](http://www.mcs.anl.gov/person/zhengchun-liu) at [Argonne National Laboratory](http://www.anl.gov/), closely working with <a href="http://www.mcs.anl.gov/~kettimut/" target="_blank">Dr. Rajkumar Kettimuthu</a> and <a href="https://www.cs.uchicago.edu/directory/ian-foster" target="_blank">Prof. Ian Foster</a>.
+I am a Research Scientist at the Computation Institute of the University of Chicago. I also hold a Joint Appointment at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory. I closely work with <a href="http://www.mcs.anl.gov/~kettimut/" target="_blank">Dr. Rajkumar Kettimuthu</a> and <a href="https://www.cs.uchicago.edu/directory/ian-foster" target="_blank">Prof. Ian Foster</a>. Before this, I was a Postdoctoral Appointee in the [Mathematics and Computer Science Division](http://www.mcs.anl.gov/person/zhengchun-liu) at [Argonne National Laboratory](http://www.anl.gov/)
 <!---
 I work with [Rajkumar Kettimuthu](http://www.mcs.anl.gov/~kettimut/) (supervisor), Prof. [Ian Foster](https://www.cs.uchicago.edu/directory/ian-foster), [Prasanna Balaprakash](http://www.mcs.anl.gov/~pbalapra), [Sven Leyffer](https://wiki.mcs.anl.gov/leyffer/index.php/Sven_Leyffer) and [Kyle Chard](https://kylechard.com/) et al. --->
 I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles_ in 2010 and my master's degree in _Guidance, Navigation and Control_ in 2013, both from the Northwestern Polytechnic University, China; and my Ph.D. in _Computer Science_ (awarded the highest honor ___Summa Cum Laude___; and **International doctoral research component** mention) in 2016, from the Universitat Autònoma de Barcelona, Spain, under the supervision of <a href="http://grupsderecerca.uab.cat/hpc4eas/Emilio.Luque" target="_blank">Prof. Emilio Luque</a>.
