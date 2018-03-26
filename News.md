@@ -2,6 +2,8 @@
 layout: default
 title: What's new
 ---
+* One paper on "_Cross-geography Scientific Data Transfer Trends and User Behavior Patterns_" was accepted by the 27th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'18),
+
 * I accomplished three online courses about ***Sequence Models*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it in practice. Feb. 04, 2018.
 
 * I accomplished three online courses about ***Convolutional Neural Networks*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it. Nov. 30, 2017.

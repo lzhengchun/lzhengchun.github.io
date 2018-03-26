@@ -4,6 +4,8 @@ title: Home
 ---
 
 ## Refereed Conference Papers
+- __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Nageswara S.V. Rao. Cross-geography Scientific Data Transfer Trends and User Behavior Patterns. *The 27th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2018)*. (_to appear_). (acceptance rate: 22/112 = 19%),
+
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman. Towards a Smart Data Transfer Node. International Workshop on Innovating the Network for Data Intensive Science (INDIS) in conjunction with SC'17 (_to appear_).
 
 - Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello. Transferring a Petabyte in a Day. International Workshop on Innovating the Network for Data Intensive Science (INDIS) in conjunction with SC'17 (_to appear_).
