@@ -4,7 +4,15 @@ title: Experience
 ---
 
 ## Research Work Experience
-### Argonne National Laboratory, United States 2016.09 - present 
+### University of Chicago, United States 2018.03 - present 
+Research Scientist at the Computation Institute
+
+- Performance modeling and characterization of high performance computing system.
+- Design a scalable architecture for smart science ecosystems.
+- Explore methods for distributed and autonomous management of the systems.
+- Embed intelligence in relevant computer systems via machine learning
+
+### Argonne National Laboratory, United States 2016.09 - 2018.03 
 Postdoctoral Appointee, Advisor: ___Rajkumar Kettimuthu___, Mentor: ___Sven Leyﬀer___
 
 - Building robust analytic models for science at extreme scales
@@ -65,3 +73,6 @@ __Backend software development of a communication server for millions of embedde
 1. Graphic HMIs (Human Machine Interfaces) based integrated power management for ambulances. This power management system consist of two parts, user-side HMIs and command executing embedded device. The main challeng includes high reliability, and PCB layout due to heavy current and high power. In this project, my work include embedded hardware design and firmware development, i.e., from customer's requirements to the final production. 
 
 2. I cooperated with the company directly to design a temperature control and management system for machine tool's cooling oil. This embedded system was based on a 8051 MCU, system hardware includes sensors, user function keys, and display; software includes user operation response, sensor data processing and control logic.
+
+## Muchuan, Leshan, Sichuan, China
+I grew up in this small, peaceful and beautiful village. It's in the south-west part of China, and you can find its location on the Google [map](https://goo.gl/maps/fqLh5LQxBYM2). My hometown is famous for Bamboo Sea. The forest coverage rate is as high as 77%, it is known as "natural oxygen bar".

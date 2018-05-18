@@ -4,11 +4,13 @@ title: Home
 ---
 
 ## Refereed Conference Papers
-- __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Nageswara S.V. Rao. Cross-geography Scientific Data Transfer Trends and User Behavior Patterns. *The 27th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2018)*. (_to appear_). (acceptance rate: 22/112 = 19%),
+- Rajkumar Kettimuthu, __Zhengchun Liu__, Ian Foster, Peter H. Beckman, Alex Sim, John Wu, Wei-keng Liao, Qiao Kang, Ankit Agrawal, and Alok Choudhary. 2018. Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues. In Proceedings of the 1st AI-Science workshop in conjunction with HPDC'18, (_to appear_).
 
-- __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman. Towards a Smart Data Transfer Node. International Workshop on Innovating the Network for Data Intensive Science (INDIS) in conjunction with SC'17 (_to appear_).
+- __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Nageswara S.V. Rao. [Cross-geography Scientific Data Transferring Trends and Behavior](https://doi.org/10.1145/3208040.3208053). *The 27th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2018)*, (_to appear_), (acceptance rate: 22/112 = 19%).
 
-- Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello. Transferring a Petabyte in a Day. International Workshop on Innovating the Network for Data Intensive Science (INDIS) in conjunction with SC'17 (_to appear_).
+- __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman. Towards a Smart Data Transfer Node. International Workshop on Innovating the Network for Data Intensive Science (INDIS) in conjunction with SC'17.
+
+- Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello. Transferring a Petabyte in a Day. International Workshop on Innovating the Network for Data Intensive Science (INDIS) in conjunction with SC'17.
 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices. *The 13th IEEE International Conference on eScience (eScience 2017)*. ([<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1109/eScience.2017.27), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/eScience17-preprint-Liu.pdf)<!--, <a class="btn btn-primary btn-outline btn-xs" href="file/eScience17-preprint-Liu.pdf" target="_blank">Preprint</a>-->). 
 
@@ -31,7 +33,11 @@ title: Home
 
 - __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque. A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance. *International Journal of Integrated Care*, 16(6):A145 (from ICIC'16). [[<i class="ai ai-doi" aria-hidden="true"></i>](http://www.ijic.org/articles/abstract/10.5334/ijic.2693/), [Slides <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/5.8_Zhengchun_Liu_139.pdf)].
 
+## Invited Paper
+- __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Yuanlai Liu. A comprehensive study of wide area data movement at a scientific computing facility. Scalable Network Traffic Analytics workshop in conjunction with the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS'18). [[Preprint](file/snta-18.pdf)]
+
 ## Under Peer-Review Papers
+
 - __Zhengchun Liu__ and Kalyan S. Perumalla. Efficient Large-scale Parallel Stencil Computation on Multi-Core and Multi-GPU Accelerated Clusters. (_under peer review_, [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/B2R-3d.pdf)).
 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash and Ian Foster. 
