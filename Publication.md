@@ -10,8 +10,6 @@ title: Home
 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman. Towards a Smart Data Transfer Node. International Workshop on Innovating the Network for Data Intensive Science (INDIS) in conjunction with SC'17, [Preprint](file/indis17.pdf).
 
-- Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello. Transferring a Petabyte in a Day. International Workshop on Innovating the Network for Data Intensive Science (INDIS) in conjunction with SC'17, [Preprint](file/1pb-indis17.pdf).
-
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices. *The 13th IEEE International Conference on eScience (eScience 2017)*. ([<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1109/eScience.2017.27), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/eScience17-preprint-Liu.pdf)<!--, <a class="btn btn-primary btn-outline btn-xs" href="file/eScience17-preprint-Liu.pdf" target="_blank">Preprint</a>-->). 
 
 - __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster. Explaining Wide Area Data Transfer Performance. *The 26th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2017)*. (acceptance rate: 19/100 = 19%), ([<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1145/3078597.3078605), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://www.mcs.anl.gov/~zcliu/file/Explaining%20Wide%20Area%20Data%20Transfer%20Performance.pdf), [Highlight](http://www.mcs.anl.gov/articles/machine-learning-methods-used-develop-data-transfer-performance-models), [Poster](file/hpdc17-poster.pdf), [Slides <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/slides-HPDC-2017-Zhengchun-Liu.pdf)). 
@@ -27,6 +25,8 @@ title: Home
 - __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs and Emilio Luque. A Generalized Agent-Based Model to Simulate Emergency Departments. *The sixth International Conference on Advances in System Simulation(SIMUL 2014)*. [[Slides <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/SIMUL_2014_slide.pdf), [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/SIMUL_2014_article.pdf)].
 
 ## Refereed Journal Papers
+- Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello. Transferring a Petabyte in a Day. Future Generation Computer Systems (FGCS), [Preprint](file/1pb-indis17.pdf).
+
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity. *Computers & Industrial Engineering*, Vol. 103, 2017. [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1016/j.cie.2016.11.036), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/abm-calibration-zhengchun-liu.pdf)].
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque. An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments. *Journal of Computational Science*, Vol.21, July 2017, Pages 11–23. [[<i class="ai ai-doi" aria-hidden="true"></i>](https://doi.org/10.1016/j.jocs.2017.05.015), [Preprint <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](file/abm-ed-mdl_Zhengchun-Liu.pdf)].
