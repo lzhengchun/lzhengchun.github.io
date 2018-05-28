@@ -19,9 +19,9 @@ At Argonne, I develop end-to-end analytical performance models to transform unde
 I am interested in Computer Science related research, mostly include:
 
 * Wide-area data transfer, GridFTP/Globus.org, explaining, modeling & optimizing data transfer 
+* Data Science and Learning for Infrastructure
 * High Performance Computing, Big-Data and Data Mining, Feature Engineering
 * Machine Learning and Artificial Intelligence
-* Complex System, Modeling and Simulation, Agent Based Modeling and Simulation
 * Embedded Technique, Real-Time Operating System
 * Decision Support System, Operations Research
 
