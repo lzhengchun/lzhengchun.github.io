@@ -3,11 +3,18 @@ layout: default
 title: Home
 ---
 
+## Extreme Scale Systems for Machine Learning
+
+This project focuses on the greatest challenges in utilizing HPC, especially the upcoming [Aurora](http://aurora.alcf.anl.gov/) exascale supercomputer at Argonne National Laboratory, for machine learning. It seeks to optimize methods for exploiting data parallelism, model parallelism, ensembles, and parameter search. 
+
+In recent years, the models and data available for machine learning applications have grown dramatically. Extreme Scale HPC systems offer the opportunity to further accelerate performance and deepen understanding of large data sets through machine learning. However, current literature and public implementations are mostly focussed on either cloud‐based or small‐scale GPU environments. For example, these implementations do not make the best use of low latency inter-node communication in HPC environment (e.g., RMDA), one of the biggest advantages of a supercomputer. To leverage extreme scale system for ML applications, serious advances are required in both algorithms and their scalable, parallel implementations. Examples include training large models on large scientific data, facilitating very large ensembles and addressing inherent problems (e.g., noisy, missing data, scalable ingest) associated with large datasets.
+
+---
 ## RAMSES: Robust Analytic Models for Science at Extreme Scales 
 
 At the Mathematics and Computer Science in the Argonne National Laboratory. I develop end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. These models are developed to predict the behavior of a science workflow before it is implemented, to explain why performance does not meet design goals, and to architect science environments to meet workflow needs. 
 
-I am focused on: 
+I focus on: 
 
 * Modeling and simulating end-to-end data transfers over wide-area network;
 * Analyzing [www.globus.org](www.globus.org) transfer log towards explaining the wide-area network data transfer performance;
