@@ -2,6 +2,8 @@
 layout: default
 title: What's new
 ---
+* Our paper on "_Transferring a Petabyte in a Day_" has been accepted to publish in __Future Generation Computer Systems__. Click [HERE](https://authors.elsevier.com/a/1XAho,3q5xSI18) to download for free before July 26, 2018. 
+
 * One paper on "_Cross-geography Scientific Data Transfer Trends and User Behavior Patterns_" was accepted by the 27th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'18),
 
 * I accomplished three online courses about ***Sequence Models*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it in practice. Feb. 04, 2018.
