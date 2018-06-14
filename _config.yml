@@ -1,8 +1,8 @@
 gems:
   - jekyll-seo-tag
 title: Zhengchun Liu's Home Page
-description: Zhengchun Liu is a Postdoctoral Appointee in the Mathematics and Computer Science Division at Argonne National Laboratory. He works on developing end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. His work is motivated by developing models to predict the behavior of a science workflow before it is implemented, to explain why performance does not meet design goals, and to architect science environments to meet workflow needs.
-url: http://zliu.info
+description: Zhengchun Liu is a  Research Scientist at the Computation Institute of the University of Chicago.
+url: https://lzhengchun.github.io/
 social:
   name: Zhengchun Liu
   links:
@@ -12,7 +12,6 @@ social:
     - http://linkedin.com/in/liuzhengchun
     - http://www.mcs.anl.gov/~zcliu/
     - https://sites.google.com/site/liuzhengchun/
-    - https://lzhengchun.github.io/
 show_downloads: 
 google_analytics: UA-61001376-1
 theme: 
