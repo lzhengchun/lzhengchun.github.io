@@ -6,6 +6,10 @@ title: What's new
 
 * __May 22, 2018__ Our paper on "_Transferring a Petabyte in a Day_" has been accepted to publish in __Future Generation Computer Systems__.
 
+* __May 14, 2018__ An invited paper entitled [A comprehensive study of wide area data movement at a scientific computing](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf) was submitted to the Scalable Network Traffic Analytics workshop in conjunction with the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS’18) (SNTA’18).
+
+* __May 8, 2018__ Paper on [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) was accepted to present at the 1st AI-Science workshop held in conjunction with HPDC'18.
+
 * One paper on "_Cross-geography Scientific Data Transfer Trends and User Behavior Patterns_" was accepted by the 27th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'18),
 
 * I accomplished an online course about ***Sequence Models*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it in practice. Feb. 04, 2018.

@@ -10,7 +10,7 @@ This project focuses on the greatest challenges in utilizing HPC, especially the
 In recent years, the models and data available for machine learning applications have grown dramatically. Extreme Scale HPC systems offer the opportunity to further accelerate performance and deepen understanding of large data sets through machine learning. However, current literature and public implementations are mostly focussed on either cloud‐based or small‐scale GPU environments. For example, these implementations do not make the best use of low latency inter-node communication in HPC environment (e.g., RMDA), one of the biggest advantages of a supercomputer. To leverage extreme scale system for ML applications, serious advances are required in both algorithms and their scalable, parallel implementations. Examples include training large models on large scientific data, facilitating very large ensembles and addressing inherent problems (e.g., noisy, missing data, scalable ingest) associated with large datasets.
 
 ---
-## RAMSES: Robust Analytic Models for Science at Extreme Scales 
+## [RAMSES](http://ramsesproject.github.io/): Robust Analytic Models for Science at Extreme Scales
 
 At the Mathematics and Computer Science in the Argonne National Laboratory. I develop end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. These models are developed to predict the behavior of a science workflow before it is implemented, to explain why performance does not meet design goals, and to architect science environments to meet workflow needs. 
 
@@ -18,10 +18,10 @@ I focus on:
 
 * Modeling and simulating end-to-end data transfers over wide-area network;
 * Analyzing [www.globus.org](www.globus.org) transfer log towards explaining the wide-area network data transfer performance;
-*  Building modeling and simulation program that can effectively and efficiently explain the behavior of scientific workflows over a distributed infrastructure.
+* Building modeling and simulation program that can effectively and efficiently explain the behavior of scientific workflows over a distributed infrastructure.
 
 ---
-## AMASE: Architecture and Management for Autonomic Science Ecosystems
+## [AMASE](https://amaseproject.github.io/): Architecture and Management for Autonomic Science Ecosystems
 
 Scientific computing systems are becoming significantly more complex, and have reached a critical limit in manageability using current human-in-the-loop techniques. The current state-of-the-art for managing HPC infrastructures does not leverage the remarkable advances in machine learning to more accurately predict, diagnose, and improve computational resources in response to user computation. The DOE science complex consists of thousands of interconnected systems that are geographically distributed. As distributed teams and complex workflows now span resources from telescopes and light sources to fast networks and smart IoT sensor systems, it is clear that a single, centralized, administrative team and software stack cannot coordinate and manage all of the resources. Instead, resources must begin to respond autonomically, managing and tuning their behavior in response to scientific workflows. This research proposal outlines a plan to explore the architecture, methods, and algorithms needed to support future scientific computing systems that self-tune and self-manage. We propose to make the science ecosystem smart by incorporating the functions of sensing, intelligence, and control. Our aim is threefold:
 
