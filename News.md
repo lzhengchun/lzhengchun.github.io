@@ -2,13 +2,15 @@
 layout: default
 title: What's new
 ---
-* Our paper on "_Transferring a Petabyte in a Day_" has been accepted to publish in __Future Generation Computer Systems__. Click [HERE](https://authors.elsevier.com/a/1XAho,3q5xSI18) to download for free before July 26, 2018. 
+* __June 18, 2018__ Our paper on "_Towards a Smart Data Transfer Node_" has been accepted to publish in __Future Generation Computer Systems__. 
+
+* __May 22, 2018__ Our paper on "_Transferring a Petabyte in a Day_" has been accepted to publish in __Future Generation Computer Systems__.
 
 * One paper on "_Cross-geography Scientific Data Transfer Trends and User Behavior Patterns_" was accepted by the 27th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'18),
 
-* I accomplished three online courses about ***Sequence Models*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it in practice. Feb. 04, 2018.
+* I accomplished an online course about ***Sequence Models*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it in practice. Feb. 04, 2018.
 
-* I accomplished three online courses about ***Convolutional Neural Networks*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it. Nov. 30, 2017.
+* I accomplished an online course about ***Convolutional Neural Networks*** taught by Andrew Ng on [coursera](https://www.coursera.org/specializations/deep-learning). They are quite helpful on mastering Deep Learning and understanding how to apply it. Nov. 30, 2017.
 
 * I attended the [SC'17](http://sc17.supercomputing.org) and gave a talk entitled "Towards a Smart Data Transfer Node" [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](https://scinet.supercomputing.org/workshop/sites/default/files/liu-smart_dtn.pdf)] at the the Innovating the Network for Data-Intensive Science workshop. 
 
@@ -16,7 +18,7 @@ title: What's new
 
 * One paper got accepted by the 13th IEEE eSceince international conference. Aug. 8, 2017.
 
-* I accomplished the online courses about ***Deep Learning*** (i.e., [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning), [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/neural-networks-deep-learning), and [Structuring Machine Learning Projects](https://www.coursera.org/learn/neural-networks-deep-learning)) taught by Andrew Ng on coursera. Nov. 14, 2017.
+* I accomplished three online courses about ***Deep Learning*** (i.e., [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning), [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/neural-networks-deep-learning), and [Structuring Machine Learning Projects](https://www.coursera.org/learn/neural-networks-deep-learning)) taught by Andrew Ng on coursera. Nov. 14, 2017.
 
 * One paper got accepted by the 2017 International Conference on Computational Science. May 23, 2017. [link](https://doi.org/10.1016/j.procs.2017.05.147)
 
