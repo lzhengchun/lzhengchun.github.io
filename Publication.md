@@ -43,7 +43,7 @@ title: Home
 ## Refereed Journal Papers
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman.  
 [Towards a Smart Data Transfer Node](https://doi.org/10.1016/j.future.2018.06.033). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-smart-dtn.pdf)]  
-*Future Generation Computer Systems* 2018.
+*Future Generation Computer Systems* Vol. 89, December 2018, Pages 10-18.
 
 - Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello.  
 [Transferring a Petabyte in a Day](https://doi.org/10.1016/j.future.2018.05.051). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-1pb.pdf)]  

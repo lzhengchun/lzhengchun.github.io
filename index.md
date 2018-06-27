@@ -11,7 +11,9 @@ I received my bachelor's degree in _Manufacturing Engineering of Flight Vehicles
 For more details and contact info, please see my curriculum vitae with <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">html</a>.
 
 ## Research Highlights
-At Argonne, I develop end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. These models are developed to __predict__ the behavior of a science workflow before it is implemented, to __explain__ why performance does not meet design goals, and to architect science environments to meet workflow needs. Powered by the ability of __explain__ and __predict__ performance, I also work on smart computing which adds smartness to computing edges. I contribute to the DoE <a href="https://ramsesproject.github.io" target="_blank"> RAMSES </a> (Robust Analytic Models for Science at Extreme Scales) project. 
+At Argonne, I work on the DOE <a href="https://ramsesproject.github.io" target="_blank"> RAMSES </a> (Robust Analytic Models for Science at Extreme Scales) project that focuses on developing end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. These models are developed to __predict__ the behavior of a science workflow before it is implemented, to __explain__ why performance does not meet design goals, and to architect science environments to meet workflow needs. Powered by the ability of __explain__ and __predict__ performance. 
+
+I also work on the DOE <a href="https://amaseproject.github.io" target="_blank"> AMASE </a> (Architecture and Management for Autonomic Science Ecosystems) project that explores the architecture, methods, and algorithms needed to support future scientific computing systems that are capable of self-configuration, self-optimization and self-manage etc. We propose to make the science ecosystem smart by incorporating the functions of sensing, intelligence, and control.
 
 ---
 ## Research Interests:
