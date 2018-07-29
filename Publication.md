@@ -41,39 +41,39 @@ title: Home
 *The 6th International Conference on Advances in System Simulation* (**SIMUL'14**). 
 
 ## Refereed Journal Papers
-- __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman.  
+- [FGCS] __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman.  
 [Towards a Smart Data Transfer Node](https://doi.org/10.1016/j.future.2018.06.033). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-smart-dtn.pdf)]  
 *Future Generation Computer Systems* Vol. 89, December 2018, Pages 10-18.
 
-- Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello.  
+- [FGCS] Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello.  
 [Transferring a Petabyte in a Day](https://doi.org/10.1016/j.future.2018.05.051). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-1pb.pdf)]  
 *Future Generation Computer Systems*. Vol. 88, November 2018, pages 191-198.
 
-- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque.  
+- [C&IE] __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque.  
 [A simulation and optimization based method for calibrating agent-based emergency department models under data scarcity](https://doi.org/10.1016/j.cie.2016.11.036). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/abm-calibration-zhengchun-liu.pdf)]  
 *Computers & Industrial Engineering*, Vol. 103, January 2017, Pages 300-309.
 
-- __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque.  
+- [JoCS] __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque.  
 [An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments](https://doi.org/10.1016/j.jocs.2017.05.015). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/abm-ed-mdl_Zhengchun-Liu.pdf)]  
 *Journal of Computational Science*, Vol.21, July 2017, Pages 11–23.
 
-- __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque.  
+- [JoIC] __Zhengchun Liu__, Francisco Epelde, Dolores Rexachs and Emilio Luque.  
 [A Bottom-up Simulation Method to Quantitatively Predict Integrated Care System Performance](http://doi.org/10.5334/ijic.2693). [[Slides](file/5.8_Zhengchun_Liu_139.pdf)].  
 *International Journal of Integrated Care*, 16(6):A145 2016. 
 
-- Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan.  
+- [APL] Linglong Li, Yaodong Yang, __Zhengchun Liu__, Stephen Jesse, Sergei V. Kalinin and Rama K. Vasudevan.  
 [Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale.](https://doi.org/10.1063/1.4947533).  
 *Applied Physics Letters*, Vol.108, January 2017, Pages 300–309. 
 
 ## Invited Paper
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Yuanlai Liu.  
-[A comprehensive study of wide area data movement at a scientific computing facility](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf)]  
-*Scalable Network Traffic Analytics workshop in conjunction with the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS'18)* (**SNTA'18**). 
+[A comprehensive study of wide area data movement at a scientific computing facility](https://doi.org/10.1109/ICDCS.2018.00180). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf)]  
+* 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS'18, Scalable Network Traffic Analytics workshop). 
 
 ## Under Peer-Review Papers
 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash and Ian Foster. 
-An Online, Machine-Learning-Based Wide-Area Data Transfer Performance Predictor. (_under peer review_) 
+Building a Wide-Area Data Transfer Performance Predictor: An Empirical Study. (_under peer review_) 
 
 ## Other Selected Papers
 
