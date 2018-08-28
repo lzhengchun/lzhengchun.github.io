@@ -46,7 +46,6 @@ Visiting Researcher, Host: ___Kalyan S. Perumalla___
 - Six-Degree-of-Freedom ﬂight dynamics model of ﬁxed-wing drone.
 
 ---
-
 ## Engineering Work Experience
 ### Software Engineer (Part-time) 2010.05 – 2013.06 | Xi'an FengLiTong Electronic CO. LTD
 __Application development on an ARM Cortex-M3 with μC/OS-II platform. More specifically, I was in charge of:__ 
@@ -74,5 +73,10 @@ __Backend software development of a communication server for millions of embedde
 
 2. I cooperated with the company directly to design a temperature control and management system for machine tool's cooling oil. This embedded system was based on a 8051 MCU, system hardware includes sensors, user function keys, and display; software includes user operation response, sensor data processing and control logic.
 
+---
 ## Muchuan, Leshan, Sichuan, China
 I grew up in this small, peaceful and beautiful village. It's in the south-west part of China, and you can find its location on the Google [map](https://goo.gl/maps/fqLh5LQxBYM2). My hometown is famous for Bamboo Sea. The forest coverage rate is as high as 77%, it is known as "natural oxygen bar".
+
+---
+## Crazy proverbs
+Theory is when you know everything but nothing works. Practice is when everything works but no one knows why. In our lab, theory and practice are combined: _nothing works and no one knows why_.

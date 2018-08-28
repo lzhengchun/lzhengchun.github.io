@@ -65,4 +65,4 @@ In addition, I am also particularly interested in embedded system. I worked as a
 ---
 ## Machine Learning
 
-I am quite enthusiastic about using artificial intelligence techniques to solve practical problems and make our life better. I keep learning AI related advances in my spare time solely driven by interests. Recently, we used machine learning algorithms to explain / predict wide area data transfer performance. I also worked to use deep reinforcement learning to achieve a smart data transfer node, we consider it as the first step to smart HPCC.
+I am quite enthusiastic about using artificial intelligence techniques to solve practical problems and make our life better. I keep learning AI related advances in my spare time solely driven by interests. Recently, we used machine learning algorithms to explain / predict wide area data transfer performance. I also worked on using deep reinforcement learning to achieve a smart data transfer node, we consider it as a baby-step towards smart High Performance Computing and Communication (HPCC).

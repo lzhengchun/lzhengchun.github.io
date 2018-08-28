@@ -9,7 +9,7 @@ title: Home
 *The 1st AI-Science workshop in conjunction with HPDC'18* (**AI-Science'18**).
 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Nageswara S.V. Rao.  
-[Cross-geography Scientific Data Transferring Trends and Behavior](https://doi.org/10.1145/3208040.3208053). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/hpdc2018.pdf), [Poster](file/hpdc18-poster.pdf), [Slides](file/hpdc18-slides.pdf)]  
+[Cross-geography Scientific Data Transferring Trends and Behavior](https://doi.org/10.1145/3208040.3208053). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/hpdc2018.pdf), [Poster](file/hpdc2018-poster.pdf), [Slides](file/hpdc18-slides.pdf)]  
 *The 27th International ACM Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'18**).
 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster.  
