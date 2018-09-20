@@ -1,0 +1,13 @@
+@article{LIU2015433,
+title = "Quantitative Evaluation of Decision Effects in the Management of Emergency Department Problems",
+journal = "Procedia Computer Science",
+volume = "51",
+pages = "433 - 442",
+year = "2015",
+note = "International Conference On Computational Science, ICCS 2015",
+issn = "1877-0509",
+doi = "10.1016/j.procs.2015.05.265",
+url = "http://www.sciencedirect.com/science/article/pii/S187705091501073X",
+author = "Zhengchun Liu and Eduardo Cabrera and Manel Taboada and Francisco Epelde and Dolores Rexachs and Emilio Luque",
+keywords = "Emergency Department, Agent-based Modeling, Complex System, Decision Support"
+}

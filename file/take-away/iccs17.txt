@@ -1,0 +1,13 @@
+Old people usually have more complex health problems and use healthcare services more frequently than young people. 
+It is obvious that the increasing old people both in number and proportion will challenge the emergency departments (ED). 
+
+This paper firstly presents a way to quantitatively predict and explain this challenge by using simulation techniques. 
+Then, we outline the capability of simulation for decision support to overcome this challenge. 
+Specifically, we use simulation to predict and explain the impact of population aging over an ED. 
+In which, a precise ED simulator which has been validated for a public hospital ED will be used to predict the behavior of an ED under population aging in the next 15 years. 
+
+Our prediction shows that the stress of population aging to EDs can no longer be ignored and ED upgrade must be carefully planned. Based on this prediction, the cost and benefits of several upgrade proposals are evaluated. 
+
+Our projections also suggest that hospitalizations from the ED will increase dramatically in the coming years. 
+To keep pace, hospitals have to improve their service capability, or optimize the movement of admitted ED patients to inpatient units. 
+Furthermore, optimizing changes to the ED system under practical constraints to overcome the stress from population aging is a crucial future work direction.  

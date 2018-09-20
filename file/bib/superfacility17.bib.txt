@@ -1,0 +1,12 @@
+@INPROCEEDINGS{superfacility17,
+author={Zhengchun Liu and Rajkumar Kettimuthu and Sven Leyffer and  Prashant Palkar and Ian Foster},
+booktitle={IEEE 13th International Conference on e-Science},
+title={A Mathematical Programming- and Simulation-Based Framework to Evaluate Cyberinfrastructure Design Choices},
+year={2017},
+volume={},
+number={},
+pages={148-157},
+doi={10.1109/eScience.2017.27},
+url = {http://doi.org/10.1109/eScience.2017.27},
+ISSN={},
+month={Oct},}

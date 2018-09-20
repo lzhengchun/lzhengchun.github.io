@@ -1,0 +1,10 @@
+Scientific computing systems are becoming significantly more complex, with distributed teams and complex workflows spanning resources from telescopes and light sources to fast networks and Internet of Things sensor systems.
+In such settings, no single, centralized administrative team and software stack can coordinate and manage all resources used by a single application.  
+Indeed, we have reached a critical limit in manageability using current human-in-the-loop techniques.
+We therefore argue that resources must begin to respond automatically, adapting and tuning their behavior in response to observed properties of scientific workflows. 
+Over time, machine learning methods can be used to identify effective strategies for autonomic, goal-driven management behaviors that can be applied end-to-end across the scientific computing landscape. 
+Using the data transfer nodes that are widely deployed in modern research networks as an example, we explore the architecture, methods, and algorithms needed for a smart data transfer node to support future scientific computing systems that self-tune and self-manage.
+
+In this paper, we have proposed a smart data transfer node that uses deep reinforcement learning to learn the relationship between transfer parameters and overall throughput.
+We argue that such a system can identify transfer parameter values that achieve higher overall performance than simple heuristics can.
+Our results suggest that a knowledge engine that implements such methods can indeed guide a data transfer node to stable, sustained transfer performance. 

@@ -1,0 +1,18 @@
+@article{pb-a-day,
+title = "Transferring a petabyte in a day ",
+journal = "Future Generation Computer Systems ",
+volume = "88",
+number = "",
+pages = "191 - 198",
+year = "2018",
+note = "",
+issn = "0167-739X",
+doi = "https://doi.org/10.1016/j.future.2018.05.051",
+url = "https://doi.org/10.1016/j.future.2018.05.051",
+author = "Rajkumar Kettimuthu and Zhengchun Liu and David Wheeler and Ian Foster and Katrin Heitmann and Franck Cappello",
+keywords = "Wide area data transfer",
+keywords = "GridFTP",
+keywords = "Large data transfer",
+keywords = "Cosmology workflow",
+keywords = "Pipeline "
+}

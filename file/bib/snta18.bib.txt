@@ -1,0 +1,10 @@
+@inproceedings{snta-18,
+title = {A comprehensive study of wide area data movement at a scientific computing facility},
+author = {Zhengchun Liu and Rajkumar Kettimuthu and Ian Foster and Yuanlai Liu},
+series = {2018 Scalable Network Traffic Analytics},
+booktitle = {the 38th IEEE International Conference on Distributed Computing Systems},
+year = 2018,
+location = {Vienna, Austria},
+numpages={8}, 
+publisher = {IEEE},
+}

@@ -1,0 +1,12 @@
+Computer simulation based methods have enjoyed widespread use in healthcare system investigation and improvement in recent years.
+
+Healthcare systems are based on human interactions and Emergency Departments (ED) are one of the key components of the healthcare system. 
+The efficiency and quality of service in ED have a great influence on the whole healthcare system. 
+
+The first step to intensively study the emergency department, to find its underlying problem or to provide the best service with limited budget, should be to create a realistic computational model of the ED. 
+Agent-Based Modeling and Simulation (ABMS) is an excellent tool to deal with complex system like ED. 
+
+This paper presents a generalized agent-based model of the emergency departments. 
+It was designed based on the survey of different EDs and with the participation of sanitary staff in ED.
+The model ss a generalized ABMS-based computational model of ED without dedicating to a specific ED, thus it can be used to simulate different EDs through after a proper tuning process.
+The model has been implemented and verified in a Netlogo modeling environment and can be used to simulate different EDs through a tuning process.
