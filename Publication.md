@@ -4,9 +4,21 @@ title: Home
 ---
 
 ## Refereed Conference Papers
-- Nageswara S. V. Rao, Qiang Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, and Ian Foster.
-[Throughput Analytics of Data Transfer Infrastructures](). 
-The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**)
+- __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash and Ian Foster. 
+[Building a Wide-Area File Transfer Performance Predictor: An Empirical Study]() [[Preprint](http://www.mcs.anl.gov/~zcliu/file/globus-prediction-mln18.pdf), <a href="file/take-away/globus-prediction-mln18.txt" target="_blank">Take-away</a>, <a href="file/bib/globus-prediction-mln18.bib.txt" target="_blank">Bib</a>].
+*The 1st International Conference on Machine Learning for Networking* (**MLN'18**). 
+
+- Nageswara Rao, Qiang Liu, Satyabrata Sen, Zhengchun Liu, Rajkumar Kettimuthu, and Ian Foster.  
+[Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections]().  
+*The 20th International Conference on Distributed Computing and Networking* (**ICDCN'19**).
+
+- Nageswara Rao, Satyabrata Sen, Zhengchun Liu, Rajkumar Kettimuthu and Ian Foster.  
+[Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections]().  
+*The 1st International Conference on Machine Learning for Networking* (**MLN'18**). 
+
+- Nageswara Rao, Qiang Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, and Ian Foster.  
+[Throughput Analytics of Data Transfer Infrastructures]().  
+*The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities* (**TRIDENTCOM'18**)
 
 - Rajkumar Kettimuthu, __Zhengchun Liu__, Ian Foster, Peter H. Beckman, Alex Sim, John Wu, Wei-keng Liao, Qiao Kang, Ankit Agrawal, and Alok Choudhary.  
 [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ai-science18.pdf), <a href="file/take-away/ai-science18.txt" target="_blank">Take-away</a>, <a href="file/bib/ai-science18.bib.txt" target="_blank">Bib</a>]  
@@ -72,14 +84,12 @@ The 13th EAI International Conference on Testbeds and Research Infrastructures f
 ## Invited Paper
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Yuanlai Liu.  
 [A comprehensive study of wide area data movement at a scientific computing facility](https://doi.org/10.1109/ICDCS.2018.00180). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf), , <a href="file/take-away/snta18.txt" target="_blank">Take-away</a>, <a href="file/bib/snta18.bib.txt" target="_blank">Bib</a>]  
-2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS'18, Scalable Network Traffic Analytics workshop). 
+2018 IEEE 38th International Conference on Distributed Computing Systems (SNTA @ ICDCS'18). 
 
-## Under Peer-Review Papers
+<!--## Under Peer-Review Papers
 
-- __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash and Ian Foster. 
-Building a Wide-Area Data Transfer Performance Predictor: An Empirical Study. (_under peer review_) 
 - Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S.V. Rao, Zizhong Chen, and Ian Foster. 
-Insights into the bottlenecks and optimization methods for multi-file transfers between HPC facilities
+Insights into the bottlenecks and optimization methods for multi-file transfers between HPC facilities-->
 
 ## Other Selected Papers
 

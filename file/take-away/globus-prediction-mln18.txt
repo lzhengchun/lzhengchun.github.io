@@ -1,0 +1,4 @@
+Faster delivery of data is important for distributed scientific workflows. Predictability is equally (or even more) important.
+Machine learning methods are applied to develop predictive models for data transfer times over a variety of wide area networks.
+201,388 transfers, involving 759 million files totaling 9 PB transferred over 115 heavily used source-destination pairs between 135 unique endpoints, are used to build and evaluate these models. 
+A detailed analysis of results is presented to insight into the cause of some of the high prediction errors. 

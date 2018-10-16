@@ -1,0 +1,10 @@
+@inproceedings{globus-prediction-mln18,
+title = {Building a Wide-Area Data Transfer Performance Predictor: An Empirical Study},
+author = {Zhengchun Liu and Rajkumar Kettimuthu and Prasanna Balaprakash and Ian Foster},
+booktitle = {the 1st International Conference on Machine Learning for Networking},
+series = {MLN 2018},
+year = 2018,
+location = {Paris, France},
+numpages={20}, 
+publisher = {Springer},
+}

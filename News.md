@@ -2,6 +2,8 @@
 layout: default
 title: What's new
 ---
+* __September 18, 2018__ One paper entitled "_Throughput Analytics of Data Transfer Infrastructures_" has been accepted by the 3th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (TRIDENTCOM'18).
+
 * __June 18, 2018__ Our paper on "_Towards a Smart Data Transfer Node_" has been accepted to publish in __Future Generation Computer Systems__. 
 
 * __May 22, 2018__ Our paper on "_Transferring a Petabyte in a Day_" has been accepted to publish in __Future Generation Computer Systems__.

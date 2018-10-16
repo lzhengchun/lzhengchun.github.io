@@ -31,9 +31,9 @@ I am interested in Computer Science related research, mostly include:
 ## Professional Memberships and Activities:
 * **Professional Membership**: Association for Computing Machinery (ACM). 
 * **Co-Chair**: [14th SRMPDS 2018](https://srmpds.github.io/); [13th SRMPDS 2017](https://srmpds.github.io/); 
-* **Technical Program Committee**: [IARIA SIMUL 2016](https://www.iaria.org/conferences2016/ComSIMUL16.html); [IARIA SIMUL 2015](https://www.iaria.org/conferences2015/ComSIMUL15.html); [DAAC 2017](http://www.depts.ttu.edu/cac/conferences/ucc2017/page-2/daacworkshop.html); [DAAC 2018](); [IARIA ICDS 2019]().
+* **Technical Program Committee**: [IARIA SIMUL 2016](https://www.iaria.org/conferences2016/ComSIMUL16.html); [IARIA SIMUL 2015](https://www.iaria.org/conferences2015/ComSIMUL15.html); [DAAC 2017](http://www.depts.ttu.edu/cac/conferences/ucc2017/page-2/daacworkshop.html); [DAAC 2018](); [IARIA ICDS 2019](https://www.iaria.org/conferences2019/ComICDS19.html).
 * **Subreviewer**: [COMPUTATION TOOLS 2015](https://www.iaria.org/conferences2015/COMPUTATIONTOOLS15.html); [Euro-Par 2017](http://europar2017.usc.es/); [CLUSTER 2017](https://cluster17.github.io/); [HiPC 2017](http://hipc.org/); [WoWS 2017](https://words.sdsc.edu/wows2017); [IPDPS 2018](http://www.ipdps.org/ipdps2018/2018_call_for_papers.html); [HiPC](http://hipc.org);
-* **Journal Reviewer**: [Algorithms-MDPI](http://www.mdpi.com/journal/algorithms); [ Sustainability–MDPI](http://www.mdpi.com/journal/sustainability)
+* **Journal Reviewer**: [Algorithms-MDPI](http://www.mdpi.com/journal/algorithms); [ Sustainability–MDPI](http://www.mdpi.com/journal/sustainability); [FGCS](https://www.journals.elsevier.com/future-generation-computer-systems); [AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)
 
 ---
 ## Skills:
