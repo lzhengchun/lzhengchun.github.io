@@ -41,7 +41,7 @@ title: Home
 *2017 International Conference on Computational Science* (**ICCS'17**).
 
 - __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs, Francisco Epelde and Emilio Luque.  
-[Simulating the Micro-level Behavior of Emergency Department for Macro-level Features Prediction](https://doi.org/10.1109/WSC.2015.7408162). [[Slides](http://www.mcs.anl.gov/~zcliu/file/wsc15-micro2macro.pdf), <a href="file/bib/wsc15.bib.txt" target="_blank">Take-away</a>, <a href="file/take-away/wsc15.txt" target="_blank">Bib</a>]  
+[Simulating the Micro-level Behavior of Emergency Department for Macro-level Features Prediction](https://doi.org/10.1109/WSC.2015.7408162). [[Slides](http://www.mcs.anl.gov/~zcliu/file/wsc15-micro2macro.pdf), <a href="file/take-away/wsc15.txt" target="_blank">Take-away</a>, <a href="file/bib/wsc15.bib.txt" target="_blank">Bib</a>]  
 *2015 Winter Simulation Conference* (**WSC'15**).
 
 - __Zhengchun Liu__, Eduardo Cabrera, Manel Taboada, Francisco Epelde, Dolores Rexachs and Emilio Luque.  
