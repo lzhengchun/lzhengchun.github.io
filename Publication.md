@@ -7,7 +7,7 @@ title: Home
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash, Nageswara S. V. Rao and Ian Foster. 
 [Building a Wide-Area File Transfer Performance Predictor: An Empirical Study]() [[Preprint](http://www.mcs.anl.gov/~zcliu/file/globus-prediction-mln18.pdf), <a href="file/take-away/globus-prediction-mln18.txt" target="_blank">Take-away</a>, <a href="file/bib/globus-prediction-mln18.bib.txt" target="_blank">Bib</a>].
 *International Conference on Machine Learning for Networking* (**MLN'18**). 
-asas
+
 - Nageswara Rao, Qiang Liu, Satyabrata Sen, Zhengchun Liu, Rajkumar Kettimuthu, and Ian Foster.  
 [Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections]().  
 *The 20th International Conference on Distributed Computing and Networking* (**ICDCN'19**).
