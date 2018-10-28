@@ -2,7 +2,17 @@
 layout: default
 title: What's new
 ---
+
+
+* __10/2018__ One paper entitled "_Building a Wide-Area File Transfer Performance Predictor: An Empirical Study_" has been accepted by the International Conference on Machine Learning for Networking(MLN'18)
+
+* __10/2018__ One paper entitled "_Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections_" has been accepted by the The 20th International Conference on Distributed Computing and Networking(ICDCN'19)
+
+* __09/2018__ One paper entitled "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" has been accepted by the International Conference on Machine Learning for Networking(MLN'18)
+
 * __September 18, 2018__ One paper entitled "_Throughput Analytics of Data Transfer Infrastructures_" has been accepted by the 3th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (TRIDENTCOM'18).
+
+* __07/2018__: Invited to serve as a PC Member for DAAC workshop @ SC'18.
 
 * __June 18, 2018__ Our paper on "_Towards a Smart Data Transfer Node_" has been accepted to publish in __Future Generation Computer Systems__. 
 

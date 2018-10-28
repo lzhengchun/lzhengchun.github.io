@@ -52,12 +52,12 @@ Since ED is a typical complex system, agent-based simulation technique was used 
 
 The model has been verified and validated for an ED in Catalunia, Spain. High Performance Computing technique was used to simulate multi-scenarios simultaneously, and optimize unknown model parameters under data scarcity. By this means, the simulator can execute a large number of simulation scenarios in an acceptable period.
 
----
-## Automatic Model-parameter Calibration
+<!-----
+## Model Parameters Calibration
 
-One of the key issues in calibration is the acquisition of valid source information from the target system. We developed an automatic calibration (tuning) tool that is released with the general emergency department model. This tool enables the simulation users to calibrate model parameters for their own emergency department system without the involvement of model developers. We believe that the tool is promising for promoting the application of simulation on emergency department related studies.
+One of the key issues in calibration is the acquisition of valid source information from the target system. We developed an automatic calibration (tuning) tool that is released with the general emergency department model. This tool enables the simulation users to calibrate model parameters for their own emergency department system without the involvement of model developers. We believe that the tool is promising for promoting the application of simulation on emergency department related studies.-->
 
----
+<!-----
 ## Embedded Technique
 
 In addition, I am also particularly interested in embedded system. I worked as an embedded engineer for three years in industrial area. I am experienced on both hardware design and embedded software (firmware) developing. I am very optimistic about the application of embedded devices on high performance computing, such as FPGA and DSP for specific speedup.
@@ -65,4 +65,4 @@ In addition, I am also particularly interested in embedded system. I worked as a
 ---
 ## Machine Learning
 
-I am quite enthusiastic about using artificial intelligence techniques to solve practical problems and make our life better. I keep learning AI related advances in my spare time solely driven by interests. Recently, we used machine learning algorithms to explain / predict wide area data transfer performance. I also worked on using deep reinforcement learning to achieve a smart data transfer node, we consider it as a baby-step towards smart High Performance Computing and Communication (HPCC).
+I am quite enthusiastic about using artificial intelligence techniques to solve practical problems and make our life better. I keep learning AI related advances in my spare time solely driven by interests. Recently, we used machine learning algorithms to explain / predict wide area data transfer performance. I also worked on using deep reinforcement learning to achieve a smart data transfer node, we consider it as a baby-step towards smart High Performance Computing and Communication (HPCC).-->
