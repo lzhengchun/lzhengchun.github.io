@@ -65,7 +65,7 @@ title: What's new
 
 * I got the Online Course __DAT203x: Data Science and Machine Learning Essentials__ HONOR CODE CERTIFICATE  from edX by Satya Nadella and Björn Rettig, Microsoft. 2015/Nov./4.
 
-* I participated in the [10th Marathon of Parallel Programming Contest](http://lspd.mackenzie.br/marathon/15/) and got ___the First place___. Results. 2015/Oct./19.
+* I participated in the [10th Marathon of Parallel Programming Contest](http://lspd.mackenzie.br/marathon/15/) and got ___the First place___. Results. 2015/Oct./19; [Certificate](file/10th-marathon.pdf).
 
 * We participated in the [5th Spanish Parallel Programming Contest](http://luna.inf.um.es/2015/) and got ___the First place___, [Record](http://luna.inf.um.es/2015/results.php). 2015/Sep./23.
 
