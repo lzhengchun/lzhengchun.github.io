@@ -33,7 +33,7 @@ I am interested in Computer Science related research, mostly include:
 * **Co-Chair**: [14th SRMPDS 2018](https://srmpds.github.io/); [13th SRMPDS 2017](https://srmpds.github.io/); 
 * **Technical Program Committee**: [IARIA SIMUL 2016](https://www.iaria.org/conferences2016/ComSIMUL16.html); [IARIA SIMUL 2015](https://www.iaria.org/conferences2015/ComSIMUL15.html); [DAAC 2017](http://www.depts.ttu.edu/cac/conferences/ucc2017/page-2/daacworkshop.html); [DAAC 2018](); [IARIA ICDS 2019](https://www.iaria.org/conferences2019/ComICDS19.html).
 * **Subreviewer**: [COMPUTATION TOOLS 2015](https://www.iaria.org/conferences2015/COMPUTATIONTOOLS15.html); [Euro-Par 2017](http://europar2017.usc.es/); [CLUSTER 2017](https://cluster17.github.io/); [HiPC 2017](http://hipc.org/); [WoWS 2017](https://words.sdsc.edu/wows2017); [IPDPS 2018](http://www.ipdps.org/ipdps2018/2018_call_for_papers.html); [HiPC](http://hipc.org);
-* **Journal Reviewer**: [Algorithms-MDPI](http://www.mdpi.com/journal/algorithms); [ Sustainability–MDPI](http://www.mdpi.com/journal/sustainability); [FGCS](https://www.journals.elsevier.com/future-generation-computer-systems); [AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)
+* **Journal Reviewer**: [Algorithms-MDPI](http://www.mdpi.com/journal/algorithms); [ Sustainability–MDPI](http://www.mdpi.com/journal/sustainability); [FGCS](https://www.journals.elsevier.com/future-generation-computer-systems); [AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/) (___Outstanding Reviewer___); IEEE-Access.
 
 ---
 ## Skills:
@@ -46,6 +46,7 @@ I am interested in Computer Science related research, mostly include:
 
 ---
 ## Professional Training & Certifications:
+* The winner of the 2018 __Outstanding Reviewer__ of the _American Journal of Computer Science and Information Technology_ ([AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[ iMedPub](http://www.imedpub.com)), [certificate](file/AJCSIT-outstanding-reviewer.png).
 * Online Course __Sequence Models__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/nlp-sequence-models/home/welcome). <a href="https://www.coursera.org/account/accomplishments/certificate/98J8RFKMCGAA" target="_blank">Certificate</a> earned on February 4, 2018
 * Online Course __Convolutional Neural Networks__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/convolutional-neural-networks). <a href="https://www.coursera.org/account/accomplishments/certificate/PS2LT4WMR7M8" target="_blank">Certificate</a> earned on November 30, 2017
 * Online Course __Structuring Machine Learning Projects__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/neural-networks-deep-learning). <a href="https://www.coursera.org/account/accomplishments/certificate/GTUWDPUQJHJB" target="_blank">Certificate</a> earned on August 17, 2017

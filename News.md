@@ -3,6 +3,7 @@ layout: default
 title: What's new
 ---
 
+* __10/2018__ I am awarded the 2018 __Outstanding Reviewer__ of the _American Journal of Computer Science and Information Technology_ ([AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[ iMedPub](http://www.imedpub.com)), [certificate](file/AJCSIT-outstanding-reviewer.png).
 
 * __10/2018__ One paper entitled "_Building a Wide-Area File Transfer Performance Predictor: An Empirical Study_" has been accepted by the International Conference on Machine Learning for Networking(MLN'18)
 
@@ -10,7 +11,7 @@ title: What's new
 
 * __09/2018__ One paper entitled "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" has been accepted by the International Conference on Machine Learning for Networking(MLN'18)
 
-* __September 18, 2018__ One paper entitled "_Throughput Analytics of Data Transfer Infrastructures_" has been accepted by the 3th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (TRIDENTCOM'18).
+* __09/2018__ One paper entitled "_Throughput Analytics of Data Transfer Infrastructures_" has been accepted by the 3th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (TRIDENTCOM'18).
 
 * __07/2018__: Invited to serve as a PC Member for DAAC workshop @ SC'18.
 
