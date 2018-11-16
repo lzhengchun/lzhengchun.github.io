@@ -2,6 +2,9 @@
 layout: default
 title: What's new
 ---
+* __11/2018__ I am honourably won the ___Extraordinary Doctorate Awards___ by the Universitat Autònoma de Barcelona.
+
+* __11/2018__ As part of the SC18 Network Research Exhibition, we present techniques for reducing transfer time of extreme-scale datasets. We achived the goal of moving a petabyte in 1/4 day (actually in 350 minutes), [result](file/1pb-6h-throughput.pdf). 
 
 * __10/2018__ I am awarded the 2018 __Outstanding Reviewer__ of the _American Journal of Computer Science and Information Technology_ ([AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com)), [Certificate](file/AJCSIT-outstanding-reviewer.png).
 
