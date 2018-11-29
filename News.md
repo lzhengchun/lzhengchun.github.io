@@ -2,7 +2,7 @@
 layout: default
 title: What's new
 ---
-* __11/2018__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the *Best paper award* at the International Conference on Machine Learning for Networking (**MLN'18**).
+* __11/2018__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the ***Best Paper Award*** at the International Conference on Machine Learning for Networking (**MLN'18**).
 
 * __11/2018__ I am honourably won the ___Extraordinary Doctorate Awards___ by the Universitat Autònoma de Barcelona.
 
