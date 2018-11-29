@@ -31,9 +31,10 @@ I am interested in Computer Science related research, mostly include:
 ## Professional Memberships and Activities:
 * **Professional Membership**: Association for Computing Machinery (ACM). 
 * **Co-Chair**: [14th SRMPDS 2018](https://srmpds.github.io/); [13th SRMPDS 2017](https://srmpds.github.io/); 
+* **Editorship**: [AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com)([Certificate](file/AJCST-Certificate_for_Editorial_Member.pdf), 11/2018 -- 12/2020).
 * **Technical Program Committee**: [IARIA SIMUL 2016](https://www.iaria.org/conferences2016/ComSIMUL16.html); [IARIA SIMUL 2015](https://www.iaria.org/conferences2015/ComSIMUL15.html); [DAAC 2017](http://www.depts.ttu.edu/cac/conferences/ucc2017/page-2/daacworkshop.html); [DAAC 2018](); [IARIA ICDS 2019](https://www.iaria.org/conferences2019/ComICDS19.html).
-* **Subreviewer**: [COMPUTATION TOOLS 2015](https://www.iaria.org/conferences2015/COMPUTATIONTOOLS15.html); [Euro-Par 2017](http://europar2017.usc.es/); [CLUSTER 2017](https://cluster17.github.io/); [HiPC 2017](http://hipc.org/); [WoWS 2017](https://words.sdsc.edu/wows2017); [IPDPS 2018](http://www.ipdps.org/ipdps2018/2018_call_for_papers.html); [HiPC](http://hipc.org);
-* **Journal Reviewer**: [Algorithms-MDPI](http://www.mdpi.com/journal/algorithms); [ Sustainability–MDPI](http://www.mdpi.com/journal/sustainability); [FGCS](https://www.journals.elsevier.com/future-generation-computer-systems); [AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com) (_Outstanding Reviewer_); [IEEE-Access](http://ieeeaccess.ieee.org/).
+* **Subreviewer**: [COMPUTATION TOOLS 2015](https://www.iaria.org/conferences2015/COMPUTATIONTOOLS15.html); [Euro-Par 2017](http://europar2017.usc.es/); [CLUSTER 2017](https://cluster17.github.io/); [HiPC 2017](http://hipc.org/); [WoWS 2017](https://words.sdsc.edu/wows2017); [IPDPS 2018](http://www.ipdps.org/ipdps2018/2018_call_for_papers.html); [HiPC](http://hipc.org); [ICACCP](http://www.icaccpa.in/); [ICDS](https://www.iaria.org/conferences2019/ICDS19.html)
+* **Journal Reviewer**: [Algorithms-MDPI](http://www.mdpi.com/journal/algorithms); [ Sustainability–MDPI](http://www.mdpi.com/journal/sustainability); [FGCS](https://www.journals.elsevier.com/future-generation-computer-systems); [AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com) ([_Outstanding Reviewer_](file/AJCSIT-outstanding-reviewer.png)); [IEEE-Access](http://ieeeaccess.ieee.org/).
 
 ---
 ## Skills:
@@ -63,5 +64,5 @@ I am interested in Computer Science related research, mostly include:
 ---
 <span style="color:blue">
 ***NEWS***: 
-We are looking for intern students, contact me if you have experience or are interested in any one of: performance modeling, simulation, high performance computing, distributed systems, workflow over distributed infrastructure and smart computing/storage/network.
+We are looking for intern students, contact me if you have experience or are interested in any one of: performance modeling, simulation, high performance computing, distributed systems, workflow over distributed infrastructure or smart computing/storage/network. Visiting scholar/student is welcomed as well.
 </span>
