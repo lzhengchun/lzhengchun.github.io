@@ -4,8 +4,6 @@ title: What's new
 ---
 * __11/2018__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the ***Best Paper Award*** at the International Conference on Machine Learning for Networking (**MLN'18**).
 
-* __11/2018__ I am honourably won the ___Extraordinary Doctorate Awards___ by the Universitat Autònoma de Barcelona.
-
 * __11/2018__ As part of the SC18 Network Research Exhibition, we present techniques for reducing transfer time of extreme-scale datasets. We achived the goal of moving a petabyte in 1/4 day (actually in 350 minutes), [result](file/1pb-6h-throughput.pdf). 
 
 * __10/2018__ I am awarded the 2018 __Outstanding Reviewer__ of the _American Journal of Computer Science and Information Technology_ ([AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com)), [Certificate](file/AJCSIT-outstanding-reviewer.png).
@@ -19,6 +17,9 @@ title: What's new
 * __09/2018__ One paper entitled "_Throughput Analytics of Data Transfer Infrastructures_" has been accepted by the 3th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (TRIDENTCOM'18).
 
 * __07/2018__: Invited to serve as a PC Member for DAAC workshop @ SC'18.
+
+
+* __06/2018__ I am honourably won the ___Extraordinary Doctorate Awards___ by the Universitat Autònoma de Barcelona, [certificate](file/zliu-extraordinary-doc.pdf).
 
 * __June 18, 2018__ Our paper on "_Towards a Smart Data Transfer Node_" has been accepted to publish in __Future Generation Computer Systems__. 
 
