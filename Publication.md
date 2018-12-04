@@ -14,11 +14,11 @@ title: Home
 
 - Nageswara Rao, Satyabrata Sen, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster.  
 [Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections]().  
-*The 1st International Conference on Machine Learning for Networking* (**MLN'18**), (*Best paper awarded*). 
+*The 1st International Conference on Machine Learning for Networking* (**MLN'18**), (___Best paper awarded___). 
 
 - Nageswara Rao, Qiang Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, and Ian Foster.  
 [Throughput Analytics of Data Transfer Infrastructures]().  
-*The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities* (**TRIDENTCOM'18**)
+*The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities* (**TRIDENTCOM'18**), (___Best paper awarded___).
 
 - Rajkumar Kettimuthu, __Zhengchun Liu__, Ian Foster, Peter H. Beckman, Alex Sim, John Wu, Wei-keng Liao, Qiao Kang, Ankit Agrawal, and Alok Choudhary.  
 [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ai-science18.pdf), <a href="file/take-away/ai-science18.txt" target="_blank">Take-away</a>, <a href="file/bib/ai-science18.bib.txt" target="_blank">Bib</a>]  
