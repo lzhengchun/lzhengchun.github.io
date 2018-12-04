@@ -2,9 +2,9 @@
 layout: default
 title: What's new
 ---
-* __11/2018__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the [***Best Paper Award***](file/TRIDENTCOM18-best-paper.pdf) at the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**).
+* __11/2018__ Our paper: "_Throughput Analytics of Data Transfer Infrastructures_" won the [***Best Paper Award***](file/TRIDENTCOM18-best-paper.pdf) at the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**).
 
-* __11/2018__ Our paper: "_Throughput Analytics of Data Transfer Infrastructures_" won the [***Best Paper Award***](file/mln18-bset-paper.pdf) at the International Conference on Machine Learning for Networking (**MLN'18**).
+* __11/2018__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the [***Best Paper Award***](file/mln18-bset-paper.pdf) at the International Conference on Machine Learning for Networking (**MLN'18**).
 
 * __11/2018__ As part of the SC18 Network Research Exhibition, we present techniques for reducing transfer time of extreme-scale datasets. We achived the goal of moving a petabyte in 1/4 day (actually in 350 minutes), [result](file/1pb-6h-throughput.pdf). 
 
