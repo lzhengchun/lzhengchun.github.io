@@ -2,11 +2,13 @@
 layout: default
 title: What's new
 ---
+* __02/2019__ One paper entitled "_Data transfer between scientific facilities - bottleneck analysis, insights and optimizations_" has been accepted by the The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019).
+
 * __11/2018__ Our paper: "_Throughput Analytics of Data Transfer Infrastructures_" won the [***Best Paper Award***](file/TRIDENTCOM18-best-paper.pdf) at the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**).
 
 * __11/2018__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the [***Best Paper Award***](file/mln18-bset-paper.pdf) at the International Conference on Machine Learning for Networking (**MLN'18**).
 
-* __11/2018__ As part of the SC18 Network Research Exhibition, we present techniques for reducing transfer time of extreme-scale datasets. We achived the goal of moving a petabyte in 1/4 day (actually in 350 minutes), [result](file/1pb-6h-throughput.pdf). 
+* __11/2018__ As part of the SC18 Network Research Exhibition, we present techniques for reducing transfer time of extreme-scale datasets. We achived the goal of moving a petabyte in 1/4 day (actually in 350 minutes), [result](file/1pb-6h-throughput.pdf), [report](https://www.anl.gov/mcs/article/argonne-researchers-move-1-pb-of-data-from-chicago-to-dallas-in-under-6-hours). 
 
 * __10/2018__ I am awarded the 2018 __Outstanding Reviewer__ of the _American Journal of Computer Science and Information Technology_ ([AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com)), [Certificate](file/AJCSIT-outstanding-reviewer.png).
 
