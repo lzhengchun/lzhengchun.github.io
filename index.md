@@ -47,7 +47,8 @@ I am interested in Computer Science related research, mostly include:
 * Simulation with NS3, Netlogo etc.
 
 ---
-## Professional Training & Certifications:
+## Professional Training, Honors & Awards:
+* The ___Pacesetter Award___ by the Argonne National Laboratory. 
 * The ___Extraordinary Doctorate Award___ by the Universitat Autònoma de Barcelona, [certificate](file/zliu-extraordinary-doc.pdf).
 * The winner of the 2018 __Outstanding Reviewer__ of the _American Journal of Computer Science and Information Technology_ ([AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com)), [Certificate](file/AJCSIT-outstanding-reviewer.png).
 * Online Course __Sequence Models__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/nlp-sequence-models/home/welcome). <a href="https://www.coursera.org/account/accomplishments/certificate/98J8RFKMCGAA" target="_blank">Certificate</a> earned on February 4, 2018
