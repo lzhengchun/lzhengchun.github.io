@@ -9,8 +9,8 @@ title: Home
 [[arXiv.org](https://arxiv.org/abs/1902.07582)]
 
 - Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S. V. Rao, Zizhong Chen and Ian Foster. 
-[Data transfer between scientific facilities - bottleneck analysis, insights and optimizations](). 
-*The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing* (**CCGrid'19**)[in press].
+[Data transfer between scientific facilities - bottleneck analysis, insights and optimizations]([Preprint](http://www.mcs.anl.gov/~zcliu/file/ccgrid2019-zliu-pfs-trs.pdf)). 
+*The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing* (**CCGrid'19**).
 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash, Nageswara S. V. Rao and Ian Foster. 
 [Building a Wide-Area File Transfer Performance Predictor: An Empirical Study]() [[Preprint](http://www.mcs.anl.gov/~zcliu/file/globus-prediction-mln18.pdf), <a href="file/take-away/globus-prediction-mln18.txt" target="_blank">Take-away</a>, <a href="file/bib/globus-prediction-mln18.bib.txt" target="_blank">Bib</a>, [Slides](file/mln18-globus-prediction.pdf)].
@@ -21,12 +21,12 @@ title: Home
 *The 20th International Conference on Distributed Computing and Networking* (**ICDCN'19**).
 
 - Nageswara Rao, Satyabrata Sen, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster.  
-[Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections]().  
-*The 1st International Conference on Machine Learning for Networking* (**MLN'18**), (___Best paper awarded___). 
+[Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections].  
+*The 1st International Conference on Machine Learning for Networking* (**MLN'18**), [___Best paper awarded___](file/mln18-bset-paper.pdf). 
 
 - Nageswara Rao, Qiang Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, and Ian Foster.  
 [Throughput Analytics of Data Transfer Infrastructures](https://link.springer.com/chapter/10.1007/978-3-030-12971-2_2).  
-*The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities* (**TRIDENTCOM'18**), (___Best paper awarded___).
+*The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities* (**TRIDENTCOM'18**), [___Best paper awarded___](file/TRIDENTCOM18-best-paper.pdf).
 
 - Rajkumar Kettimuthu, __Zhengchun Liu__, Ian Foster, Peter H. Beckman, Alex Sim, John Wu, Wei-keng Liao, Qiao Kang, Ankit Agrawal, and Alok Choudhary.  
 [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ai-science18.pdf), <a href="file/take-away/ai-science18.txt" target="_blank">Take-away</a>, <a href="file/bib/ai-science18.bib.txt" target="_blank">Bib</a>]  
