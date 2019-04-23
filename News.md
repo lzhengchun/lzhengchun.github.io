@@ -2,7 +2,7 @@
 layout: default
 title: What's new
 ---
-* __03/2019__ I am deeply honored to receive the director's ___Pacesetter Award___ by the Argonne National Laboratory. 
+* __03/2019__ I am deeply honored to receive the director's [___Pacesetter Award___](img/pacesetter-award.JPG) by the Argonne National Laboratory, [photo](img/2019-pacesetter-award-photo.jpg). 
 * __02/2019__ One paper entitled "_Data transfer between scientific facilities - bottleneck analysis, insights and optimizations_" has been accepted by the The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019).
 
 * __11/2018__ Our paper: "_Throughput Analytics of Data Transfer Infrastructures_" won the [***Best Paper Award***](file/TRIDENTCOM18-best-paper.pdf) at the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**).

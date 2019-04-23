@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+## Tomographic reconstruction with accelerator technology and deep learning
+This project focuses on exploring the use of accelerator technology for deep learning. Specific works include, Aurora accelerator for deep learning training and testing at scale, the utilization of HPC, especially Aurora architecture, for machine learning. It seeks to optimize methods for exploiting data parallelism, model parallelism, ensembles, and model architecture and hyperparameter search. 
 
 ## Extreme Scale Systems for Machine Learning
 
