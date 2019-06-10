@@ -2,6 +2,8 @@
 layout: default
 title: What's new
 ---
+* __06/2019__ Present a [Poster](file/mmls19-poster.pdf) about our [TomoGAN](https://arxiv.org/abs/1902.07582) work at [MMLS](https://mmls.cc/) 2019, [Abstract](file/mmls19-abs.pdf). 
+* __06/2019__ Gave a talk ([Slides](file/ds4sys.pdf)) about data science and machine learning for computer system characterization, interpretation and optimization.
 * __03/2019__ I am deeply honored to receive the director's [___Pacesetter Award___](img/pacesetter-award.JPG) by the Argonne National Laboratory, [photo](img/2019-pacesetter-award-photo.jpg), for _excellence in achievement and performance which truly surpasses normal job expectations_. 
 * __02/2019__ One paper entitled "_Data transfer between scientific facilities - bottleneck analysis, insights and optimizations_" has been accepted by the The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019).
 
