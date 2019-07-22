@@ -2,27 +2,20 @@
 layout: default
 title: What's new
 ---
+* __08/2019__ Share our interesting findings from combining, correlating and analyzing multi-dimensional logs of supercomputers at [ModSim](https://www.bnl.gov/modsim2019/), [Abstract][file/modsim-2019.pdf].
+* __08/2019__ Speaker of a panel about deep learning applications for facilities at the [Monterey Data Conference](https://www.montereydataconference.org/). 
 * __06/2019__ Present a [Poster](file/mmls19-poster.pdf) about our [TomoGAN](https://arxiv.org/abs/1902.07582) work at [MMLS](https://mmls.cc/) 2019, [Abstract](file/mmls19-abs.pdf). 
-* __06/2019__ Gave a talk ([Slides](file/ds4sys.pdf)) about data science and machine learning for computer system characterization, interpretation and optimization.
+* __06/2019__ Gave a talk about data science and machine learning for computer system characterization, interpretation and optimization. [Slides](file/ds4sys.pdf).
 * __03/2019__ I am deeply honored to receive the director's [___Pacesetter Award___](img/pacesetter-award.JPG) by the Argonne National Laboratory, [photo](img/2019-pacesetter-award-photo.jpg), for _excellence in achievement and performance which truly surpasses normal job expectations_. 
 * __02/2019__ One paper entitled "_Data transfer between scientific facilities - bottleneck analysis, insights and optimizations_" has been accepted by the The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019).
-
 * __11/2018__ Our paper: "_Throughput Analytics of Data Transfer Infrastructures_" won the [***Best Paper Award***](file/TRIDENTCOM18-best-paper.pdf) at the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**).
-
 * __11/2018__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the [***Best Paper Award***](file/mln18-bset-paper.pdf) at the International Conference on Machine Learning for Networking (**MLN'18**).
-
 * __11/2018__ As part of the SC18 Network Research Exhibition, we present techniques for reducing transfer time of extreme-scale datasets. We achived the goal of moving a petabyte in 1/4 day (actually in 350 minutes), [result](file/1pb-6h-throughput.pdf), [report](https://www.anl.gov/mcs/article/argonne-researchers-move-1-pb-of-data-from-chicago-to-dallas-in-under-6-hours). 
-
 * __10/2018__ I am awarded the 2018 __Outstanding Reviewer__ of the _American Journal of Computer Science and Information Technology_ ([AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com)), [Certificate](file/AJCSIT-outstanding-reviewer.png).
-
 * __10/2018__ One paper entitled "_Building a Wide-Area File Transfer Performance Predictor: An Empirical Study_" has been accepted by the International Conference on Machine Learning for Networking(MLN'18)
-
 * __10/2018__ One paper entitled "_Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections_" has been accepted by the The 20th International Conference on Distributed Computing and Networking(ICDCN'19)
-
 * __09/2018__ One paper entitled "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" has been accepted by the International Conference on Machine Learning for Networking(MLN'18)
-
 * __09/2018__ One paper entitled "_Throughput Analytics of Data Transfer Infrastructures_" has been accepted by the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (TRIDENTCOM'18), (___Best paper awarded___).
-
 * __07/2018__: Invited to serve as a PC Member for DAAC workshop @ SC'18.
 
 
