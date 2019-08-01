@@ -4,6 +4,7 @@ title: What's new
 ---
 * __08/2019__ Share our interesting findings from combining, correlating and analyzing multi-dimensional logs of supercomputers at [ModSim](https://www.bnl.gov/modsim2019/), [Abstract][file/modsim-2019.pdf].
 * __08/2019__ Speaker of a panel about deep learning applications for facilities at the [Monterey Data Conference](https://www.montereydataconference.org/). 
+* __07/2019__ Gave a presentation entitled "Advancing X-ray Tomography using Deep Generative Adversarial Networks" in Physical Sciences and Engineering AI Townhall meeting [Slides](file/pse-ai-townhall-TomoGAN-Zhengchun-Liu.pdf).
 * __06/2019__ Present a [Poster](file/mmls19-poster.pdf) about our [TomoGAN](https://arxiv.org/abs/1902.07582) work at [MMLS](https://mmls.cc/) 2019, [Abstract](file/mmls19-abs.pdf). 
 * __06/2019__ Gave a talk about data science and machine learning for computer system characterization, interpretation and optimization. [Slides](file/ds4sys.pdf).
 * __03/2019__ I am deeply honored to receive the director's [___Pacesetter Award___](img/pacesetter-award.JPG) by the Argonne National Laboratory, [photo](img/2019-pacesetter-award-photo.jpg), for _excellence in achievement and performance which truly surpasses normal job expectations_. 

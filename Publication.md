@@ -4,12 +4,16 @@ title: Home
 ---
 
 ## Refereed Conference Papers
+- Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. [Elastic Data Transfer Infrastructure for a Dynamic Science DMZ](). 
+
+  *The 15th IEEE International Conference on eScience* (**eScience'19**). 
+
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco De Carlo and Ian Foster.
 [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks](https://arxiv.org/abs/1902.07582).
 [[arXiv.org](https://arxiv.org/abs/1902.07582)]
 
 - Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S. V. Rao, Zizhong Chen and Ian Foster. 
-[Data transfer between scientific facilities - bottleneck analysis, insights and optimizations]() [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ccgrid2019-zliu-pfs-trs.pdf)]. 
+[Data transfer between scientific facilities - bottleneck analysis, insights and optimizations](https://doi.org/10.1109/CCGRID.2019.00023) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ccgrid2019-zliu-pfs-trs.pdf)]. 
 *The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing* (**CCGrid'19**).
 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash, Nageswara S. V. Rao and Ian Foster. 
