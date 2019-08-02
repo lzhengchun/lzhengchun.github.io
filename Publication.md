@@ -5,8 +5,7 @@ title: Home
 
 ## Refereed Conference Papers
 - Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. [Elastic Data Transfer Infrastructure for a Dynamic Science DMZ](). 
-
-  *The 15th IEEE International Conference on eScience* (**eScience'19**). 
+*The 15th IEEE International Conference on eScience* (**eScience'19**). 
 
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco De Carlo and Ian Foster.
 [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks](https://arxiv.org/abs/1902.07582).

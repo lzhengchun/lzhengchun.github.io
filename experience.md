@@ -4,7 +4,14 @@ title: Experience
 ---
 
 ## Research Work Experience
-### University of Chicago, United States 2018.03 - present 
+### Argonne National Laboratory, United States 2019.08 - present 
+Assistant Computer Scientist
+
+- Data Science and Learning for Computer System(Explain, Predict and Optimize).
+- Deep Learning in High Performance Computing environment.
+- The application of Artiﬁcial Intelligence for Science.
+
+### University of Chicago, United States 2018.03 - 2019.08 
 Research Scientist at the Computation Institute
 
 - Performance modeling and characterization of high performance computing system.
