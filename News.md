@@ -2,7 +2,7 @@
 layout: default
 title: What's new
 ---
-* __08/2019__ Share our interesting findings from combining, correlating and analyzing multi-dimensional logs of supercomputers at [ModSim](https://www.bnl.gov/modsim2019/), [Abstract][file/modsim-2019.pdf].
+* __08/2019__ Share our interesting findings from combining, correlating and analyzing multi-dimensional logs of supercomputers at [ModSim](https://www.bnl.gov/modsim2019/), [Abstract](file/modsim-2019.pdf).
 * __08/2019__ Panelist of _deep learning for facilities_ at the [Monterey Data Conference](https://www.montereydataconference.org/). 
 * __07/2019__ Gave a presentation entitled "Advancing X-ray Tomography using Deep Generative Adversarial Networks" in Physical Sciences and Engineering AI Townhall meeting [Slides](file/pse-ai-townhall-TomoGAN-Zhengchun-Liu.pdf).
 * __06/2019__ Present a [Poster](file/mmls19-poster.pdf) about our [TomoGAN](https://arxiv.org/abs/1902.07582) work at [MMLS](https://mmls.cc/) 2019, [Abstract](file/mmls19-abs.pdf). 
