@@ -4,65 +4,53 @@ title: Home
 ---
 
 ## Refereed Conference Papers
+- Vibhatha Abeykoon, __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Geoffrey Fox and Ian Foster. [Scientific Image Restoration Anywhere ](http://www.mcs.anl.gov/~zcliu/file/xloop-at-sc19-edge-tpu.pdf). *XLOOP @SC'19*
+- __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster. [Deep Learning Accelerated Light Source Experiments ](http://www.mcs.anl.gov/~zcliu/file/tomogan-stream-at-sc19.pdf).
+*The Deep Learning on Supercomputers Workshop @SC'19*
 - Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. [Elastic Data Transfer Infrastructure for a Dynamic Science DMZ](). 
 *The 15th IEEE International Conference on eScience* (**eScience'19**). 
-
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco De Carlo and Ian Foster.
 [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks](https://arxiv.org/abs/1902.07582).
 [[arXiv.org](https://arxiv.org/abs/1902.07582), [Source & Example](https://github.com/ramsesproject/TomoGAN)]
-
 - Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S. V. Rao, Zizhong Chen and Ian Foster. 
 [Data transfer between scientific facilities - bottleneck analysis, insights and optimizations](https://doi.org/10.1109/CCGRID.2019.00023) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ccgrid2019-zliu-pfs-trs.pdf)]. 
 *The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing* (**CCGrid'19**).
-
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash, Nageswara S. V. Rao and Ian Foster. 
 [Building a Wide-Area File Transfer Performance Predictor: An Empirical Study](https://doi.org/10.1007/978-3-030-19945-6_5) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/globus-prediction-mln18.pdf), <a href="file/take-away/globus-prediction-mln18.txt" target="_blank">Take-away</a>, <a href="file/bib/globus-prediction-mln18.bib.txt" target="_blank">Bib</a>, [Slides](file/mln18-globus-prediction.pdf)].
 *International Conference on Machine Learning for Networking* (**MLN'18**). 
-
 - Nageswara Rao, Qiang Liu, Satyabrata Sen, __Zhengchun Liu__, Rajkumar Kettimuthu, and Ian Foster.  
 [Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections](https://doi.org/10.1145/3288599.3288641).  
 *The 20th International Conference on Distributed Computing and Networking* (**ICDCN'19**).
-
 - Nageswara Rao, Satyabrata Sen, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster.  
 [Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections].  
 *The 1st International Conference on Machine Learning for Networking* (**MLN'18**), [___Best paper awarded___](file/mln18-bset-paper.pdf). 
-
 - Nageswara Rao, Qiang Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, and Ian Foster.  
 [Throughput Analytics of Data Transfer Infrastructures](https://link.springer.com/chapter/10.1007/978-3-030-12971-2_2).  
 *The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities* (**TRIDENTCOM'18**), [___Best paper awarded___](file/TRIDENTCOM18-best-paper.pdf).
-
 - Rajkumar Kettimuthu, __Zhengchun Liu__, Ian Foster, Peter H. Beckman, Alex Sim, John Wu, Wei-keng Liao, Qiao Kang, Ankit Agrawal, and Alok Choudhary.  
 [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ai-science18.pdf), <a href="file/take-away/ai-science18.txt" target="_blank">Take-away</a>, <a href="file/bib/ai-science18.bib.txt" target="_blank">Bib</a>]  
 *The 1st AI-Science workshop in conjunction with HPDC'18* (**AI-Science'18**).
-
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Nageswara S.V. Rao.  
 [Cross-geography Scientific Data Transferring Trends and Behavior](https://doi.org/10.1145/3208040.3208053). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/hpdc2018.pdf), [Poster](file/hpdc2018-poster.pdf), [Slides](file/hpdc18-slides.pdf), <a href="file/take-away/hpdc18.txt" target="_blank">Take-away</a>, <a href="file/bib/hpdc18.bib.txt" target="_blank">Bib</a>]  
 *The 27th International ACM Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'18**).
-
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster.  
 [A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices](https://doi.org/10.1109/eScience.2017.27). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/eScience17-preprint-Liu.pdf), <a href="file/take-away/superfacility17.txt" target="_blank">Take-away</a>, <a href="file/bib/superfacility17.bib.txt" target="_blank">Bib</a>]  
 *The 13th IEEE International Conference on eScience* (**eScience'17**). 
-
 - __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster.  
 [Explaining Wide Area Data Transfer Performance](https://doi.org/10.1145/3078597.3078605). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/hpdc2017.pdf), [Highlight](http://www.mcs.anl.gov/articles/machine-learning-methods-used-develop-data-transfer-performance-models), [Poster](file/hpdc17-poster.pdf), [Slides](file/slides-HPDC-2017-Zhengchun-Liu.pdf), <a href="file/take-away/hpdc17.txt" target="_blank">Take-away</a>, <a href="file/bib/hpdc17.bib.txt" target="_blank">Bib</a>].  
 *The 26th International ACM Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'17**). 
-
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque.  
 [Support managing population aging stress of emergency departments in a computational way](https://doi.org/10.1016/j.procs.2017.05.147). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/aging-iccs2017.pdf), <a href="file/take-away/iccs17.txt" target="_blank">Take-away</a>, <a href="file/bib/iccs17.bib.txt" target="_blank">Bib</a>]  
 *2017 International Conference on Computational Science* (**ICCS'17**).
-
 - __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs, Francisco Epelde and Emilio Luque.  
 [Simulating the Micro-level Behavior of Emergency Department for Macro-level Features Prediction](https://doi.org/10.1109/WSC.2015.7408162). [[Slides](http://www.mcs.anl.gov/~zcliu/file/wsc15-micro2macro.pdf), <a href="file/take-away/wsc15.txt" target="_blank">Take-away</a>, <a href="file/bib/wsc15.bib.txt" target="_blank">Bib</a>]  
 *2015 Winter Simulation Conference* (**WSC'15**).
-
 - __Zhengchun Liu__, Eduardo Cabrera, Manel Taboada, Francisco Epelde, Dolores Rexachs and Emilio Luque.  
 [Quantitative Evaluation of Decision Effects in the Management of Emergency Department Problems](https://doi.org/10.1016/j.procs.2015.05.265)[<a href="file/take-away/iccs15-ed.txt" target="_blank">Take-away</a>, <a href="file/bib/iccs15-ed.bib.txt" target="_blank">Bib</a>].  
 *2015 International Conference on Computational Science* (**ICCS'15**).
-
 - Xueping Zhu, __Zhengchun Liu__ and Jun Yang.  
 [Model of Collaborative UAV Swarm Toward Coordination and Control Mechanisms Study](https://doi.org/10.1016/j.procs.2015.05.274). [[Slides](file/uav-agent.pdf), <a href="file/take-away/iccs15-uav.txt" target="_blank">Take-away</a>, <a href="file/bib/iccs15-uav.bib.txt" target="_blank">Bib</a>]  
 *2015 International Conference on Computational Science* (**ICCS'15**).
-
 - __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs and Emilio Luque.  
 [A Generalized Agent-Based Model to Simulate Emergency Departments](http://www.thinkmind.org/index.php?view=article&articleid=simul_2014_3_30_50128). [[Slides](http://www.mcs.anl.gov/~zcliu/file/SIMUL_2014_slide.pdf), [Preprint](file/SIMUL_2014_article.pdf), <a href="file/take-away/simul14.txt" target="_blank">Take-away</a>, <a href="file/bib/simul14.bib.txt" target="_blank">Bib</a>].  
 *The 6th International Conference on Advances in System Simulation* (**SIMUL'14**). 
