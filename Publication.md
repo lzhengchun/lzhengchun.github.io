@@ -13,7 +13,7 @@ title: Home
 [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks](https://arxiv.org/abs/1902.07582).
 [[arXiv.org](https://arxiv.org/abs/1902.07582), [Source & Example](https://github.com/ramsesproject/TomoGAN)]
 - Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S. V. Rao, Zizhong Chen and Ian Foster. 
-[Data transfer between scientific facilities - bottleneck analysis, insights and optimizations](https://doi.org/10.1109/CCGRID.2019.00023) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ccgrid2019-zliu-pfs-trs.pdf)]. 
+[Data transfer between scientific facilities - bottleneck analysis, insights and optimizations](https://doi.org/10.1109/CCGRID.2019.00023) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ccgrid2019-zliu-pfs-trs.pdf), [Slides](http://www.mcs.anl.gov/~zcliu/file/ccgrid19-slides.pdf)]. 
 *The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing* (**CCGrid'19**).
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash, Nageswara S. V. Rao and Ian Foster. 
 [Building a Wide-Area File Transfer Performance Predictor: An Empirical Study](https://doi.org/10.1007/978-3-030-19945-6_5) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/globus-prediction-mln18.pdf), <a href="file/take-away/globus-prediction-mln18.txt" target="_blank">Take-away</a>, <a href="file/bib/globus-prediction-mln18.bib.txt" target="_blank">Bib</a>, [Slides](file/mln18-globus-prediction.pdf)].
