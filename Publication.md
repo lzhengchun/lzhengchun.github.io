@@ -4,10 +4,20 @@ title: Home
 ---
 
 ## Refereed Conference Papers
-- Vibhatha Abeykoon, __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Geoffrey Fox and Ian Foster. [Scientific Image Restoration Anywhere ](http://www.mcs.anl.gov/~zcliu/file/xloop-at-sc19-edge-tpu.pdf). *XLOOP @SC'19*
-- __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster. [Deep Learning Accelerated Light Source Experiments ](http://www.mcs.anl.gov/~zcliu/file/tomogan-stream-at-sc19.pdf).
-*The Deep Learning on Supercomputers Workshop @SC'19*
-- Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. [Elastic Data Transfer Infrastructure for a Dynamic Science DMZ](). 
+- Nageswara Rao, Neena Imam, Rajkumar Kettimuthu, __Zhengchun Liu__ and Ian Foster,
+[Estimation of RTT and Loss Rate of Wide-Area Connections Using MPI Measurements](), 
+*2019 IEEE/ACM Innovating the Network for Data-Intensive Science (INDIS)*
+- Nageswara Rao, Neena Imam, Rajkumar Kettimuthu, __Zhengchun Liu__ and Ian Foster,
+[Machine Learning Methods for Connection RTT and Loss Rate Estimation Using MPI Measurements Under Random Losses](),
+*International Conference on Machine Learning for Networking* (**MLN'19**). 
+- Vibhatha Abeykoon, __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Geoffrey Fox and Ian Foster. 
+[Scientific Image Restoration Anywhere ](http://www.mcs.anl.gov/~zcliu/file/xloop-at-sc19-edge-tpu.pdf). 
+*XLOOP @SC'19*
+- __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster. 
+[Deep Learning Accelerated Light Source Experiments ](http://www.mcs.anl.gov/~zcliu/file/tomogan-stream-at-sc19.pdf).
+*IEEE/ACM Third Workshop on Deep Learning on Supercomputers (DLS) @ SC'19*
+- Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. 
+[Elastic Data Transfer Infrastructure for a Dynamic Science DMZ](). 
 *The 15th IEEE International Conference on eScience* (**eScience'19**). 
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco De Carlo and Ian Foster.
 [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks](https://arxiv.org/abs/1902.07582).
