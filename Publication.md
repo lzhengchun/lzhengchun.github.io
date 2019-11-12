@@ -5,10 +5,8 @@ title: Home
 
 ## Refereed Conference Papers
 - Qiao Kang, Ankit Agrawal, Alok Choudhary, Alex Sim, Kesheng Wu, Rajkumar Kettimuthu, Peter Beckman, **Zhengchun Liu** and Wei-keng Liao.
-
-  [Spatiotemporal Real-Time Anomaly Detection for Supercomputing Systems]().
-
-  BDPM@IEEE Big Data.
+[Spatiotemporal Real-Time Anomaly Detection for Supercomputing Systems]().
+BDPM@IEEE Big Data.
 
 - Nageswara Rao, Neena Imam, Rajkumar Kettimuthu, __Zhengchun Liu__ and Ian Foster,
   [Estimation of RTT and Loss Rate of Wide-Area Connections Using MPI Measurements](), 
