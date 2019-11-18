@@ -17,11 +17,11 @@ BDPM@IEEE Big Data.
   *International Conference on Machine Learning for Networking* (**MLN'19**). 
 
 - Vibhatha Abeykoon, __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Geoffrey Fox and Ian Foster. 
-  [Scientific Image Restoration Anywhere ](http://www.mcs.anl.gov/~zcliu/file/xloop-at-sc19-edge-tpu.pdf). 
+  [Scientific Image Restoration Anywhere ](http://www.mcs.anl.gov/~zcliu/file/xloop-at-sc19-edge-tpu.pdf), [[arXiv:1911.05878](https://arxiv.org/abs/1911.05878)]. 
   *XLOOP @SC'19*
 
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster. 
-  [Deep Learning Accelerated Light Source Experiments ](http://www.mcs.anl.gov/~zcliu/file/tomogan-stream-at-sc19.pdf), [[arXiv](https://arxiv.org/abs/1910.04081), [Video](https://youtu.be/PcHsOK4qwlk)].
+  [Deep Learning Accelerated Light Source Experiments ](http://www.mcs.anl.gov/~zcliu/file/tomogan-stream-at-sc19.pdf), [[arXiv:1910.04081](https://arxiv.org/abs/1910.04081), [Video](https://youtu.be/PcHsOK4qwlk), [Slides](file/DLS-2019-ZLiu.pdf)].
   *IEEE/ACM Third Workshop on Deep Learning on Supercomputers (DLS) @ SC'19*
 
 - Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. 
@@ -30,7 +30,7 @@ BDPM@IEEE Big Data.
 
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco De Carlo and Ian Foster.
   [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks](https://arxiv.org/abs/1902.07582).
-  [[arXiv.org](https://arxiv.org/abs/1902.07582), [Source & Example](https://github.com/ramsesproject/TomoGAN)]
+  [[arXiv](https://arxiv.org/abs/1902.07582), [Source Code & Example](https://github.com/ramsesproject/TomoGAN)]
 
 - Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S. V. Rao, Zizhong Chen and Ian Foster. 
   [Data transfer between scientific facilities - bottleneck analysis, insights and optimizations](https://doi.org/10.1109/CCGRID.2019.00023) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ccgrid2019-zliu-pfs-trs.pdf), [Slides](http://www.mcs.anl.gov/~zcliu/file/ccgrid19-slides.pdf)]. 
@@ -117,11 +117,6 @@ BDPM@IEEE Big Data.
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Yuanlai Liu.  
 [A comprehensive study of wide area data movement at a scientific computing facility](https://doi.org/10.1109/ICDCS.2018.00180). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf), , <a href="file/take-away/snta18.txt" target="_blank">Take-away</a>, <a href="file/bib/snta18.bib.txt" target="_blank">Bib</a>]  
 2018 IEEE 38th International Conference on Distributed Computing Systems (SNTA @ ICDCS'18). 
-
-<!--## Under Peer-Review Papers
-
-- Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S.V. Rao, Zizhong Chen, and Ian Foster. 
-Insights into the bottlenecks and optimization methods for multi-file transfers between HPC facilities-->
 
 ## Other Selected Papers
 
