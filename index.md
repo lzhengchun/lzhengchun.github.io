@@ -42,6 +42,7 @@ I am interested in Computer Science related research, mostly include:
 
 ---
 ## Professional Training, Honors & Awards:
+* [2019/03] "*Real-Time Analysis of Streaming Synchrotron Data over High-Speed WAN using Deep Learning and HPC*" won the __Top Recognition__ for an Exemplary Blend of Network, Computing, and Storage at SC'19 by SciNet. 
 * [2019/03] The 2019 Data Science and Learning Devision [___Pacesetter Award___](img/pacesetter-award.JPG) by the Argonne National Laboratory, [photo](img/2019-pacesetter-award-photo.jpg). 
 * [ 2018/06]The ___Extraordinary Doctorate Award___ by the Universitat Autònoma de Barcelona, [certificate](file/zliu-extraordinary-doc.pdf).
 * [2018/02] Online Course __Sequence Models__ by [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/learn/nlp-sequence-models/home/welcome). <a href="https://www.coursera.org/account/accomplishments/certificate/98J8RFKMCGAA" target="_blank">Certificate</a> earned on February 4, 2018

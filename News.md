@@ -2,6 +2,7 @@
 layout: default
 title: What's new
 ---
+* __11/2019__ Our work "**Real-Time Analysis of Streaming Synchrotron Data over High-Speed WAN using Deep Learning and HPC**" won the Top Recognition for an Exemplary Blend of Network, Computing, and Storage @SC'19 by SciNet. 
 * __11/2019__ We will participate the Technology Challenge at SC'19 and demonstrate our deep learning accelerated Synchrotron light source expeirment and the Real-Time Analysis of Streaming Synchrotron Data.
 * __10/2019__ Two papers accepted by SC'19 workshops. One about _deep learning accelerated light source experiment for tomography_ and the other about _Scientific image Restoration on edge computing device_
 * __08/2019__ Share our interesting findings from combining, correlating and analyzing multi-dimensional logs of supercomputers at [ModSim](https://www.bnl.gov/modsim2019/), [Abstract](file/modsim-2019.pdf).
