@@ -2,7 +2,7 @@
 layout: default
 title: What's new
 ---
-* __11/2019__ Our work "**Real-Time Analysis of Streaming Synchrotron Data over High-Speed WAN using Deep Learning and HPC**" won the Top Recognition for an Exemplary Blend of Network, Computing, and Storage @SC'19 by SciNet. [[photo](./img/tc-award-team.JPG), [award](./img/tc-award.jpg), [Related work](https://arxiv.org/abs/1910.04081)]. 
+* __11/2019__ Our work "**Real-Time Analysis of Streaming Synchrotron Data over High-Speed WAN using Deep Learning and HPC**" won the Top Recognition for an Exemplary Blend of Network, Computing, and Storage @SC'19 by SciNet. [[photo](./img/tc-award-team.JPG), [award](./img/tc-award.jpg), [Related work](https://arxiv.org/abs/1910.04081), [media-DOE](https://www.newswise.com/doescience/?article_id=724136&returnurl=aHR0cHM6Ly93d3cubmV3c3dpc2UuY29tL2FydGljbGVzL2xpc3Q=), [media-AAAS](https://www.eurekalert.org/pub_releases/2019-12/dnl-atw121719.php)]. 
 * __10/2019__ Two papers accepted by SC'19 workshops. One about _deep learning accelerated light source experiment for tomography_ and the other about _Scientific image Restoration on edge computing device_
 * __08/2019__ Share our interesting findings from combining, correlating and analyzing multi-dimensional logs of supercomputers at [ModSim](https://www.bnl.gov/modsim2019/), [Abstract](file/modsim-2019.pdf).
 * __08/2019__ Panelist of _deep learning for facilities_ at the [Monterey Data Conference](https://www.montereydataconference.org/). 
