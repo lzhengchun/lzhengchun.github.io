@@ -17,11 +17,11 @@ BDPM@IEEE Big Data.
   *International Conference on Machine Learning for Networking* (**MLN'19**). 
 
 - Vibhatha Abeykoon, __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Geoffrey Fox and Ian Foster. 
-  [Scientific Image Restoration Anywhere ](http://www.mcs.anl.gov/~zcliu/file/xloop-at-sc19-edge-tpu.pdf), [[arXiv:1911.05878](https://arxiv.org/abs/1911.05878)]. 
+  [Scientific Image Restoration Anywhere ](https://doi.org/10.1109/XLOOP49562.2019.00007), [[arXiv:1911.05878](https://arxiv.org/abs/1911.05878)]. 
   *XLOOP @SC'19*
 
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster. 
-  [Deep Learning Accelerated Light Source Experiments ](http://www.mcs.anl.gov/~zcliu/file/tomogan-stream-at-sc19.pdf), [[arXiv:1910.04081](https://arxiv.org/abs/1910.04081), [Video](https://youtu.be/PcHsOK4qwlk), [Slides](file/DLS-2019-ZLiu.pdf)].
+  [Deep Learning Accelerated Light Source Experiments ](https://doi.org/10.1109/DLS49591.2019.00008), [[arXiv:1910.04081](https://arxiv.org/abs/1910.04081), [Video](https://youtu.be/PcHsOK4qwlk), [Slides](file/DLS-2019-ZLiu.pdf)].
   *IEEE/ACM Third Workshop on Deep Learning on Supercomputers (DLS) @ SC'19*
 
 - Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. 
