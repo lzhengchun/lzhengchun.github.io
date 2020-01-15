@@ -29,7 +29,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman.  
   [Towards a Smart Data Transfer Node](https://doi.org/10.1016/j.future.2018.06.033). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-smart-dtn.pdf), <a href="file/take-away/smart-dtn.txt" target="_blank">Take-away</a>, <a href="file/bib/smart-dtn.bib.txt" target="_blank">Bib</a>]  
   *Future Generation Computer Systems* Vol. 89, December 2018, Pages 10-18.
-- Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello.  
+- Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello. 
   [Transferring a Petabyte in a Day](https://doi.org/10.1016/j.future.2018.05.051). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-1pb.pdf), <a href="file/take-away/pb-a-day.txt" target="_blank">Take-away</a>, <a href="file/bib/pb-a-day.bib.txt" target="_blank">Bib</a>]  
   *Future Generation Computer Systems*. Vol. 88, November 2018, pages 191-198.
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Yuanlai Liu.  
@@ -103,9 +103,9 @@ BDPM@IEEE Big Data, 2019.
 [Correlation between Piezoresponse Nonlinearity and Hysteresis in Ferroelectric Crystals at Nanoscale.](https://doi.org/10.1063/1.4947533). 
 *Applied Physics Letters*, Vol.108, January 2017, Pages 300–309. 
 
-- __Zhengchun Liu__ and Emilio Luque. Modeling and Simulation for Healthcare Operations Management using High Performance Computing and Agent-Based Model. [thesis overview] *Journal of Computer Science & Technology*, Vol. 17, 2017. [PDF](file/Zhengchun-Liu-Thesis-Overview.pdf)] 
+- __Zhengchun Liu__ and Emilio Luque. Modeling and Simulation for Healthcare Operations Management using High Performance Computing and Agent-Based Model. [thesis overview] *Journal of Computer Science & Technology*, Vol. 17, 2017. [[PDF](file/Zhengchun-Liu-Thesis-Overview.pdf)] 
 
-- __Zhengchun Liu__. High Performance Computing Based Simulation for Healthcare Decision Support [PDF](file/zliu-bsc-2015.pdf), [abstract](file/Extended-Research-Abstract.pdf)]. *The Second International BSC Doctoral Symposium*, Barcelona, Spain. May 5-7, 2015.
+- __Zhengchun Liu__. High Performance Computing Based Simulation for Healthcare Decision Support.[[Slides](file/zliu-bsc-2015.pdf), [Abstract](file/Extended-Research-Abstract.pdf)]. *The Second International BSC Doctoral Symposium*, Barcelona, Spain. May 5-7, 2015.
 
 - __Zhengchun Liu__, Eduardo Cabrera, Dolores Rexachs and Emilio Luque. Study of Emergency Department by Using High Performance Computing. *XXV Jornadas de Paralelismo Valladolid (national)*. September 2014 [PDF](file/Jornadas_sarteco_2014.pdf)]. Jornadas sarteco 2014
 
