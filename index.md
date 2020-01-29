@@ -4,20 +4,15 @@ title: Home
 ---
 
 ## Short Bio.
-I am an Assistant Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory. Before this, I was a research scientist at the University of Chicago from 2018.03 to 2019.08, and a Postdoc at the Mathematics and Computer Science division of Argonne National Laboratory from 2016.09 to 2018.03. 
+Zhengchun Liu is an Assistant Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory. Before this, he was a research scientist at the University of Chicago from 2018.03 to 2019.08, and a Postdoc at the Mathematics and Computer Science division of Argonne National Laboratory from 2016.09 to 2018.03. 
 
-For more details and contact info, please see my resume with <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">html</a>.
+For more details and contact info, please see his resume, in <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">html</a>.
 
 ## Research Highlights
-At Argonne, I work on developing end-to-end analytical performance models to transform understanding of the behavior of science workflows in extreme-scale science environments. These models are developed to __predict__ the behavior of a science workflow before it is implemented, to __explain__ why performance does not meet design goals, and to architect science environments to meet workflow needs. 
-
-I also work on exploring the architecture, methods, and algorithms needed to support future scientific computing systems that are capable of self-configuration, self-optimization and self-manage etc. We propose to make the science ecosystem smart by incorporating the functions of sensing, intelligence, and control.
+Zhengchun Liu works on applying data science and machine learning techniques to transform understanding of the behavior of computer systems in extreme-scale science environments. Specifically, it includes __explaining__ why performance does not meet design goals,  __predicting__ the behavior of computer systems and __optimizing__ it for application in production. Recently, he focuses his effort on developing deep learning models to advance X-ray tomography images. In a long run, he also works on exploring the architecture, methods, and algorithms needed to support future scientific computing systems that are capable of self-configuration, self-optimization and self-manage etc.
 
 ---
 ## Research Interests:
-
-I am interested in Computer Science related research, mostly include:
-
 * Wide-area data transfer, performance modeling and optimization; 
 * Data Science and Learning for science;
 * High Performance Computing and Artificial Intelligence;
