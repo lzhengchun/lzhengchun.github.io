@@ -13,7 +13,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
   *IEEE/ACM Third Workshop on Deep Learning on Supercomputers (DLS) @ SC'19*
 - Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. [Toward an Elastic Data Transfer Infrastructure](https://static.sched.com/hosted_files/escience2019/b6/2019-09-27-Kettimuthu.pdf). *The IEEE International Conference on eScience*. 
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco De Carlo and Ian Foster.
-  [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks](https://arxiv.org/abs/1902.07582), Journal of the Optical Society of America A. [[arXiv](https://arxiv.org/abs/1902.07582), [Source Code & Example](https://github.com/ramsesproject/TomoGAN)]
+  [TomoGAN: Low-Dose Synchrotron X-Ray Tomography with Generative Adversarial Networks](https://doi.org/10.1364/JOSAA.375595), Journal of the Optical Society of America A, Vol. 37, No. 2, February 2020. [[arXiv](https://arxiv.org/abs/1902.07582), [Source Code](https://github.com/ramsesproject/TomoGAN)]
 - Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S. V. Rao, Zizhong Chen and Ian Foster. 
   [Data transfer between scientific facilities - bottleneck analysis, insights and optimizations](https://doi.org/10.1109/CCGRID.2019.00023) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ccgrid2019-zliu-pfs-trs.pdf), [Slides](http://www.mcs.anl.gov/~zcliu/file/ccgrid19-slides.pdf)]. The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (**CCGrid'19**).
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash, Nageswara S. V. Rao and Ian Foster. 
