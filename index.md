@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Short Bio.
-Zhengchun Liu is an Assistant Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory. Before this, he was a research scientist at the University of Chicago from 2018.03 to 2019.08, and a Postdoc at the Mathematics and Computer Science division of Argonne National Laboratory from 2016.09 to 2018.03. 
+Zhengchun Liu is an Assistant Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory, and a Scientist At-Large of the Consortium for Advanced Science and Engineering at [The University of Chicago](https://www.uchicago.edu/). Before this, he was a research scientist at the University of Chicago from 2018.03 to 2019.08, and a Postdoc at the Mathematics and Computer Science division of Argonne National Laboratory from 2016.09 to 2018.03. 
 
 For more details and contact info, please see his resume, in <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">html</a>.
 

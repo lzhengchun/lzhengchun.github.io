@@ -49,7 +49,7 @@ title: What's new
 
 * One paper got accepted by the 2017 International Conference on Computational Science. May 23, 2017. [link](https://doi.org/10.1016/j.procs.2017.05.147)
 
-* I attended the HPDC'17 and gave a talk entitled Explaining Wide Area Data Transfer Performance. [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/slides-HPDC-2017-Zhengchun-Liu.pdf)]
+* I gave a talk about ___Explaining Wide Area Data Transfer Performance___ in HPDC'17. [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](file/slides-HPDC-2017-Zhengchun-Liu.pdf)]
 
 * I gave a talk about "Explaining/Understanding Wide Area Data Transfer Performance" in [GlobusWorld](https://www.globusworld.org/) 2017. [[<i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>](https://www.globusworld.org/files/2017/12_WAN_Data_Performance_Liu.pdf)]
 
