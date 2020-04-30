@@ -2,6 +2,7 @@
 layout: default
 title: What's new
 ---
+* __04/2020__ Gave a talk about __AI for Science: Use cases that I worked on and lessons learnt__ [[Slides](file/CELS-coffee-talk-20200415.pdf)].
 * __01/2020__ Gave a talk on **Advancing X-ray Tomography using AI** on the APS AI/ML Workshop at Argonne National Laboratory.[[Slides](file/APS-AI-Workshop.pdf), or [updated slides](file/APS-coffee-talk-202003.pdf)]
 * __11/2019__ Our work "**Real-Time Analysis of Streaming Synchrotron Data over High-Speed WAN using Deep Learning and HPC**" won the Top Recognition for an Exemplary Blend of Network, Computing, and Storage @SC'19 by SciNet. [[photo](./img/tc-award-team.JPG), [award](./img/tc-award.jpg), [Related work](https://arxiv.org/abs/1910.04081), [media-DOE](https://www.newswise.com/doescience/?article_id=724136&returnurl=aHR0cHM6Ly93d3cubmV3c3dpc2UuY29tL2FydGljbGVzL2xpc3Q=), [media-AAAS](https://www.eurekalert.org/pub_releases/2019-12/dnl-atw121719.php)]. 
 * __10/2019__ Two papers accepted by SC'19 workshops. One about _deep learning accelerated light source experiment for tomography_ and the other about _Scientific image Restoration on edge computing device_
