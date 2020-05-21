@@ -2,6 +2,7 @@
 layout: default
 title: What's new
 ---
+* __05/2020__ I am deeply honored to receive the _IMPACT ARGONNE_ award for notable achievement in Innovation [[Award Plaque](file/impact-argonne.pdf)]. 
 * __04/2020__ One paper, about Chractering and Identifying HPC applications at leadership computing facility using ony production logs, was accepted by 2020 International Conference on Supercomputing.
 * __04/2020__ Gave a talk about __AI for Science: Use cases that I worked on and lessons learnt__ [[Slides](file/CELS-coffee-talk-20200415.pdf)].
 * __01/2020__ Gave a talk on **Advancing X-ray Tomography using AI** on the APS AI/ML Workshop at Argonne National Laboratory.[[Slides](file/APS-AI-Workshop.pdf), or [updated slides](file/APS-coffee-talk-202003.pdf)]
