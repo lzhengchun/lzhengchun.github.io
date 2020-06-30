@@ -7,7 +7,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 - **Zhengchun Liu**, Ryan Lewis, Rajkumar Kettimuthu, Kevin Harms, Philip Carns, Nageswara Rao, Ian Foster and Michael Papka.
-[Characterization and Identification of HPC Applications at Leadership Computing Facility](). [[PDF](http://www.mcs.anl.gov/~zcliu/file/lcf-logs-ics2020.pdf)]. *International Conference on Supercomputing 2020* (**ICS'20**).
+[Characterization and Identification of HPC Applications at Leadership Computing Facility](https://dl.acm.org/doi/abs/10.1145/3392717.3392774). [[PDF](http://www.mcs.anl.gov/~zcliu/file/lcf-logs-ics2020.pdf), [Slides](file/ics-2020-Zhengchun_Liu.pdf)]. *International Conference on Supercomputing 2020* (**ICS'20**).
 - Ryan Lewis, **Zhengchun Liu**, Rajkumar Kettimuthu and Michael Papka.
 [Log-based Fingerprinting of HPC Applications](). [[poster](file/isc20-poster.pdf)]. *ISC High Performance 2020* (__ISC'20__).
 - Vibhatha Abeykoon, __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Geoffrey Fox and Ian Foster. 
