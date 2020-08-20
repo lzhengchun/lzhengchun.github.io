@@ -6,6 +6,8 @@ title: Home
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=QmES0pkAAAAJ&hl=en).
 
 ## Selected Publications
+- **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.
+[BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198). [arXiv Preprint](https://arxiv.org/abs/2008.08198).
 - **Zhengchun Liu**, Ryan Lewis, Rajkumar Kettimuthu, Kevin Harms, Philip Carns, Nageswara Rao, Ian Foster and Michael Papka.
 [Characterization and Identification of HPC Applications at Leadership Computing Facility](https://dl.acm.org/doi/abs/10.1145/3392717.3392774). [[PDF](http://www.mcs.anl.gov/~zcliu/file/lcf-logs-ics2020.pdf), [Slides](file/ics-2020-Zhengchun_Liu.pdf)]. *International Conference on Supercomputing 2020* (**ICS'20**).
 - Ryan Lewis, **Zhengchun Liu**, Rajkumar Kettimuthu and Michael Papka.
