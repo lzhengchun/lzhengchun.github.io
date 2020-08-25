@@ -6,6 +6,9 @@ title: Home
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=QmES0pkAAAAJ&hl=en).
 
 ## Selected Publications
+- Tirthak Patel, Devesh Tiwari, **Zhengchun Liu**, Rajkumar Kettimuthu, Paul Rich, Bill Allcock.
+[Job Characteristics on Production-Scale HPC Systems: Quantification, Characterization and Analysis](). 
+*The International Conference for High Performance Computing, Networking, Storage, and Analysis*(**SC'20**).
 - **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.
 [BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198). [arXiv Preprint](https://arxiv.org/abs/2008.08198).
 - **Zhengchun Liu**, Ryan Lewis, Rajkumar Kettimuthu, Kevin Harms, Philip Carns, Nageswara Rao, Ian Foster and Michael Papka.
