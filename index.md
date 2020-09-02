@@ -6,7 +6,7 @@ title: Home
 ## Short Bio.
 Zhengchun Liu is an Assistant Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory, and a Scientist At-Large of the Consortium for Advanced Science and Engineering at [The University of Chicago](https://www.uchicago.edu/). Before this, he was a research scientist at the University of Chicago from 2018.03 to 2019.08, and a Postdoc at the Mathematics and Computer Science division of Argonne National Laboratory from 2016.09 to 2018.03. 
 
-For more details and contact info, please see his resume, in <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">html</a>.
+For more details and contact info, please see his resume, <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">cv.pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">cv.html</a>.
 
 ## Research Highlights
 Zhengchun Liu works on applying data science and machine learning techniques to transform understanding of the behavior of computer systems in extreme-scale science environments. Specifically, it includes __explaining__ why performance does not meet design goals,  __predicting__ the behavior of computer systems and __optimizing__ it for application in production. Recently, he focuses his effort on developing deep learning models to advance X-ray tomography images. In a long run, he also works on exploring the architecture, methods, and algorithms needed to support future scientific computing systems that are capable of self-configuration, self-optimization and self-manage etc.
@@ -14,9 +14,9 @@ Zhengchun Liu works on applying data science and machine learning techniques to 
 ---
 ## Research Interests:
 * Wide-area data transfer, performance modeling and optimization; 
-* Data Science and Learning for science;
+* Data Science and Machine Learning for science problems;
 * High Performance Computing and Artificial Intelligence;
-* Embedded System, Real-Time Operating System and Edge Computing.
+* Embedded System and Edge Computing.
 
 ---
 ## Professional Memberships and Activities:
@@ -28,14 +28,7 @@ Zhengchun Liu works on applying data science and machine learning techniques to 
 * **Journal Reviewer**: [Algorithms-MDPI](http://www.mdpi.com/journal/algorithms); [ Sustainability–MDPI](http://www.mdpi.com/journal/sustainability); [Sensors](https://www.mdpi.com/journal/sensors); [FGCS](https://www.journals.elsevier.com/future-generation-computer-systems)([_Outstanding Reviewer_](file/outstanding-reviewer-zliu-fgcs.pdf)); [AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com) ([_Outstanding Reviewer_](file/AJCSIT-outstanding-reviewer.png)); [IEEE-Access](http://ieeeaccess.ieee.org/); [JOCS](https://www.journals.elsevier.com/journal-of-computational-science)([Rec.](file/reviewer-zliu-jocs.pdf)).
 
 ---
-## Skills:
-* C/C++, Python, MATLAB and Embedded C Programming;
-* Parallel software development, including MPI, CUDA, OpenMP, OpenCL;
-* Massive datasets mining.
-* Embedded system, real-time OS; hardware and firmware development.
-
----
-## Professional Training, Honors & Awards:
+## Honors, Awards & Professional Training:
 * [2020/05] The _IMPACT ARGONNE_ award for notable achievement in Innovation [[Award Plaque](file/impact-argonne.pdf)]. 
 * [2019/11] Our solution: "*Real-Time Analysis of Streaming Synchrotron Data over High-Speed WAN using Deep Learning and HPC*" won the __Top Recognition__ Award in the __Technical Challenge__ at SC'19 by SciNet, for an Exemplary Blend of Network, Computing, and Storage [[Recognition Ceremony](https://www.facebook.com/SCconferences/videos/543275426219325/?t=834), [Award](./img/tc-award.jpg), [Photo](./img/tc-ceremony.png)] . 
 * [2019/03] The 2019 Data Science and Learning Devision [___Pacesetter Award___](img/pacesetter-award.JPG) by the Argonne National Laboratory, [photo](img/2019-pacesetter-award-photo.jpg). 
@@ -56,5 +49,5 @@ Zhengchun Liu works on applying data science and machine learning techniques to 
 ---
 <span style="color:blue">
 ***NEWS***: 
-We are looking for intern students, contact me if you have experience or are interested in any one of: performance modeling, simulation, high performance computing, distributed systems, workflow over distributed infrastructure or smart computing/storage/network. Visiting scholar/student is welcomed as well.
+We are looking for intern students, contact me if you have experience or are interested in any one of: Machine Learning, performance modeling, simulation, high performance computing, distributed systems, workflow over distributed infrastructure or smart computing/storage/network. Visiting scholar/student is welcomed as well.
 </span>
