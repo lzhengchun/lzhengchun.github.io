@@ -6,6 +6,7 @@ title: Home
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=QmES0pkAAAAJ&hl=en).
 
 ## Selected Publications
+- Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka. [Log-Based Identification, Classification, and Behavior Prediction of HPC Applications](). SC'20 HPC Systems Professionals Workshop [HPCSYSPROS](http://sighpc-syspros.org/workshops/2020/). 
 - Ziling Wu, Tekin Bicer, **Zhengchun Liu**, Vincent De Andrade, Yunhui Zhu, Ian T. Foster. 
   [Deep Learning-based Low-dose Tomography Reconstruction with Hybrid-dose Measurements](). SC'20 workshop on Artificial Intelligence and Machine Learning for Scientific Applications.
 - Selin Aslan, **Zhengchun Liu**, Viktor Nikitin, Tekin Bicer, Sven Leyffer, Doga Gursoy. [Distributed Optimization with Tunable Learned Priors for Robust Ptycho-Tomography]().  [arXiv Preprint](https://arxiv.org/abs/2009.09498). 
