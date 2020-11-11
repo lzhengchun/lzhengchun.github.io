@@ -2,39 +2,39 @@
 layout: default
 title: What's new
 ---
-* __05/2020__ I am deeply honored to receive the _IMPACT ARGONNE_ award for notable achievement in Innovation [[Award Plaque](file/impact-argonne.pdf)]. 
-* __04/2020__ One paper, about Chractering and Identifying HPC applications at leadership computing facility using ony production logs, was accepted by 2020 International Conference on Supercomputing.
-* __04/2020__ Gave a talk about __AI for Science: Use cases that I worked on and lessons learnt__ [[Slides](file/CELS-coffee-talk-20200415.pdf)].
-* __01/2020__ Gave a talk on **Advancing X-ray Tomography using AI** on the APS AI/ML Workshop at Argonne National Laboratory.[[Slides](file/APS-AI-Workshop.pdf), or [updated slides](file/APS-coffee-talk-202003.pdf)]
-* __11/2019__ Our work "**Real-Time Analysis of Streaming Synchrotron Data over High-Speed WAN using Deep Learning and HPC**" won the Top Recognition for an Exemplary Blend of Network, Computing, and Storage @SC'19 by SciNet. [[photo](./img/tc-award-team.JPG), [Recognition Ceremony](https://www.facebook.com/SCconferences/videos/543275426219325/?t=834), [award](./img/tc-award.jpg), [Related work](https://arxiv.org/abs/1910.04081), [media-DOE](https://www.newswise.com/doescience/?article_id=724136&returnurl=aHR0cHM6Ly93d3cubmV3c3dpc2UuY29tL2FydGljbGVzL2xpc3Q=), [media-AAAS](https://www.eurekalert.org/pub_releases/2019-12/dnl-atw121719.php)]. 
-* __10/2019__ Two papers accepted by SC'19 workshops. One about _deep learning accelerated light source experiment for tomography_ and the other about _Scientific image Restoration on edge computing device_
-* __08/2019__ Share our interesting findings from combining, correlating and analyzing multi-dimensional logs of supercomputers at [ModSim](https://www.bnl.gov/modsim2019/), [Abstract](file/modsim-2019.pdf).
-* __08/2019__ Panelist of _deep learning for facilities_ at the [Monterey Data Conference](https://www.montereydataconference.org/). 
-* __07/2019__ Gave a presentation entitled "Advancing X-ray Tomography using Deep Generative Adversarial Networks" in Physical Sciences and Engineering AI Townhall meeting [Slides](file/pse-ai-townhall-TomoGAN-Zhengchun-Liu.pdf).
-* __06/2019__ Present a [Poster](file/mmls19-poster.pdf) about our [TomoGAN](https://arxiv.org/abs/1902.07582) work at [MMLS](https://mmls.cc/) 2019, [Abstract](file/mmls19-abs.pdf). 
-* __06/2019__ Gave a talk about data science and machine learning for computer system characterization, interpretation and optimization. [Slides](file/ds4sys.pdf).
-* __03/2019__ I am deeply honored to receive the director's [___Pacesetter Award___](img/pacesetter-award.JPG) by the Argonne National Laboratory, [photo](img/2019-pacesetter-award-photo.jpg), for _excellence in achievement and performance which truly surpasses normal job expectations_. 
-* __02/2019__ One paper entitled "_Data transfer between scientific facilities - bottleneck analysis, insights and optimizations_" has been accepted by the The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019).
-* __11/2018__ Our paper: "_Throughput Analytics of Data Transfer Infrastructures_" won the [***Best Paper Award***](file/TRIDENTCOM18-best-paper.pdf) at the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**).
-* __11/2018__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the [***Best Paper Award***](file/mln18-bset-paper.pdf) at the International Conference on Machine Learning for Networking (**MLN'18**).
-* __11/2018__ As part of the SC18 Network Research Exhibition, we present techniques for reducing transfer time of extreme-scale datasets. We achived the goal of moving a petabyte in 1/4 day (actually in 350 minutes), [result](file/1pb-6h-throughput.pdf), [report](https://www.anl.gov/mcs/article/argonne-researchers-move-1-pb-of-data-from-chicago-to-dallas-in-under-6-hours). 
-* __10/2018__ I am awarded the 2018 __Outstanding Reviewer__ of the _American Journal of Computer Science and Information Technology_ ([AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com)), [Certificate](file/AJCSIT-outstanding-reviewer.png).
-* __10/2018__ One paper entitled "_Building a Wide-Area File Transfer Performance Predictor: An Empirical Study_" has been accepted by the International Conference on Machine Learning for Networking(MLN'18)
-* __10/2018__ One paper entitled "_Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections_" has been accepted by the The 20th International Conference on Distributed Computing and Networking(ICDCN'19)
-* __09/2018__ One paper entitled "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" has been accepted by the International Conference on Machine Learning for Networking(MLN'18)
-* __09/2018__ One paper entitled "_Throughput Analytics of Data Transfer Infrastructures_" has been accepted by the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (TRIDENTCOM'18), (___Best paper awarded___).
-* __07/2018__: Invited to serve as a PC Member for DAAC workshop @ SC'18.
+* __`05/2020`__ I am deeply honored to receive the _IMPACT ARGONNE_ award for notable achievement in Innovation [[Award Plaque](file/impact-argonne.pdf)]. 
+* __`04/2020`__ One paper, about Chractering and Identifying HPC applications at leadership computing facility using ony production logs, was accepted by 2020 International Conference on Supercomputing.
+* __`04/2020`__ Gave a talk about __AI for Science: Use cases that I worked on and lessons learnt__ [[Slides](file/CELS-coffee-talk-20200415.pdf)].
+* __`01/2020`__ Gave a talk on **Advancing X-ray Tomography using AI** on the APS AI/ML Workshop at Argonne National Laboratory.[[Slides](file/APS-AI-Workshop.pdf), or [updated slides](file/APS-coffee-talk-202003.pdf)]
+* __`11/2019`__ Our work "**Real-Time Analysis of Streaming Synchrotron Data over High-Speed WAN using Deep Learning and HPC**" won the Top Recognition for an Exemplary Blend of Network, Computing, and Storage @SC'19 by SciNet. [[photo](./img/tc-award-team.JPG), [Recognition Ceremony](https://www.facebook.com/SCconferences/videos/543275426219325/?t=834), [award](./img/tc-award.jpg), [Related work](https://arxiv.org/abs/1910.04081), [media-DOE](https://www.newswise.com/doescience/?article_id=724136&returnurl=aHR0cHM6Ly93d3cubmV3c3dpc2UuY29tL2FydGljbGVzL2xpc3Q=), [media-AAAS](https://www.eurekalert.org/pub_releases/2019-12/dnl-atw121719.php)]. 
+* __`10/2019`__ Two papers accepted by SC'19 workshops. One about _deep learning accelerated light source experiment for tomography_ and the other about _Scientific image Restoration on edge computing device_
+* __`08/2019`__ Share our interesting findings from combining, correlating and analyzing multi-dimensional logs of supercomputers at [ModSim](https://www.bnl.gov/modsim2019/), [Abstract](file/modsim-2019.pdf).
+* __`08/2019`__ Panelist of _deep learning for facilities_ at the [Monterey Data Conference](https://www.montereydataconference.org/). 
+* __`07/2019`__ Gave a presentation entitled "Advancing X-ray Tomography using Deep Generative Adversarial Networks" in Physical Sciences and Engineering AI Townhall meeting [Slides](file/pse-ai-townhall-TomoGAN-Zhengchun-Liu.pdf).
+* __`06/2019`__ Present a [Poster](file/mmls19-poster.pdf) about our [TomoGAN](https://arxiv.org/abs/1902.07582) work at [MMLS](https://mmls.cc/) 2019, [Abstract](file/mmls19-abs.pdf). 
+* __`06/2019`__ Gave a talk about data science and machine learning for computer system characterization, interpretation and optimization. [Slides](file/ds4sys.pdf).
+* __`03/2019`__ I am deeply honored to receive the director's [___Pacesetter Award___](img/pacesetter-award.JPG) by the Argonne National Laboratory, [photo](img/2019-pacesetter-award-photo.jpg), for _excellence in achievement and performance which truly surpasses normal job expectations_. 
+* __`02/2019`__ One paper entitled "_Data transfer between scientific facilities - bottleneck analysis, insights and optimizations_" has been accepted by the The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019).
+* __`11/2018`__ Our paper: "_Throughput Analytics of Data Transfer Infrastructures_" won the [***Best Paper Award***](file/TRIDENTCOM18-best-paper.pdf) at the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**).
+* __`11/2018`__ Our paper: "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" won the [***Best Paper Award***](file/mln18-bset-paper.pdf) at the International Conference on Machine Learning for Networking (**MLN'18**).
+* __`11/2018`__ As part of the SC18 Network Research Exhibition, we present techniques for reducing transfer time of extreme-scale datasets. We achived the goal of moving a petabyte in 1/4 day (actually in 350 minutes), [result](file/1pb-6h-throughput.pdf), [report](https://www.anl.gov/mcs/article/argonne-researchers-move-1-pb-of-data-from-chicago-to-dallas-in-under-6-hours). 
+* __`10/2018`__ I am awarded the 2018 __Outstanding Reviewer__ of the _American Journal of Computer Science and Information Technology_ ([AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com)), [Certificate](file/AJCSIT-outstanding-reviewer.png).
+* __`10/2018`__ One paper entitled "_Building a Wide-Area File Transfer Performance Predictor: An Empirical Study_" has been accepted by the International Conference on Machine Learning for Networking(MLN'18)
+* __`10/2018`__ One paper entitled "_Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections_" has been accepted by the The 20th International Conference on Distributed Computing and Networking(ICDCN'19)
+* __`09/2018`__ One paper entitled "_Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections_" has been accepted by the International Conference on Machine Learning for Networking(MLN'18)
+* __`09/2018`__ One paper entitled "_Throughput Analytics of Data Transfer Infrastructures_" has been accepted by the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (TRIDENTCOM'18), (___Best paper awarded___).
+* __`07/2018`__: Invited to serve as a PC Member for DAAC workshop @ SC'18.
 
 
-* __06/2018__ I am honourably won the ___Extraordinary Doctorate Awards___ by the Universitat Autònoma de Barcelona, [certificate](file/zliu-extraordinary-doc.pdf).
+* __`06/2018`__ I am honourably won the ___Extraordinary Doctorate Awards___ by the Universitat Autònoma de Barcelona, [certificate](file/zliu-extraordinary-doc.pdf).
 
-* __June 18, 2018__ Our paper on "_Towards a Smart Data Transfer Node_" has been accepted to publish in __Future Generation Computer Systems__. 
+* __`June 18, 2018`__ Our paper on "_Towards a Smart Data Transfer Node_" has been accepted to publish in __Future Generation Computer Systems__. 
 
-* __May 22, 2018__ Our paper on "_Transferring a Petabyte in a Day_" has been accepted to publish in __Future Generation Computer Systems__.
+* __`May 22, 2018`__ Our paper on "_Transferring a Petabyte in a Day_" has been accepted to publish in __Future Generation Computer Systems__.
 
-* __May 14, 2018__ An invited paper entitled [A comprehensive study of wide area data movement at a scientific computing](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf) was submitted to the Scalable Network Traffic Analytics workshop in conjunction with the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS’18) (SNTA’18).
+* __`May 14, 2018`__ An invited paper entitled [A comprehensive study of wide area data movement at a scientific computing](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf) was submitted to the Scalable Network Traffic Analytics workshop in conjunction with the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS’18) (SNTA’18).
 
-* __May 8, 2018__ Paper on [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) was accepted to present at the 1st AI-Science workshop held in conjunction with HPDC'18.
+* __`May 8, 2018`__ Paper on [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) was accepted to present at the 1st AI-Science workshop held in conjunction with HPDC'18.
 
 * One paper on "_Cross-geography Scientific Data Transfer Trends and User Behavior Patterns_" was accepted by the 27th International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC'18),
 
