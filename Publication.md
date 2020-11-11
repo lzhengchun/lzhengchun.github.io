@@ -11,7 +11,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
   [Deep Learning-based Low-dose Tomography Reconstruction with Hybrid-dose Measurements](). SC'20 workshop on Artificial Intelligence and Machine Learning for Scientific Applications.
 - Selin Aslan, **Zhengchun Liu**, Viktor Nikitin, Tekin Bicer, Sven Leyffer, Doga Gursoy. [Distributed Optimization with Tunable Learned Priors for Robust Ptycho-Tomography]().  [arXiv Preprint](https://arxiv.org/abs/2009.09498). 
 - Tirthak Patel, **Zhengchun Liu**, Rajkumar Kettimuthu, Paul Rich, Bill Allcock, Devesh Tiwari.
-[Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification, and Implications](). 
+[Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification, and Implications](https://doi.ieeecomputersociety.org/10.1109/SC41405.2020.00088). 
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*(**SC'20**).
 - **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.
 [BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198). [arXiv Preprint](https://arxiv.org/abs/2008.08198).
