@@ -6,12 +6,12 @@ title: Home
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=QmES0pkAAAAJ&hl=en).
 
 ## Selected Publications
-- Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka. [Log-Based Identification, Classification, and Behavior Prediction of HPC Applications](). SC'20 HPC Systems Professionals Workshop [HPCSYSPROS](http://sighpc-syspros.org/workshops/2020/). 
+- Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka. [Log-Based Identification, Classification, and Behavior Prediction of HPC Applications](). SC'20 HPC Systems Professionals Workshop [HPCSYSPROS](http://sighpc-syspros.org/workshops/2020/), [[PDF](file/HPCSYSPROS20-RLewis.pdf)]. 
 - Ziling Wu, Tekin Bicer, **Zhengchun Liu**, Vincent De Andrade, Yunhui Zhu, Ian T. Foster. 
   [Deep Learning-based Low-dose Tomography Reconstruction with Hybrid-dose Measurements](). SC'20 workshop on Artificial Intelligence and Machine Learning for Scientific Applications.
 - Selin Aslan, **Zhengchun Liu**, Viktor Nikitin, Tekin Bicer, Sven Leyffer, Doga Gursoy. [Distributed Optimization with Tunable Learned Priors for Robust Ptycho-Tomography]().  [arXiv Preprint](https://arxiv.org/abs/2009.09498). 
-- Tirthak Patel, Devesh Tiwari, **Zhengchun Liu**, Rajkumar Kettimuthu, Paul Rich, Bill Allcock.
-[Job Characteristics on Production-Scale HPC Systems: Quantification, Characterization and Analysis](). 
+- Tirthak Patel, **Zhengchun Liu**, Rajkumar Kettimuthu, Paul Rich, Bill Allcock, Devesh Tiwari.
+[Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification, and Implications](). 
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*(**SC'20**).
 - **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.
 [BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198). [arXiv Preprint](https://arxiv.org/abs/2008.08198).
