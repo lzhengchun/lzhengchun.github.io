@@ -8,6 +8,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 ## Selected Publications
 ### 2021
 - Jiali Wang, **Zhengchun Liu**, Ian Foster, Won Chang, Rajkumar Kettimuthu, Rao Kotamarthi. [Fast and accurate learned multiresolution dynamical downscaling for precipitation](). [arXiv Preprint](https://arxiv.org/abs/xxxx.yyyy), [Open Source](https://github.com/lzhengchun/DSGAN)
+
 ### 2020
 - Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka. 
 [Log-Based Identification, Classification, and Behavior Prediction of HPC Applications](https://doi.org/10.1145/1122445.1122456). SC'20 HPC Systems Professionals Workshop [HPCSYSPROS](http://sighpc-syspros.org/workshops/2020/), [[PDF](file/HPCSYSPROS20-RLewis.pdf)]. 
@@ -24,6 +25,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 [Characterization and Identification of HPC Applications at Leadership Computing Facility](https://dl.acm.org/doi/abs/10.1145/3392717.3392774). [[PDF](http://www.mcs.anl.gov/~zcliu/file/lcf-logs-ics2020.pdf), [Slides](file/ics-2020-Zhengchun_Liu.pdf)]. *International Conference on Supercomputing 2020* (**ICS'20**).
 - Ryan Lewis, **Zhengchun Liu**, Rajkumar Kettimuthu and Michael Papka.
 [Log-based Fingerprinting of HPC Applications](https://2020.isc-program.com/presentation/?id=post119&sess=sess325). [[poster](file/isc20-poster.pdf)]. *ISC High Performance 2020* (__ISC'20__).
+
 ### 2019
 - Vibhatha Abeykoon, __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Geoffrey Fox and Ian Foster. 
   [Scientific Image Restoration Anywhere ](https://doi.org/10.1109/XLOOP49562.2019.00007), [[arXiv:1911.05878](https://arxiv.org/abs/1911.05878)]. *IEEE/ACM 1st Annual Workshop on Large-scale Experiment-in-the-Loop Computing* (**XLOOP, SC'19**)
@@ -35,6 +37,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
   [TomoGAN: Low-Dose Synchrotron X-Ray Tomography with Generative Adversarial Networks](https://doi.org/10.1364/JOSAA.375595), *Journal of the Optical Society of America A*, Vol. 37, No. 3, February 2020. [[arXiv](https://arxiv.org/abs/1902.07582), [Open Source](https://github.com/lzhengchun/TomoGAN)]
 - Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S. V. Rao, Zizhong Chen and Ian Foster. 
   [Data transfer between scientific facilities - bottleneck analysis, insights and optimizations](https://doi.org/10.1109/CCGRID.2019.00023) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/ccgrid2019-zliu-pfs-trs.pdf), [Slides](http://www.mcs.anl.gov/~zcliu/file/ccgrid19-slides.pdf)]. *The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing* (**CCGrid'19**).
+
 ### 2018
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash, Nageswara S. V. Rao and Ian Foster. 
   [Building a Wide-Area File Transfer Performance Predictor: An Empirical Study](https://doi.org/10.1007/978-3-030-19945-6_5) [[Preprint](http://www.mcs.anl.gov/~zcliu/file/globus-prediction-mln18.pdf), <a href="file/take-away/globus-prediction-mln18.txt" target="_blank">Take-away</a>, <a href="file/bib/globus-prediction-mln18.bib.txt" target="_blank">Bib</a>, [Slides](file/mln18-globus-prediction.pdf)]. *International Conference on Machine Learning for Networking* (**MLN'18**). 
@@ -44,6 +47,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 - Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello. [Transferring a Petabyte in a Day](https://doi.org/10.1016/j.future.2018.05.051). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-1pb.pdf), <a href="file/take-away/pb-a-day.txt" target="_blank">Take-away</a>, <a href="file/bib/pb-a-day.bib.txt" target="_blank">Bib</a>]  *Future Generation Computer Systems*. Vol. 88, November 2018, pages 191-198.
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Yuanlai Liu.  [A comprehensive study of wide area data movement at a scientific computing facility](https://doi.org/10.1109/ICDCS.2018.00180). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf), , <a href="file/take-away/snta18.txt" target="_blank">Take-away</a>, <a href="file/bib/snta18.bib.txt" target="_blank">Bib</a>]. *2018 IEEE 38th International Conference on Distributed Computing Systems* (**SNTA, ICDCS'18**). 
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Nageswara S.V. Rao. [Cross-geography Scientific Data Transferring Trends and Behavior](https://doi.org/10.1145/3208040.3208053). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/hpdc2018.pdf), [Poster](file/hpdc2018-poster.pdf), [Slides](file/hpdc18-slides.pdf), <a href="file/take-away/hpdc18.txt" target="_blank">Take-away</a>, <a href="file/bib/hpdc18.bib.txt" target="_blank">Bib</a>]. *The 27th International ACM Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'18**).
+
 ### 2017
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. [A mathematical programming and simulation based framework to evaluate cyberinfrastructure design choices](https://doi.org/10.1109/eScience.2017.27). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/eScience17-preprint-Liu.pdf), <a href="file/take-away/superfacility17.txt" target="_blank">Take-away</a>, <a href="file/bib/superfacility17.bib.txt" target="_blank">Bib</a>]. *The 13th IEEE International Conference on eScience* (**eScience'17**). 
 - __Zhengchun Liu__, Prasanna Balaprakash, Rajkumar Kettimuthu and Ian Foster.  [Explaining Wide Area Data Transfer Performance](https://doi.org/10.1145/3078597.3078605). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/hpdc2017.pdf), [Highlight](http://www.mcs.anl.gov/articles/machine-learning-methods-used-develop-data-transfer-performance-models), [Poster](file/hpdc17-poster.pdf), [Slides](file/slides-HPDC-2017-Zhengchun-Liu.pdf), <a href="file/take-away/hpdc17.txt" target="_blank">Take-away</a>, <a href="file/bib/hpdc17.bib.txt" target="_blank">Bib</a>]. *The 26th International ACM Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'17**). 
