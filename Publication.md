@@ -7,7 +7,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2021
-- Jiali Wang, **Zhengchun Liu**, Ian Foster, Won Chang, Rajkumar Kettimuthu, Rao Kotamarthi. [Fast and accurate learned multiresolution dynamical downscaling for precipitation](). [arXiv Preprint](https://arxiv.org/abs/xxxx.yyyy), [Open Source](https://github.com/lzhengchun/DSGAN)
+- Jiali Wang, **Zhengchun Liu**, Ian Foster, Won Chang, Rajkumar Kettimuthu, Rao Kotamarthi. [Fast and accurate learned multiresolution dynamical downscaling for precipitation](). [arXiv Preprint](http://arxiv.org/abs/2101.06813), [Open Source](https://github.com/lzhengchun/DSGAN)
 
 ### 2020
 - Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka. 
