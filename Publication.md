@@ -20,7 +20,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*(**SC'20**).
 - **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.
 [BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198). [arXiv Preprint](https://arxiv.org/abs/2008.08198), [Open Source](https://github.com/lzhengchun/BraggNN).
-- **Zhengchun Liu**, Rajkumar Kettimuthu, Joaquin Chung, Rachana Ananthakrishnan, Michael Link, Ian Foster. [Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage](). [arXiv Preprint](http://arxiv.org/abs/2009.03190)
+- **Zhengchun Liu**, Rajkumar Kettimuthu, Joaquin Chung, Rachana Ananthakrishnan, Michael Link, Ian Foster. [Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage](), ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS). [arXiv Preprint](http://arxiv.org/abs/2009.03190)
 - **Zhengchun Liu**, Ryan Lewis, Rajkumar Kettimuthu, Kevin Harms, Philip Carns, Nageswara Rao, Ian Foster and Michael Papka.
 [Characterization and Identification of HPC Applications at Leadership Computing Facility](https://dl.acm.org/doi/abs/10.1145/3392717.3392774). [[PDF](http://www.mcs.anl.gov/~zcliu/file/lcf-logs-ics2020.pdf), [Slides](file/ics-2020-Zhengchun_Liu.pdf)]. *International Conference on Supercomputing 2020* (**ICS'20**).
 - Ryan Lewis, **Zhengchun Liu**, Rajkumar Kettimuthu and Michael Papka.
