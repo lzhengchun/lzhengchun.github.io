@@ -9,12 +9,12 @@ Zhengchun Liu is an Assistant Computer Scientist at the [Data Science and Learni
 For more details and contact info, please see his resume, <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">cv.pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">cv.html</a>.
 
 ## Research Highlights
-Zhengchun Liu works on applying data science and machine learning techniques to transform understanding of the behavior of computer systems in extreme-scale science environments. Specifically, it includes __explaining__ why performance does not meet design goals,  __predicting__ the behavior of computer systems and __optimizing__ it for application in production. Recently, he focuses his effort on developing deep learning models to advance X-ray tomography images. In a long run, he also works on exploring the architecture, methods, and algorithms needed to support future scientific computing systems that are capable of self-configuration, self-optimization and self-manage etc.
+Zhengchun Liu works on applying advanced data science and machine learning techniques to transform understanding of the behavior of computer systems in extreme-scale science environments. Specifically, it includes __explaining__ why performance does not meet design goals,  __predicting__ the behavior of computer systems and __optimizing__ it for application in production. Recently, he also focuses his effort on applying advanced data science and machine learning techniques for solving and/or accelerating domain scientific applications such as hard X-ray imaging, climate and energy system. He also works on building frameworks to facilitate the AI model training and inference process in the context of AI for Science.
 
 ---
 ## Research Interests:
 * Wide-area data transfer, performance modeling and optimization; 
-* Data Science and Machine Learning for science problems;
+* Data Science and Machine Learning for scientific problems;
 * High Performance Computing and Artificial Intelligence;
 * Embedded System and Edge Computing.
 

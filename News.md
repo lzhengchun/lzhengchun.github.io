@@ -2,6 +2,7 @@
 layout: default
 title: What's new
 ---
+*  __`02/2021`__ Our paper, about "Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage" has been accepted by the ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS).
 * __`05/2020`__ I am deeply honored to receive the _IMPACT ARGONNE_ award for notable achievement in Innovation [[Award Plaque](file/impact-argonne.pdf)]. 
 * __`04/2020`__ One paper, about Chractering and Identifying HPC applications at leadership computing facility using ony production logs, was accepted by 2020 International Conference on Supercomputing.
 * __`04/2020`__ Gave a talk about __AI for Science: Use cases that I worked on and lessons learnt__ [[Slides](file/CELS-coffee-talk-20200415.pdf)].
