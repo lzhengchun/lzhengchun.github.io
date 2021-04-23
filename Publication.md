@@ -10,7 +10,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 <!--Aniket Tekawade, **Zhengchun Liu**, Peter Kenesei, Tekin Bicer, Francesco De Carlo, Rajkumar Kettimuthu, Ian Foster. [3D Autoencoders For Feature Extraction In X-ray Tomography](). 2021 IEEE International Conference on Image Processing.-->
 <!--Selin Aslan, **Zhengchun Liu**, Tekin Bicer, Doga Gursoy. [Phase2Phase: Self-supervised Deep Learning for Ptychography](). 2021 IEEE International Conference on Image Processing.-->
 - Jiali Wang, **Zhengchun Liu**, Ian Foster, Won Chang, Rajkumar Kettimuthu, Rao Kotamarthi.<br>
-[Fast and accurate learned multiresolution dynamical downscaling for precipitation](). 
+[Fast and accurate learned multiresolution dynamical downscaling for precipitation]().<br>
 [[PDF](http://arxiv.org/abs/2101.06813)],[[Code](https://github.com/lzhengchun/DSGAN)]
 
 ### 2020
