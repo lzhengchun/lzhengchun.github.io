@@ -7,6 +7,8 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2021
+- Aniket Tekawade, **Zhengchun Liu**, Peter Kenesei, Tekin Bicer, Francesco De Carlo, Rajkumar Kettimuthu, Ian Foster. [3D Autoencoders For Feature Extraction In X-ray Tomography](). 2021 IEEE International Conference on Image Processing.
+- Selin Aslan, **Zhengchun Liu**, Tekin Bicer, Doga Gursoy. [Phase2Phase: Self-supervised Deep Learning for Ptychography](). 2021 IEEE International Conference on Image Processing.
 - Jiali Wang, **Zhengchun Liu**, Ian Foster, Won Chang, Rajkumar Kettimuthu, Rao Kotamarthi. [Fast and accurate learned multiresolution dynamical downscaling for precipitation](). [arXiv Preprint](http://arxiv.org/abs/2101.06813), [Open Source](https://github.com/lzhengchun/DSGAN)
 
 ### 2020
@@ -20,7 +22,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*(**SC'20**).
 - **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.
 [BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198). [arXiv Preprint](https://arxiv.org/abs/2008.08198), [Open Source](https://github.com/lzhengchun/BraggNN).
-- **Zhengchun Liu**, Rajkumar Kettimuthu, Joaquin Chung, Rachana Ananthakrishnan, Michael Link, Ian Foster. [Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage](), ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS). [arXiv Preprint](http://arxiv.org/abs/2009.03190)
+- **Zhengchun Liu**, Rajkumar Kettimuthu, Joaquin Chung, Rachana Ananthakrishnan, Michael Link, Ian Foster. [Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage](), ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS). [arXiv Preprint](http://arxiv.org/abs/2009.03190), [PDF](http://www.mcs.anl.gov/~zcliu/file/globus-conn-TOMPECS-Final.pdf)
 - **Zhengchun Liu**, Ryan Lewis, Rajkumar Kettimuthu, Kevin Harms, Philip Carns, Nageswara Rao, Ian Foster and Michael Papka.
 [Characterization and Identification of HPC Applications at Leadership Computing Facility](https://dl.acm.org/doi/abs/10.1145/3392717.3392774). [[PDF](http://www.mcs.anl.gov/~zcliu/file/lcf-logs-ics2020.pdf), [Slides](file/ics-2020-Zhengchun_Liu.pdf)]. *International Conference on Supercomputing 2020* (**ICS'20**).
 - Ryan Lewis, **Zhengchun Liu**, Rajkumar Kettimuthu and Michael Papka.
@@ -32,7 +34,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster. 
   [Deep Learning Accelerated Light Source Experiments ](https://doi.org/10.1109/DLS49591.2019.00008), [[arXiv:1910.04081](https://arxiv.org/abs/1910.04081), [Video](https://youtu.be/PcHsOK4qwlk), [Slides](file/DLS-2019-ZLiu.pdf)].
   *IEEE/ACM 3rd Workshop on Deep Learning on Supercomputers*(**DLS, SC'19**)
-- Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. [Toward an Elastic Data Transfer Infrastructure](https://doi.org/10.1109/eScience.2019.00036). *The IEEE International Conference on eScience*[[slides]((https://static.sched.com/hosted_files/escience2019/b6/2019-09-27-Kettimuthu.pdf)), ]. 
+- Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. [Toward an Elastic Data Transfer Infrastructure](https://doi.org/10.1109/eScience.2019.00036). *The IEEE International Conference on eScience*[[slides]((https://static.sched.com/hosted_files/escience2019/b6/2019-09-27-Kettimuthu.pdf)), [PDF](http://www.mcs.anl.gov/~zcliu/file/elastic-DTI.pdf)]. 
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco De Carlo and Ian Foster.
   [TomoGAN: Low-Dose Synchrotron X-Ray Tomography with Generative Adversarial Networks](https://doi.org/10.1364/JOSAA.375595), *Journal of the Optical Society of America A*, Vol. 37, No. 3, February 2020. [[arXiv](https://arxiv.org/abs/1902.07582), [Open Source](https://github.com/lzhengchun/TomoGAN)]
 - Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S. V. Rao, Zizhong Chen and Ian Foster. 
