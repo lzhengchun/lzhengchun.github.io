@@ -20,7 +20,7 @@ SC'20 HPC Systems Professionals Workshop [HPCSYSPROS](http://sighpc-syspros.org/
 [[PDF](file/HPCSYSPROS20-RLewis.pdf)]. 
 
 - Ziling Wu, Tekin Bicer, **Zhengchun Liu**, Vincent De Andrade, Yunhui Zhu, Ian T. Foster.<br>
-[Deep Learning-based Low-dose Tomography Reconstruction with Hybrid-dose Measurements]().<br>
+[Deep Learning-based Low-dose Tomography Reconstruction with Hybrid-dose Measurements](https://doi.org/10.1109/MLHPCAI4S51975.2020.00017).<br>
 SC'20 workshop on Artificial Intelligence and Machine Learning for Scientific Applications<br>
 [[PDF](https://arxiv.org/abs/2009.13589)].
 
