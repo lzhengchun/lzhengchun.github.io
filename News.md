@@ -2,6 +2,7 @@
 layout: default
 title: What's new
 ---
+* __`06/2021`__ Ahsan Ali joined us and will work on frameworks and workflows for rapid deep neural network (re)training using HPC and data center AI systems.
 * __`05/2021`__ Xiaolong Ma from University of Nevada, Reno starts his internship and will work on system for machine learning.
 * __`05/2021`__ Simon Zhang from Purdue University starts his internship and will worl on AI for Scientific Application.
 *  __`02/2021`__ Our paper, about "Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage" has been accepted by the ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS).
