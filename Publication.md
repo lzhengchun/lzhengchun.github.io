@@ -7,14 +7,14 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2021
-<!--Aniket Tekawade, **Zhengchun Liu**, Peter Kenesei, Tekin Bicer, Francesco De Carlo, Rajkumar Kettimuthu, Ian Foster. [3D Autoencoders For Feature Extraction In X-ray Tomography](). 2021 IEEE International Conference on Image Processing.-->
-<!--Selin Aslan, **Zhengchun Liu**, Tekin Bicer, Doga Gursoy. [Phase2Phase: Self-supervised Deep Learning for Ptychography](). 2021 IEEE International Conference on Image Processing.-->
+- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Ryan Herbst, Jana Thayer, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](https://arxiv.org/abs/2105.13967).
+- Aniket Tekawade, **Zhengchun Liu**, Peter Kenesei, Tekin Bicer, Francesco De Carlo, Rajkumar Kettimuthu, Ian Foster.<br> [3D Autoencoders For Feature Extraction In X-ray Tomography](). 2021 IEEE International Conference on Image Processing.
 - Jiali Wang, **Zhengchun Liu**, Ian Foster, Won Chang, Rajkumar Kettimuthu, Rao Kotamarthi.<br>
 [Fast and accurate learned multiresolution dynamical downscaling for precipitation]().<br>
 [[PDF](http://arxiv.org/abs/2101.06813)],[[Code](https://github.com/lzhengchun/DSGAN)]
 
 ### 2020
-- Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka.<br> 
+- Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka.<br>
 [Log-Based Identification, Classification, and Behavior Prediction of HPC Applications](https://doi.org/10.1145/1122445.1122456).<br>
 SC'20 HPC Systems Professionals Workshop [HPCSYSPROS](http://sighpc-syspros.org/workshops/2020/)<br>
 [[PDF](file/HPCSYSPROS20-RLewis.pdf)]. 
@@ -29,7 +29,7 @@ SC'20 workshop on Artificial Intelligence and Machine Learning for Scientific Ap
 [[PDF](https://arxiv.org/abs/2009.09498)]. 
 
 - Tirthak Patel, **Zhengchun Liu**, Rajkumar Kettimuthu, Paul Rich, Bill Allcock, Devesh Tiwari.<br>
-[Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification, and Implications](https://doi.ieeecomputersociety.org/10.1109/SC41405.2020.00088).<br> 
+[Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification, and Implications](https://doi.ieeecomputersociety.org/10.1109/SC41405.2020.00088).<br>
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*(**SC'20**).
 
 - **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.<br>
@@ -37,8 +37,8 @@ SC'20 workshop on Artificial Intelligence and Machine Learning for Scientific Ap
 [[PDF](https://arxiv.org/abs/2008.08198)], [[Code](https://github.com/lzhengchun/BraggNN)].
 
 - **Zhengchun Liu**, Rajkumar Kettimuthu, Joaquin Chung, Rachana Ananthakrishnan, Michael Link, Ian Foster. <br>
-[Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage]().<br>
-ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS). <br>
+[Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage](https://doi.org/10.1145/3452007).<br>
+ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS), Vol 6, No.1. <br>
 [[arXiv](http://arxiv.org/abs/2009.03190)], [[PDF](http://www.mcs.anl.gov/~zcliu/file/globus-conn-TOMPECS-Final.pdf)], [[Code](https://github.com/ramsesproject/dsi)]
 
 - **Zhengchun Liu**, Ryan Lewis, Rajkumar Kettimuthu, Kevin Harms, Philip Carns, Nageswara Rao, Ian Foster and Michael Papka.<br>

@@ -1,11 +1,13 @@
 ---
 layout: default
-title: What's new
+title: Team
 ---
 
 ## Current
-* __Xiaolong Ma__,  Research Aid, <ins>University of Nevada, Reno</ins>, 2021.05 -- present.
-* __Simong Zhang__, Research Aid, <ins>Purdue University</ins>, 2021.05 -- present.
+* __Xiaolong Ma__,  <u>Research Aid</u>, University of Nevada, Reno, 2021.05 -- present.
+* __Simong Zhang__, <u>Research Aid</u>, Purdue University, 2021.05 -- present.
+* **Mrinalini Lnu**, <u>Visiting Student</u>, Illinois Institute of Technology, 2021.06 -- present.
+* **Ahsan Ali**, <u>Postdoctoral researcher</u>, 2021.06 -- present.
 
 ---
 
