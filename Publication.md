@@ -7,8 +7,14 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2021
+- **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster.<br>
+
+  [BFTrainer: Low-Cost Training of Neural Networks on UnfillableSupercomputer Nodes](https://arxiv.org/abs/2106.12091)
+
 - **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Ryan Herbst, Jana Thayer, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](https://arxiv.org/abs/2105.13967).
+
 - Aniket Tekawade, **Zhengchun Liu**, Peter Kenesei, Tekin Bicer, Francesco De Carlo, Rajkumar Kettimuthu, Ian Foster.<br> [3D Autoencoders For Feature Extraction In X-ray Tomography](). 2021 IEEE International Conference on Image Processing.
+
 - Jiali Wang, **Zhengchun Liu**, Ian Foster, Won Chang, Rajkumar Kettimuthu, Rao Kotamarthi.<br>
 [Fast and accurate learned multiresolution dynamical downscaling for precipitation]().<br>
 [[PDF](http://arxiv.org/abs/2101.06813)],[[Code](https://github.com/lzhengchun/DSGAN)]
