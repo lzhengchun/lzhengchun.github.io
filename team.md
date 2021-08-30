@@ -4,22 +4,20 @@ title: Team
 ---
 
 ## Current
-* __Xiaolong Ma__,  <u>Research Aid</u>, University of Nevada, Reno, 2021.05 -- present.
-* __Simong Zhang__, <u>Research Aid</u>, Purdue University, 2021.05 -- present.
-* **Mrinalini Lnu**, <u>Visiting Student</u>, Illinois Institute of Technology, 2021.06 -- present.
 * **Ahsan Ali**, <u>Postdoctoral researcher</u>, 2021.06 -- present.
 
 ---
 
 ## Alumni
+- __Xiaolong Ma__,  <u>Research Aid</u>, University of Nevada, Reno, 2021.05 -- 2021.08.
+- __Simong Zhang__, <u>Research Aid</u>, Purdue University, 2021.05 -- 2021.08.
+- **Mrinalini Lnu**, <u>Visiting Student</u>, Illinois Institute of Technology, 2021.06 -- 2021.08.
 - __Ziling Wu__, <ins>Virginia Tech</ins>, 
 Research Aid (co-advised with Tekin Bicer), 2020.05 -- 2020.09. 
 [[Paper](https://doi.org/10.1109/MLHPCAI4S51975.2020.00017): _Deep Learning-based Low-dose Tomography Reconstruction with Hybrid-dose Measurements_]
-
 - __Vibhatha Abeykoon__, <ins>Indiana University, Bloomington</ins>. 
 Research Aid, 2019.06 -- 2019.09. 
 [[Paper](https://doi.org/10.1109/XLOOP49562.2019.00007): _Scientific Image Restoration Anywhere_]
-
 - __Yuanlai Liu__, <ins>University of California, Riverside</ins>, 
 Research Aid, 2018.06 -- 2019.12. 
 [[Paper](https://doi.org/10.1109/CCGRID.2019.00023): _Data transfer between scientific facilities - bottleneck analysis, insights and optimizations_]
