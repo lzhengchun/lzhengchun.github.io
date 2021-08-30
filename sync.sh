@@ -1,6 +1,6 @@
 #! /bin/bash 
 
-#cd /Users/zliu/Documents/my_data/homepage
+cd /Users/zliu/Documents/my_data/homepage
 cp /Users/zliu/Dropbox/carrer-plan/cv/Zhengchun_Liu_CV.pdf ./file/
 cd file/
 pdf2htmlEX --zoom 2 Zhengchun_Liu_CV.pdf
