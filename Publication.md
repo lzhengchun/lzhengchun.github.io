@@ -24,34 +24,28 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 [Log-Based Identification, Classification, and Behavior Prediction of HPC Applications](https://doi.org/10.1145/1122445.1122456).<br>
 SC'20 HPC Systems Professionals Workshop [HPCSYSPROS](http://sighpc-syspros.org/workshops/2020/)<br>
 [[PDF](file/HPCSYSPROS20-RLewis.pdf)]. 
-
 - Ziling Wu, Tekin Bicer, **Zhengchun Liu**, Vincent De Andrade, Yunhui Zhu, Ian T. Foster.<br>
 [Deep Learning-based Low-dose Tomography Reconstruction with Hybrid-dose Measurements](https://doi.org/10.1109/MLHPCAI4S51975.2020.00017).<br>
 SC'20 workshop on Artificial Intelligence and Machine Learning for Scientific Applications<br>
 [[PDF](https://arxiv.org/abs/2009.13589)].
-
 - Selin Aslan, **Zhengchun Liu**, Viktor Nikitin, Tekin Bicer, Sven Leyffer, Doga Gursoy<br>
-[Distributed Optimization with Tunable Learned Priors for Robust Ptycho-Tomography]()<br>
-[[PDF](https://arxiv.org/abs/2009.09498)]. 
-
+[Joint Ptycho-Tomography with Deep Generative Priors](https://doi.org/10.1088/2632-2153/ac1d35)<br>
+*journal of Machine Learning: Science and Technology, IOPscience, Vol 2, No. 4*<br>
+[[PDF](https://doi.org/10.1088/2632-2153/ac1d35)]. 
 - Tirthak Patel, **Zhengchun Liu**, Rajkumar Kettimuthu, Paul Rich, Bill Allcock, Devesh Tiwari.<br>
 [Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification, and Implications](https://doi.ieeecomputersociety.org/10.1109/SC41405.2020.00088).<br>
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*(**SC'20**).
-
 - **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.<br>
 [BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198).<br>
 [[PDF](https://arxiv.org/abs/2008.08198)], [[Code](https://github.com/lzhengchun/BraggNN)].
-
 - **Zhengchun Liu**, Rajkumar Kettimuthu, Joaquin Chung, Rachana Ananthakrishnan, Michael Link, Ian Foster. <br>
 [Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage](https://doi.org/10.1145/3452007).<br>
 ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS), Vol 6, No.1. <br>
 [[arXiv](http://arxiv.org/abs/2009.03190)], [[PDF](http://www.mcs.anl.gov/~zcliu/file/globus-conn-TOMPECS-Final.pdf)], [[Code](https://github.com/ramsesproject/dsi)]
-
 - **Zhengchun Liu**, Ryan Lewis, Rajkumar Kettimuthu, Kevin Harms, Philip Carns, Nageswara Rao, Ian Foster and Michael Papka.<br>
 [Characterization and Identification of HPC Applications at Leadership Computing Facility](https://dl.acm.org/doi/abs/10.1145/3392717.3392774).<br> 
 *International Conference on Supercomputing 2020* (**ICS'20**).<br> 
 [[PDF](http://www.mcs.anl.gov/~zcliu/file/lcf-logs-ics2020.pdf)], [[Slides](file/ics-2020-Zhengchun_Liu.pdf)]. 
-
 - Ryan Lewis, **Zhengchun Liu**, Rajkumar Kettimuthu and Michael Papka.<br>
 [Log-based Fingerprinting of HPC Applications](https://2020.isc-program.com/presentation/?id=post119&sess=sess325)<br> 
 *ISC High Performance 2020* (__ISC'20__).<br> 
