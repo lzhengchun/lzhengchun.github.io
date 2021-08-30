@@ -1,0 +1,15 @@
+Wide-area data transfer is central to distributed science. 
+Network capacity, data movement infrastructure, and tools in science environments continuously evolve to meet the requirements of distributed-science applications. 
+Research and education (R&E) networks such as the U.S. Department of Energy's Energy Sciences network and Internet2 provide multiple 100 Gbps backbone networks.
+Large scientific facilities and research institutions have 100 Gbps wide-area network connectivity, and 10 Gbps wide-area network connectivity is common for a lot of
+R\&E institutions.
+Many of these institutions employ Science DMZs, dedicated data transfer node(s), and high performance data movement tools to improve wide area data transfer performance. 
+Large facilities may use 10 or more dedicated data transfer nodes to meet the needs of their users. 
+
+In this work, we analyze various logs pertaining to wide area data transfers in and out of a large scientific facility to obtain insights on data transfer characteristics and behavior. 
+We also show some of the inefficiencies in the state-of-the-art data movement tool and discuss approaches to address these inefficiencies. 
+
+We believe that this facility case study provides valuable insights into the design, operation, and management of data transfer nodes and data transfer tools.
+We hope that it will encourage other computing facilities to undertake similar efforts. 
+We believe that combining logs of multiple subsystem logs (e.g., wide area network logs that shows the external load, storage monitoring data that represents overall load of the storage system) will enable better understanding of data transfer in shared environments such as the one we considered here, and we plan to undertake such a study. 
+These insights are useful not only for optimizing existing systems and tools but also for planning system upgrades and future investments.

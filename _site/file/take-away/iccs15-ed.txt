@@ -1,0 +1,15 @@
+Due to the complexity and crucial role of an Emergency Department(ED) in the healthcare system. 
+The ability to more accurately represent, simulate and predict performance of ED will be invaluable for decision makers to solve management problems. 
+One way to realize this requirement is by modeling and simulating the emergency department, the objective of this research is to design a simulator, in order to better understand the bottleneck of ED performance and provide ability to predict such performance on defined condition.
+
+Agent-based modeling approach was used to model the healthcare staff, patient and physical resources in ED. 
+This agent-based simulator provides the advantage of knowing the behavior of an ED system from the micro-level interactions among its components.
+
+The model was built in collaboration with healthcare staff in a typical ED and has been implemented and verified in a Netlogo modeling environment. 
+Case studies are provided to present some capabilities of the simulator in quantitive analysis ED behavior and supporting decision making. Because of the complexity of the system, high performance computing technology was used to increase the number of studied scenarios and reduce execution time.
+
+To conclude, this article presented an agent-based model of emergency department that was implemented in Netlogo simulation environment. 
+Case studies have been carried out for proving two of the possible uses of the simulator, one to meet the increasing patient arrival overcrowding problem, and the second a quantitative analysis of the influence of ambulance response time (for departure) over the ED behavior.
+
+The flexibility and adaptability features of this generic model provides a platform for emergency department simulation to accommodate different scenarios without significant modification of the underlying model. 
+It enables the simulation researchers to focus their effort on the understanding of ED behavior rather than developing a theoretical model each time. 

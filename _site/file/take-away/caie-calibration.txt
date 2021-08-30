@@ -1,0 +1,12 @@
+To tackle the problem of efficiently managing increasingly complex systems, simulation models have been widely used. 
+This is because simulation is safer, less expensive, and faster than field implementation and experimenting.
+To achieve high fidelity and credibility in conducting prediction and exploration of the actual system with simulation models, a rigorous calibration and validation procedure should firstly be applied. 
+However, one of the key issues in calibration is the acquisition of valid source information from the target system.
+The aim of this study is to develop a systematic method to automatically calibrate a general emergency department model with incomplete data.  
+The simulation-based optimization was used to search for the best value of model parameters. Then we present a case study to particularly demonstrate the way to calibrate an agent-based model of an emergency department with real data scarcity. 
+The case study indicates that the proposed method appears to be capable of properly calibrating and validating the simulation model with incomplete data.
+
+In summary, the proposed systematic method has been proved to be able to find the parameters for fitting the duration of service, with which the simulated results and the actual data were consistent. 
+The duration of healthcare staff's service time is among the most common missing pieces of information because it is out of the scope of the information system. 
+Moreover, an automatic calibration tool released with a general ED model is promising for promoting the application of simulation in ED studies. 
+This tool will enable the simulation users, e.g., ED managers, to calibrate parameters for their own ED system without the involvement of model developers. 
