@@ -10,7 +10,7 @@ git push
 
 # bundle exec jekyll serve
 bundle exec jekyll build --incremental 
-# scp -r _site mcs:~/public_html/
+ scp -r _site mcs:~/public_html/
 rsync --ignore-existing _site/*.html mcs:~/public_html/
 rsync --ignore-existing img/* mcs:~/public_html/img/
 rsync --ignore-existing file/* mcs:~/public_html/file/
