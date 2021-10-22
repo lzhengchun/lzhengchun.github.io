@@ -7,15 +7,18 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2021
-- **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster.<br>[BFTrainer: Low-Cost Training of Neural Networks on Unfillable Supercomputer Nodes](),  [Preprint](https://arxiv.org/abs/2106.12091).
+- **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster.<br>[BFTrainer: Low-Cost Training of Neural Networks on Unfillable Supercomputer Nodes](), <br> [[Preprint](https://arxiv.org/abs/2106.12091)], [[Code](https://github.com/BFTrainer/Replayer)].
 
-- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](), Under review, [Preprint](https://arxiv.org/abs/2105.13967)
+- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](), The 3rd Workshop on Extreme-Scale Experiment-in-the-Loop Computing @ SC'21, [Preprint](https://arxiv.org/abs/2105.13967)
 
 - Aniket Tekawade, **Zhengchun Liu**, Peter Kenesei, Tekin Bicer, Francesco De Carlo, Rajkumar Kettimuthu, Ian Foster.<br> [3D Autoencoders For Feature Extraction In X-ray Tomography](). 2021 IEEE International Conference on Image Processing.
 
 - Jiali Wang, **Zhengchun Liu**, Ian Foster, Won Chang, Rajkumar Kettimuthu, Rao Kotamarthi.<br>
-[Fast and accurate learned multiresolution dynamical downscaling for precipitation](https://doi.org/10.5194/gmd-14-6355-2021). journal of Geoscientific Model Development, 14, 6355–6372, 2021<br>
+[Fast and accurate learned multiresolution dynamical downscaling for precipitation](https://doi.org/10.5194/gmd-14-6355-2021). Journal of Geoscientific Model Development, 14, 6355–6372, 2021<br>
 [[PDF](http://arxiv.org/abs/2101.06813)],[[Code](https://github.com/lzhengchun/DSGAN)]
+- **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.<br>
+[BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198). *International Union of Crystallography (IUCrJ), 2021*<br>
+[[PDF](https://arxiv.org/abs/2008.08198)], [[Code](https://github.com/lzhengchun/BraggNN)].
 
 ### 2020
 - Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka.<br>
@@ -33,9 +36,6 @@ SC'20 workshop on Artificial Intelligence and Machine Learning for Scientific Ap
 - Tirthak Patel, **Zhengchun Liu**, Rajkumar Kettimuthu, Paul Rich, Bill Allcock, Devesh Tiwari.<br>
 [Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification, and Implications](https://doi.ieeecomputersociety.org/10.1109/SC41405.2020.00088).<br>
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*(**SC'20**).
-- **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.<br>
-[BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198). *International Union of Crystallography (IUCrJ), 2021*<br>
-[[PDF](https://arxiv.org/abs/2008.08198)], [[Code](https://github.com/lzhengchun/BraggNN)].
 - **Zhengchun Liu**, Rajkumar Kettimuthu, Joaquin Chung, Rachana Ananthakrishnan, Michael Link, Ian Foster. <br>
 [Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage](https://doi.org/10.1145/3452007).<br>
 ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS), Vol 6, No.1. <br>
