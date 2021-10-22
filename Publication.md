@@ -7,16 +7,14 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2021
-- **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster.<br>
+- **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster.<br>[BFTrainer: Low-Cost Training of Neural Networks on Unfillable Supercomputer Nodes](),  [Preprint](https://arxiv.org/abs/2106.12091).
 
-  [BFTrainer: Low-Cost Training of Neural Networks on UnfillableSupercomputer Nodes](https://arxiv.org/abs/2106.12091)
-
-- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Ryan Herbst, Jana Thayer, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](https://arxiv.org/abs/2105.13967).
+- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](), Under review, [Preprint](https://arxiv.org/abs/2105.13967)
 
 - Aniket Tekawade, **Zhengchun Liu**, Peter Kenesei, Tekin Bicer, Francesco De Carlo, Rajkumar Kettimuthu, Ian Foster.<br> [3D Autoencoders For Feature Extraction In X-ray Tomography](). 2021 IEEE International Conference on Image Processing.
 
 - Jiali Wang, **Zhengchun Liu**, Ian Foster, Won Chang, Rajkumar Kettimuthu, Rao Kotamarthi.<br>
-[Fast and accurate learned multiresolution dynamical downscaling for precipitation]().<br>
+[Fast and accurate learned multiresolution dynamical downscaling for precipitation](https://doi.org/10.5194/gmd-14-6355-2021). journal of Geoscientific Model Development, 14, 6355–6372, 2021<br>
 [[PDF](http://arxiv.org/abs/2101.06813)],[[Code](https://github.com/lzhengchun/DSGAN)]
 
 ### 2020
@@ -35,35 +33,35 @@ SC'20 workshop on Artificial Intelligence and Machine Learning for Scientific Ap
 - Tirthak Patel, **Zhengchun Liu**, Rajkumar Kettimuthu, Paul Rich, Bill Allcock, Devesh Tiwari.<br>
 [Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification, and Implications](https://doi.ieeecomputersociety.org/10.1109/SC41405.2020.00088).<br>
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis*(**SC'20**).
-- **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.<br>
-[BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198).<br>
+- **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.<br>
+[BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198). *International Union of Crystallography (IUCrJ), 2021*<br>
 [[PDF](https://arxiv.org/abs/2008.08198)], [[Code](https://github.com/lzhengchun/BraggNN)].
 - **Zhengchun Liu**, Rajkumar Kettimuthu, Joaquin Chung, Rachana Ananthakrishnan, Michael Link, Ian Foster. <br>
 [Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage](https://doi.org/10.1145/3452007).<br>
 ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS), Vol 6, No.1. <br>
 [[arXiv](http://arxiv.org/abs/2009.03190)], [[PDF](http://www.mcs.anl.gov/~zcliu/file/globus-conn-TOMPECS-Final.pdf)], [[Code](https://github.com/ramsesproject/dsi)]
 - **Zhengchun Liu**, Ryan Lewis, Rajkumar Kettimuthu, Kevin Harms, Philip Carns, Nageswara Rao, Ian Foster and Michael Papka.<br>
-[Characterization and Identification of HPC Applications at Leadership Computing Facility](https://dl.acm.org/doi/abs/10.1145/3392717.3392774).<br> 
-*International Conference on Supercomputing 2020* (**ICS'20**).<br> 
+[Characterization and Identification of HPC Applications at Leadership Computing Facility](https://dl.acm.org/doi/abs/10.1145/3392717.3392774).<br>
+*International Conference on Supercomputing 2020* (**ICS'20**).<br>
 [[PDF](http://www.mcs.anl.gov/~zcliu/file/lcf-logs-ics2020.pdf)], [[Slides](file/ics-2020-Zhengchun_Liu.pdf)]. 
 - Ryan Lewis, **Zhengchun Liu**, Rajkumar Kettimuthu and Michael Papka.<br>
-[Log-based Fingerprinting of HPC Applications](https://2020.isc-program.com/presentation/?id=post119&sess=sess325)<br> 
-*ISC High Performance 2020* (__ISC'20__).<br> 
+[Log-based Fingerprinting of HPC Applications](https://2020.isc-program.com/presentation/?id=post119&sess=sess325)<br>
+*ISC High Performance 2020* (__ISC'20__).<br>
 [[poster](file/isc20-poster.pdf)]. 
 
 ### 2019
-- Vibhatha Abeykoon, __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Geoffrey Fox and Ian Foster. <br> 
-[Scientific Image Restoration Anywhere ](https://doi.org/10.1109/XLOOP49562.2019.00007)<br> 
-*IEEE/ACM 1st Annual Workshop on Large-scale Experiment-in-the-Loop Computing* (**XLOOP, SC'19**)<br> 
+- Vibhatha Abeykoon, __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Geoffrey Fox and Ian Foster. <br>
+[Scientific Image Restoration Anywhere ](https://doi.org/10.1109/XLOOP49562.2019.00007)<br>
+*IEEE/ACM 1st Annual Workshop on Large-scale Experiment-in-the-Loop Computing* (**XLOOP, SC'19**)<br>
 [[PDF](https://arxiv.org/abs/1911.05878)]. 
 
-- __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster.<br> 
+- __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster.<br>
 [Deep Learning Accelerated Light Source Experiments ](https://doi.org/10.1109/DLS49591.2019.00008),<br>
 *IEEE/ACM 3rd Workshop on Deep Learning on Supercomputers*(**DLS, SC'19**)<br>
 [[PDF](https://arxiv.org/abs/1910.04081)], [[Video](https://youtu.be/PcHsOK4qwlk)], [[Slides](file/DLS-2019-ZLiu.pdf)].
 
 - Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. <br>
-[Toward an Elastic Data Transfer Infrastructure](https://doi.org/10.1109/eScience.2019.00036). *The IEEE International Conference on eScience*<br> 
+[Toward an Elastic Data Transfer Infrastructure](https://doi.org/10.1109/eScience.2019.00036). *The IEEE International Conference on eScience*<br>
 [[slides]((https://static.sched.com/hosted_files/escience2019/b6/2019-09-27-Kettimuthu.pdf))], [[PDF](http://www.mcs.anl.gov/~zcliu/file/elastic-DTI.pdf)]. 
 
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco De Carlo and Ian Foster.<br>

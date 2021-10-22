@@ -10,7 +10,7 @@ title: Team
 
 ## Alumni
 - __Xiaolong Ma__,  <u>Research Aid</u>, University of Nevada, Reno, 2021.05 -- 2021.08.
-- __Simong Zhang__, <u>Research Aid</u>, Purdue University, 2021.05 -- 2021.08.
+- __Simon Zhang__, <u>Research Aid</u>, Purdue University, 2021.05 -- 2021.08.
 - **Mrinalini Lnu**, <u>Visiting Student</u>, Illinois Institute of Technology, 2021.06 -- 2021.08.
 - __Ziling Wu__, <ins>Virginia Tech</ins>, 
 Research Aid (co-advised with Tekin Bicer), 2020.05 -- 2020.09. 
