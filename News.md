@@ -2,6 +2,7 @@
 layout: default
 title: What's new
 ---
+* __`11/2021`__ Our paper got the [Best paper award](https://wordpress.cels.anl.gov/xloop-2021/awards/) by The 3rd annual workshop on Extreme-Scale Experiment-in-the-Loop Computing (XLOOP) at SC'21.
 * __`06/2021`__ Ahsan Ali joined us and will work on frameworks and workflows for rapid deep neural network (re)training using HPC and data center AI systems.
 * __`05/2021`__ Xiaolong Ma from University of Nevada, Reno starts his internship and will work on system for machine learning.
 * __`05/2021`__ Simon Zhang from Purdue University starts his internship and will worl on AI for Scientific Application.

@@ -9,7 +9,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 ### 2021
 - **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster.<br>[BFTrainer: Low-Cost Training of Neural Networks on Unfillable Supercomputer Nodes](), <br> [[Preprint](https://arxiv.org/abs/2106.12091)], [[Code](https://github.com/BFTrainer/Replayer)].
 
-- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](), The 3rd Workshop on Extreme-Scale Experiment-in-the-Loop Computing @ SC'21, [Preprint](https://arxiv.org/abs/2105.13967)
+- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](), The 3rd Workshop on Extreme-Scale Experiment-in-the-Loop Computing @ SC'21, [Best paper award](https://wordpress.cels.anl.gov/xloop-2021/awards/), [Preprint](https://arxiv.org/abs/2105.13967)
 
 - Aniket Tekawade, **Zhengchun Liu**, Peter Kenesei, Tekin Bicer, Francesco De Carlo, Rajkumar Kettimuthu, Ian Foster.<br> [3D Autoencoders For Feature Extraction In X-ray Tomography](). 2021 IEEE International Conference on Image Processing.
 
@@ -80,8 +80,8 @@ ACM Transactions on Modeling and Performance Evaluation of Computing Systems (To
 *International Conference on Machine Learning for Networking* (**MLN'18**). <br>
 [[Preprint](http://www.mcs.anl.gov/~zcliu/file/globus-prediction-mln18.pdf), <a href="file/take-away/globus-prediction-mln18.txt" target="_blank">Take-away</a>, <a href="file/bib/globus-prediction-mln18.bib.txt" target="_blank">Bib</a>, [Slides](file/mln18-globus-prediction.pdf)]. 
 
-- Papadimitriou, George, Cong Wang, Karan Vahi, Rafael Ferreir da Silva, Anirban Mandal, __Zhengchun Liu__, Rajiv Mayania, Mats Rynge, Mariam Kiran, Vickie E. Lynch, Rajkumar Kettimuthu, Ewa Deelman, Jeffrey S. Vetter, Ian Foster.<br>
-[End-to-End Online Performance Data Capture and Analysis for Scientific Workflows]().<br>  *Future Generation Computer Systems*. [Preprint](https://deelman.isi.edu/wordpress/wp-content/papercite-data/pdf/papadimitriou2020fgcs.pdf)
+- George Papadimitriou, Cong Wang, Karan Vahi, Rafael Ferreir da Silva, Anirban Mandal, __Zhengchun Liu__, Rajiv Mayania, Mats Rynge, Mariam Kiran, Vickie E. Lynch, Rajkumar Kettimuthu, Ewa Deelman, Jeffrey S. Vetter, Ian Foster.<br>
+[End-to-End Online Performance Data Capture and Analysis for Scientific Workflows](https://doi.org/10.1016/j.future.2020.11.024).<br>  *Future Generation Computer Systems(FGCS), 2021(117)*. [Preprint](https://deelman.isi.edu/wordpress/wp-content/papercite-data/pdf/papadimitriou2020fgcs.pdf), [FGCS 2021 Best Paper Award](https://www.journals.elsevier.com/future-generation-computer-systems/awards/future-generation-computer-systems-2021-best-paper-award).
 
 - Rajkumar Kettimuthu, __Zhengchun Liu__, Ian Foster, Peter H. Beckman, Alex Sim, John Wu, Wei-keng Liao, Qiao Kang, Ankit Agrawal, and Alok Choudhary. <br>
 [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) <br>[[PDF](http://www.mcs.anl.gov/~zcliu/file/ai-science18.pdf), <a href="file/take-away/ai-science18.txt" target="_blank">Take-away</a>, <a href="file/bib/ai-science18.bib.txt" target="_blank">Bib</a>]. *The 1st AI-Science workshop* (**AI-Science, HPDC'18**).
