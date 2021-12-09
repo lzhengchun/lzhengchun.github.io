@@ -9,7 +9,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 ### 2021
 - **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster.<br>[BFTrainer: Low-Cost Training of Neural Networks on Unfillable Supercomputer Nodes](), <br> [[Preprint](https://arxiv.org/abs/2106.12091)], [[Code](https://github.com/BFTrainer/Replayer)].
 
-- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](), The 3rd Workshop on Extreme-Scale Experiment-in-the-Loop Computing @ SC'21, [Best paper award](https://wordpress.cels.anl.gov/xloop-2021/awards/), [Preprint](https://arxiv.org/abs/2105.13967)
+- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](), The 3rd Workshop on Extreme-Scale Experiment-in-the-Loop Computing @ SC'21, [***Best paper awarded***](file/xloop21-bset-paper.png), [Preprint](https://arxiv.org/abs/2105.13967)
 
 - Aniket Tekawade, **Zhengchun Liu**, Peter Kenesei, Tekin Bicer, Francesco De Carlo, Rajkumar Kettimuthu, Ian Foster.<br> [3D Autoencoders For Feature Extraction In X-ray Tomography](). 2021 IEEE International Conference on Image Processing.
 
@@ -17,8 +17,8 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 [Fast and accurate learned multiresolution dynamical downscaling for precipitation](https://doi.org/10.5194/gmd-14-6355-2021). Journal of Geoscientific Model Development, 14, 6355–6372, 2021<br>
 [[PDF](http://arxiv.org/abs/2101.06813)],[[Code](https://github.com/lzhengchun/DSGAN)]
 - **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.<br>
-[BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://arxiv.org/abs/2008.08198). *International Union of Crystallography (IUCrJ), 2021*<br>
-[[PDF](https://arxiv.org/abs/2008.08198)], [[Code](https://github.com/lzhengchun/BraggNN)].
+[BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://doi.org/10.1107/S2052252521011258). International Union of Crystallography (IUCrJ), Vol. 9, No. 1, 2022<br>
+[[PDF](https://journals.iucr.org/m/issues/2022/01/00/fs5198/fs5198.pdf)], [[Code](https://github.com/lzhengchun/BraggNN)].
 
 ### 2020
 - Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka.<br>
@@ -48,55 +48,54 @@ ACM Transactions on Modeling and Performance Evaluation of Computing Systems (To
 [Log-based Fingerprinting of HPC Applications](https://2020.isc-program.com/presentation/?id=post119&sess=sess325)<br>
 *ISC High Performance 2020* (__ISC'20__).<br>
 [[poster](file/isc20-poster.pdf)]. 
+- Rajkumar Kettimuthu, **Zhengchun Liu,** Tekin Bicer, Ian Foster. Cyberinfrastructure and System Software for Online Analysis of Large-Scale Data: Challenges and Design Choices. [Handbook on Big Data and Machine Learning in the Physical Sciences](https://www.worldscientific.com/worldscibooks/10.1142/11389). Volume 2: Advanced Analysis Solutions for Leading Experimental Techniques. 
 
 ### 2019
 - Vibhatha Abeykoon, __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Geoffrey Fox and Ian Foster. <br>
 [Scientific Image Restoration Anywhere ](https://doi.org/10.1109/XLOOP49562.2019.00007)<br>
 *IEEE/ACM 1st Annual Workshop on Large-scale Experiment-in-the-Loop Computing* (**XLOOP, SC'19**)<br>
 [[PDF](https://arxiv.org/abs/1911.05878)]. 
-
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster.<br>
 [Deep Learning Accelerated Light Source Experiments ](https://doi.org/10.1109/DLS49591.2019.00008),<br>
 *IEEE/ACM 3rd Workshop on Deep Learning on Supercomputers*(**DLS, SC'19**)<br>
 [[PDF](https://arxiv.org/abs/1910.04081)], [[Video](https://youtu.be/PcHsOK4qwlk)], [[Slides](file/DLS-2019-ZLiu.pdf)].
-
 - Joaquin Chung, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. <br>
 [Toward an Elastic Data Transfer Infrastructure](https://doi.org/10.1109/eScience.2019.00036). *The IEEE International Conference on eScience*<br>
 [[slides]((https://static.sched.com/hosted_files/escience2019/b6/2019-09-27-Kettimuthu.pdf))], [[PDF](http://www.mcs.anl.gov/~zcliu/file/elastic-DTI.pdf)]. 
-
 - __Zhengchun Liu__, Tekin Bicer, Rajkumar Kettimuthu, Doga Gursoy, Francesco De Carlo and Ian Foster.<br>
 [TomoGAN: Low-Dose Synchrotron X-Ray Tomography with Generative Adversarial Networks](https://doi.org/10.1364/JOSAA.375595), <br>
 *Journal of the Optical Society of America A*, Vol. 37, No. 3, February 2020. <br>
 [[PDF](https://arxiv.org/abs/1902.07582)], [[Code](https://github.com/lzhengchun/TomoGAN)]
-
 - Yuanlai Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, Nageswara S. V. Rao, Zizhong Chen and Ian Foster.<br>
 [Data transfer between scientific facilities - bottleneck analysis, insights and optimizations](https://doi.org/10.1109/CCGRID.2019.00023) <br>
 *The 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing* (**CCGrid'19**).<br>
 [[PDF](http://www.mcs.anl.gov/~zcliu/file/ccgrid2019-zliu-pfs-trs.pdf)], [[Slides](http://www.mcs.anl.gov/~zcliu/file/ccgrid19-slides.pdf)]. 
+- Qiao Kang, Ankit Agrawal, Alok Choudhary, Alex Sim, Kesheng Wu, Rajkumar Kettimuthu, Peter Beckman, **Zhengchun Liu** and Wei-keng Liao. [Spatiotemporal Real-Time Anomaly Detection for Supercomputing Systems](). BDPM@IEEE Big Data, 2019.
+- Nageswara Rao, Neena Imam, Rajkumar Kettimuthu, __Zhengchun Liu__ and Ian Foster.[Estimation of RTT and Loss Rate of Wide-Area Connections Using MPI Measurements](), *2019 IEEE/ACM Innovating the Network for Data-Intensive Science (INDIS)*
+
+- Nageswara Rao, Neena Imam, Rajkumar Kettimuthu, __Zhengchun Liu__ and Ian Foster. [Machine Learning Methods for Connection RTT and Loss Rate Estimation Using MPI Measurements Under Random Losses](), *International Conference on Machine Learning for Networking* (**MLN'19**), [***Best paper award***](file/BestPaperAwardMLN2019.jpg). 
+
+- Nageswara Rao, Qiang Liu, Satyabrata Sen, __Zhengchun Liu__, Rajkumar Kettimuthu, and Ian Foster. [Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections](https://doi.org/10.1145/3288599.3288641).  *The 20th International Conference on Distributed Computing and Networking* (**ICDCN'19**).
 
 ### 2018
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Prasanna Balaprakash, Nageswara S. V. Rao and Ian Foster. <br>
 [Building a Wide-Area File Transfer Performance Predictor: An Empirical Study](https://doi.org/10.1007/978-3-030-19945-6_5) <br>
 *International Conference on Machine Learning for Networking* (**MLN'18**). <br>
 [[Preprint](http://www.mcs.anl.gov/~zcliu/file/globus-prediction-mln18.pdf), <a href="file/take-away/globus-prediction-mln18.txt" target="_blank">Take-away</a>, <a href="file/bib/globus-prediction-mln18.bib.txt" target="_blank">Bib</a>, [Slides](file/mln18-globus-prediction.pdf)]. 
-
 - George Papadimitriou, Cong Wang, Karan Vahi, Rafael Ferreir da Silva, Anirban Mandal, __Zhengchun Liu__, Rajiv Mayania, Mats Rynge, Mariam Kiran, Vickie E. Lynch, Rajkumar Kettimuthu, Ewa Deelman, Jeffrey S. Vetter, Ian Foster.<br>
 [End-to-End Online Performance Data Capture and Analysis for Scientific Workflows](https://doi.org/10.1016/j.future.2020.11.024).<br>  *Future Generation Computer Systems(FGCS), 2021(117)*. [Preprint](https://deelman.isi.edu/wordpress/wp-content/papercite-data/pdf/papadimitriou2020fgcs.pdf), [FGCS 2021 Best Paper Award](https://www.journals.elsevier.com/future-generation-computer-systems/awards/future-generation-computer-systems-2021-best-paper-award).
-
 - Rajkumar Kettimuthu, __Zhengchun Liu__, Ian Foster, Peter H. Beckman, Alex Sim, John Wu, Wei-keng Liao, Qiao Kang, Ankit Agrawal, and Alok Choudhary. <br>
 [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) <br>[[PDF](http://www.mcs.anl.gov/~zcliu/file/ai-science18.pdf), <a href="file/take-away/ai-science18.txt" target="_blank">Take-away</a>, <a href="file/bib/ai-science18.bib.txt" target="_blank">Bib</a>]. *The 1st AI-Science workshop* (**AI-Science, HPDC'18**).
-
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster, Peter H. Beckman. <br>
  [Towards a Smart Data Transfer Node](https://doi.org/10.1016/j.future.2018.06.033).<br> [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-smart-dtn.pdf), <a href="file/take-away/smart-dtn.txt" target="_blank">Take-away</a>, <a href="file/bib/smart-dtn.bib.txt" target="_blank">Bib</a>] . *Future Generation Computer Systems* Vol. 89, December 2018, Pages 10-18.
-
 - Rajkumar Kettimuthu, __Zhengchun Liu__, David Wheeler, Ian Foster, Katrin Heitmann, Franck Cappello. <br>
 [Transferring a Petabyte in a Day](https://doi.org/10.1016/j.future.2018.05.051).<br> [[Preprint](http://www.mcs.anl.gov/~zcliu/file/fgcs18-1pb.pdf), <a href="file/take-away/pb-a-day.txt" target="_blank">Take-away</a>, <a href="file/bib/pb-a-day.bib.txt" target="_blank">Bib</a>]  *Future Generation Computer Systems*. Vol. 88, November 2018, pages 191-198.
-
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Yuanlai Liu. <br>
 [A comprehensive study of wide area data movement at a scientific computing facility](https://doi.org/10.1109/ICDCS.2018.00180).<br> [[Preprint](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf), , <a href="file/take-away/snta18.txt" target="_blank">Take-away</a>, <a href="file/bib/snta18.bib.txt" target="_blank">Bib</a>]. *2018 IEEE 38th International Conference on Distributed Computing Systems* (**SNTA, ICDCS'18**). 
-
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Ian Foster and Nageswara S.V. Rao. <br>
 [Cross-geography Scientific Data Transferring Trends and Behavior](https://doi.org/10.1145/3208040.3208053). <br>[[Preprint](http://www.mcs.anl.gov/~zcliu/file/hpdc2018.pdf), [Poster](file/hpdc2018-poster.pdf), [Slides](file/hpdc18-slides.pdf), <a href="file/take-away/hpdc18.txt" target="_blank">Take-away</a>, <a href="file/bib/hpdc18.bib.txt" target="_blank">Bib</a>]. *The 27th International ACM Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'18**).
+- Nageswara Rao, Qiang Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, and Ian Foster. [Throughput Analytics of Data Transfer Infrastructures](https://link.springer.com/chapter/10.1007/978-3-030-12971-2_2).  *The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities* (**TRIDENTCOM'18**), [___Best paper awarded___](file/TRIDENTCOM18-best-paper.pdf).
+- Nageswara Rao, Satyabrata Sen, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. [Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections](). *The 1st International Conference on Machine Learning for Networking* (**MLN'18**), [___Best paper awarded___](file/mln18-bset-paper.pdf). 
 
 ### 2017
 - __Zhengchun Liu__, Rajkumar Kettimuthu, Sven Leyffer, Prashant Palkar and Ian Foster. <br>
@@ -112,21 +111,7 @@ ACM Transactions on Modeling and Performance Evaluation of Computing Systems (To
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque.  <br>
 [An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments](https://doi.org/10.1016/j.jocs.2017.05.015).<br> [[Preprint](http://www.mcs.anl.gov/~zcliu/file/abm-ed-mdl_Zhengchun-Liu.pdf), <a href="file/take-away/jocs-model.txt" target="_blank">Take-away</a>, <a href="file/bib/jocs-model.bib.txt" target="_blank">Bib</a>]. *Journal of Computational Science*, Vol.21, July 2017, Pages 11–23.
 
-## Collaboration Work
-- Rajkumar Kettimuthu, **Zhengchun Liu,** Tekin Bicer, Ian Foster. Cyberinfrastructure and System Software for Online Analysis of Large-Scale Data: Challenges and Design Choices. [Handbook on Big Data and Machine Learning in the Physical Sciences](https://www.worldscientific.com/worldscibooks/10.1142/11389). Volume 2: Advanced Analysis Solutions for Leading Experimental Techniques. 
-
-- Qiao Kang, Ankit Agrawal, Alok Choudhary, Alex Sim, Kesheng Wu, Rajkumar Kettimuthu, Peter Beckman, **Zhengchun Liu** and Wei-keng Liao. [Spatiotemporal Real-Time Anomaly Detection for Supercomputing Systems](). BDPM@IEEE Big Data, 2019.
-
-- Nageswara Rao, Neena Imam, Rajkumar Kettimuthu, __Zhengchun Liu__ and Ian Foster.[Estimation of RTT and Loss Rate of Wide-Area Connections Using MPI Measurements](), *2019 IEEE/ACM Innovating the Network for Data-Intensive Science (INDIS)*
-
-- Nageswara Rao, Neena Imam, Rajkumar Kettimuthu, __Zhengchun Liu__ and Ian Foster. [Machine Learning Methods for Connection RTT and Loss Rate Estimation Using MPI Measurements Under Random Losses](), *International Conference on Machine Learning for Networking* (**MLN'19**). 
-
-- Nageswara Rao, Qiang Liu, Satyabrata Sen, __Zhengchun Liu__, Rajkumar Kettimuthu, and Ian Foster. [Measurements and Analytics of Wide-Area File Transfers over Dedicated Connections](https://doi.org/10.1145/3288599.3288641).  *The 20th International Conference on Distributed Computing and Networking* (**ICDCN'19**).
-
-- Nageswara Rao, Satyabrata Sen, __Zhengchun Liu__, Rajkumar Kettimuthu and Ian Foster. [Learning Concave-Convex Profiles of Data Transport Over Dedicated Connections](). *The 1st International Conference on Machine Learning for Networking* (**MLN'18**), [___Best paper awarded___](file/mln18-bset-paper.pdf). 
-
-- Nageswara Rao, Qiang Liu, __Zhengchun Liu__, Rajkumar Kettimuthu, and Ian Foster. [Throughput Analytics of Data Transfer Infrastructures](https://link.springer.com/chapter/10.1007/978-3-030-12971-2_2).  *The 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities* (**TRIDENTCOM'18**), [___Best paper awarded___](file/TRIDENTCOM18-best-paper.pdf).
-
+## 
 ## Earlier (Archived) Work on ModSim
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque.   [Support managing population aging stress of emergency departments in a computational way](https://doi.org/10.1016/j.procs.2017.05.147). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/aging-iccs2017.pdf), <a href="file/take-away/iccs17.txt" target="_blank">Take-away</a>, <a href="file/bib/iccs17.bib.txt" target="_blank">Bib</a>]. *2017 International Conference on Computational Science* (**ICCS'17**).
