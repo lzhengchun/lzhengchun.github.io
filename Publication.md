@@ -111,8 +111,8 @@ ACM Transactions on Modeling and Performance Evaluation of Computing Systems (To
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque.  <br>
 [An Agent-based Model for Quantitatively Predicting and Analyzing the Complex Behavior of Emergency Departments](https://doi.org/10.1016/j.jocs.2017.05.015).<br> [[Preprint](http://www.mcs.anl.gov/~zcliu/file/abm-ed-mdl_Zhengchun-Liu.pdf), <a href="file/take-away/jocs-model.txt" target="_blank">Take-away</a>, <a href="file/bib/jocs-model.bib.txt" target="_blank">Bib</a>]. *Journal of Computational Science*, Vol.21, July 2017, Pages 11–23.
 
-## 
-## Earlier (Archived) Work on ModSim
+
+## Earlier (Archived) Work on Modeling & Simulation
 
 - __Zhengchun Liu__, Dolores Rexachs, Francisco Epelde and Emilio Luque.   [Support managing population aging stress of emergency departments in a computational way](https://doi.org/10.1016/j.procs.2017.05.147). [[Preprint](http://www.mcs.anl.gov/~zcliu/file/aging-iccs2017.pdf), <a href="file/take-away/iccs17.txt" target="_blank">Take-away</a>, <a href="file/bib/iccs17.bib.txt" target="_blank">Bib</a>]. *2017 International Conference on Computational Science* (**ICCS'17**).
 
