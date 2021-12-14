@@ -38,9 +38,9 @@ Zhengchun Liu works on applying advanced data science and machine learning techn
 * [`2018/12`] [___Best paper awarded___](file/TRIDENTCOM18-best-paper.pdf) at the 13th EAI International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (**TRIDENTCOM'18**).
 * [`2018/11`] [___Best paper awarded___](file/mln18-bset-paper.pdf) at the 2018 International Conference on Machine Learning for Networking (**MLN'18**). 
 * [ `2018/06`]The ___Extraordinary Doctorate Award___ by the Universitat Autònoma de Barcelona, [certificate](file/zliu-extraordinary-doc.pdf).
-* [`2015/10`] The [10th Marathon of Parallel Programming Contest](http://lspd.mackenzie.br/marathon/15/), The ___First___ Place, [Results](http://lspd.mackenzie.br/marathon/15/winners.html), [Certificate](file/10th-marathon.pdf).
-* [`2015/09`] The [5th Spanish Parallel Progamming Contest](http://luna.inf.um.es/2015/), The ___First___ Place, [Results](http://luna.inf.um.es/2015/results.php?lang=en), [Certificate](file/certificado_2015_UAB.pdf).
-* [`2014/09`] The [IV Spanish Parallel Progamming Contest](http://luna.inf.um.es/2014/) , The ___Second___ Place, [Results](http://luna.inf.um.es/2014/results.php?lang=en), [Certificate](file/certificado_2014_UAB.pdf), [how](img/competition.jpg).
+* [`2015/10`] The [10th Marathon of Parallel Programming Contest](http://lspd.mackenzie.br/marathon/15/), [The ***1st*** Place](file/10th-marathon.pdf), [Results](http://lspd.mackenzie.br/marathon/15/winners.html).
+* [`2015/09`] The [5th Spanish Parallel Progamming Contest](http://luna.inf.um.es/2015/), [The ___1st___ Place](file/certificado_2015_UAB.pdf), [Results](http://luna.inf.um.es/2015/results.php?lang=en).
+* [`2014/09`] The [IV Spanish Parallel Progamming Contest](http://luna.inf.um.es/2014/) , [The ___2nd___ Place](file/certificado_2014_UAB.pdf), [Results](http://luna.inf.um.es/2014/results.php?lang=en).
 
 ---
 <span style="color:blue">
