@@ -9,7 +9,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 ### 2021
 - **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster.<br>[BFTrainer: Low-Cost Training of Neural Networks on Unfillable Supercomputer Nodes](), <br> [[Preprint](https://arxiv.org/abs/2106.12091)], [[Code](https://github.com/BFTrainer/Replayer)].
 
-- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](), The 3rd Workshop on Extreme-Scale Experiment-in-the-Loop Computing @ SC'21, [***Best paper awarded***](file/xloop21-bset-paper.png), [Preprint](https://arxiv.org/abs/2105.13967)
+- **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](https://www.doi.org/10.1109/XLOOP54565.2021.00008), The 3rd Workshop on Extreme-Scale Experiment-in-the-Loop Computing @ SC'21, [***Best paper awarded***](file/xloop21-bset-paper.png), [Preprint](https://arxiv.org/abs/2105.13967), [Highlight](https://www.anl.gov/dsl/article/argonne-researchers-receive-best-paper-award-at-sc21-xloop-workshop).
 
 - Aniket Tekawade, **Zhengchun Liu**, Peter Kenesei, Tekin Bicer, Francesco De Carlo, Rajkumar Kettimuthu, Ian Foster.<br> [3D Autoencoders For Feature Extraction In X-ray Tomography](). 2021 IEEE International Conference on Image Processing.
 
@@ -18,7 +18,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 [[PDF](http://arxiv.org/abs/2101.06813)],[[Code](https://github.com/lzhengchun/DSGAN)]
 - **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.<br>
 [BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://doi.org/10.1107/S2052252521011258). International Union of Crystallography (IUCrJ), Vol. 9, No. 1, 2022<br>
-[[PDF](https://journals.iucr.org/m/issues/2022/01/00/fs5198/fs5198.pdf)], [[Code](https://github.com/lzhengchun/BraggNN)].
+[[PDF](https://journals.iucr.org/m/issues/2022/01/00/fs5198/fs5198.pdf)], [[Code](https://github.com/lzhengchun/BraggNN)], [[Commentary](https://doi.org/10.1107/S2052252521013415)].
 
 ### 2020
 - Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka.<br>
