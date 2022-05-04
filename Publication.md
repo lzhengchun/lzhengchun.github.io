@@ -6,7 +6,14 @@ title: Home
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=QmES0pkAAAAJ&hl=en).
 
 ## Selected Publications
+### 2022
+- Joaquin Chung, Wojciech Zacherek, AJ Wisniewski, **Zhengchun Liu**, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster. [SciStream: Architecture and Toolkit for Data Streaming between Federated Science Instruments](https://doi.org/10.1145/3502181.3531475). *The 31st International ACM Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'22**).
+- Ahsan Ali, Hemant Sharma, Rajkumar Kettimuthu, Peter Kenesei, Dennis Trujillo, Antonino Miceli, Ian Foster, Ryan Coffee, Jana Thayer, **Zhengchun Liu**. [fairDMS: Rapid Model Training by Data and Model Reuse](https://arxiv.org/abs/2204.09805). 
+- Jakob R. Elias, Ryan Chard, Maksim Levental, **Zhengchun Liu**, Ian Foster, Santanu Chaudhuri. [Real-Time Streaming and Event-driven Control of Scientific Experiments](https://arxiv.org/abs/2205.01476)
+- Rafael Vescovi, Ryan Chard, Nickolaus Saint, Ben Blaiszik, Jim Pruyne, Tekin Bicer, Alex Lavens, **Zhengchun Liu**, Michael E. Papka, Suresh Narayanan, Nicholas Schwarz, Kyle Chard, Ian Foster. [Linking Scientific Instruments and HPC: Patterns, Technologies, Experiences](https://arxiv.org/abs/2204.05128).
+
 ### 2021
+
 - Justin Wozniak, **Zhengchun Liu**, Rafael Vescovi, Ryan Chard, Bogdan Nicolae, Ian Foster. [Braid-DB: Toward AI-Driven Science with Machine Learning Provenance]( https://doi.org/10.1007/978-3-030-96498-6_14). SMC 2021. Communications in Computer and Information Science, vol 1512. Springer.
 - **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster.<br>[BFTrainer: Low-Cost Training of Neural Networks on Unfillable Supercomputer Nodes](), <br> [[Preprint](https://arxiv.org/abs/2106.12091)], [[Code](https://github.com/BFTrainer/Replayer)].
 - **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>[Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](https://www.doi.org/10.1109/XLOOP54565.2021.00008), The 3rd Workshop on Extreme-Scale Experiment-in-the-Loop Computing @ SC'21, [***Best paper awarded***](file/xloop21-bset-paper.png), [Preprint](https://arxiv.org/abs/2105.13967), [Highlight](https://www.anl.gov/dsl/article/argonne-researchers-receive-best-paper-award-at-sc21-xloop-workshop).
