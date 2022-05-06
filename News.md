@@ -2,7 +2,7 @@
 layout: default
 title: What's new
 ---
-* __`03/2022`__ Join our force on wide area data transfer with Globus team, our solution [won](img/DMC22.JPG) **Best Integrated Software Experience** [award](https://www.newswise.com/articles/globus-wins-best-integrated-software-experience-award) at SCA'22.
+* __`03/2022`__ Join our force on wide area data transfer optimization with Globus team, our solution [won](img/DMC22.JPG) **Best Integrated Software Experience** [award](https://www.newswise.com/articles/globus-wins-best-integrated-software-experience-award) at SCA'22.
 * __`11/2021`__ Our paper got the [Best paper award](https://wordpress.cels.anl.gov/xloop-2021/awards/) by The 3rd annual workshop on Extreme-Scale Experiment-in-the-Loop Computing (XLOOP) at SC'21.
 * __`06/2021`__ Ahsan Ali joined us and will work on frameworks and workflows for rapid deep neural network (re)training using HPC and data center AI systems.
 * __`05/2021`__ Xiaolong Ma from University of Nevada, Reno starts his internship and will work on system for machine learning.
