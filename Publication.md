@@ -23,7 +23,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 [[PDF](http://arxiv.org/abs/2101.06813)],[[Code](https://github.com/lzhengchun/DSGAN)]
 - **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.<br>
 [BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://doi.org/10.1107/S2052252521011258). International Union of Crystallography (IUCrJ), Vol. 9, No. 1, 2022<br>
-[[PDF](https://journals.iucr.org/m/issues/2022/01/00/fs5198/fs5198.pdf)], [[Code](https://github.com/lzhengchun/BraggNN)], [[Commentary](https://doi.org/10.1107/S2052252521013415)].
+[[PDF](https://journals.iucr.org/m/issues/2022/01/00/fs5198/fs5198.pdf)], [[Code](https://github.com/lzhengchun/BraggNN)], [[Commentary](https://doi.org/10.1107/S2052252521013415)], [[Story](https://www.anl.gov/article/hitting-a-new-peak-scientists-enhance-xray-data-analysis-with-artificial-intelligence)].
 
 ### 2020
 - Ryan D. Lewis,  **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka.<br>
