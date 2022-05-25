@@ -9,7 +9,7 @@ Zhengchun Liu is a~~n Assistant~~ Computer Scientist at the [Data Science and Le
 For more details and contact info, please see his resume, <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">cv.pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">cv.html</a>.
 
 ## Research Highlights
-Zhengchun Liu works on applying advanced data science and machine learning techniques to transform understanding of the behavior of computer systems in extreme-scale science environments. Specifically, it includes __explaining__ why performance does not meet design goals,  __predicting__ the behavior of computer systems and __optimizing__ it for application in production. He also focuses his effort on applying advanced data science and machine learning techniques for solving and/or accelerating domain scientific applications such as hard X-ray imaging, climate and energy system. He also works on building frameworks to facilitate the AI model training and inference process in the context of AI for Science.
+Zhengchun Liu works at the intersection of AI-for-Science(AI4S) and computer systems including HPC, distributed computing(e.g., geographically distributed science workflow) and AI systems(e.g., Cerebras, Graphcore, SambaNova etc) for AI4S apps. More specifically, on one side he focuses his effort on applying advanced data science and machine learning techniques for solving and/or accelerating domain scientific applications such as synchrotron X-ray imaging and climate (i.e., AI for Science). On the oter side, he also works on building frameworks to facilitate the AI model training and inference process in the context of AI for Science (i.e., system for AI).
 
 ---
 ## Research Interests:
