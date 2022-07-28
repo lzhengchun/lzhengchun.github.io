@@ -2,7 +2,8 @@
 layout: default
 title: What's new
 ---
-* __`05/2022`__ I was promoted as a Computer Scientist (from an Assistant Computer Scientist), which is comparable with the tenured faculty member at a university.
+* __`07/2022`__ My first ever NSF proposal for _Scalable Deep Learning-Based Quantitative Ultrasound Tomography_ was funded. 
+* __`05/2022`__ I was promoted as a Computer Scientist (tenure, from an Assistant Computer Scientist), which is comparable with the tenured faculty member at a university.
 * __`03/2022`__ Austin Yunker joined my team as a predoc to work on AI-assisted Non Destructiveinspection (NDI), and system/framework for scientific machine learning.
 * __`03/2022`__ Join our force on wide area data transfer optimization with Globus team, our solution [won](img/DMC22.JPG) **Best Integrated Software Experience** [award](https://www.newswise.com/articles/globus-wins-best-integrated-software-experience-award) at SCA'22, [story](https://www.anl.gov/article/argonnes-globus-software-wins-award-at-2021-data-mover-challenge).
 * __`11/2021`__ Our paper got the [Best paper award](https://wordpress.cels.anl.gov/xloop-2021/awards/) by The 3rd annual workshop on Extreme-Scale Experiment-in-the-Loop Computing (XLOOP) at SC'21.
