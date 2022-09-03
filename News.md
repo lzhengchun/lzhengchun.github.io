@@ -42,7 +42,7 @@ title: What's new
 
 * __`May 22, 2018`__ Our paper on "_Transferring a Petabyte in a Day_" has been accepted to publish in __Future Generation Computer Systems__.
 
-* __`May 14, 2018`__ An invited paper entitled [A comprehensive study of wide area data movement at a scientific computing](http://www.mcs.anl.gov/~zcliu/file/snta-18.pdf) was submitted to the Scalable Network Traffic Analytics workshop in conjunction with the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS’18) (SNTA’18).
+* __`May 14, 2018`__ An invited paper entitled [A comprehensive study of wide area data movement at a scientific computing](file/snta-18.pdf) was submitted to the Scalable Network Traffic Analytics workshop in conjunction with the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS’18) (SNTA’18).
 
 * __`May 8, 2018`__ Paper on [Toward Autonomic Science Infrastructure: Architecture, Limitations, and Open Issues](https://doi.org/10.1145/3217197.3217205) was accepted to present at the 1st AI-Science workshop held in conjunction with HPDC'18.
 
