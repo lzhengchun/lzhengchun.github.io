@@ -1,7 +1,0 @@
-Changing from conventional public healthcare policy to integrated care requires a lot of feasibility studies, and major health policy changes often have wide-ranging impacts on our community, the evidence of process redesign interventions regarding their ability to improve quality of care must be interpretable for populations.
-
-It is very difficult to evaluate the impact of a major policy change through unilateral research, modelling or consultation processes, and efficient management of integrated care system also becomes a big challenge. Simulation can be used for dynamic as opposed to static analysis of integrated care system. Our research started from simulating Emergency Departments (EDs) in public healthcare system. Our ultimate aim is to model the entire integrated care pathway, from management of health in the home to acute care and provision of specialist services.
-
-Start from simulating the emergency departments, our efforts proved the feasibility and ideality of using agent-based model & simulation techniques to study care system. 
-
-In conclusion, bottom-up simulations can help understand how the different elements of integrated care system work together under different conditions, a crucial pre-requisite for improving the coordination and integration of care and increasing the efficiency of resource allocation. 
