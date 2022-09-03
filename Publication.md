@@ -7,13 +7,26 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2022
-- Nikil Ravi, Pranshu Chaturvedi, E. A. Huerta, **Zhengchun Liu**, Ryan Chard, Aristana Scourtas, K.J. Schmidt, Kyle Chard, Ben Blaiszik and Ian Foster. [FAIR principles for AI models, with a practical application for accelerated high energy diffraction microscopy](), [arXiv:2207.00611](https://arxiv.org/abs/2207.00611). 
-- Ahsan Ali, Hemant Sharma, Rajkumar Kettimuthu, Peter Kenesei, Dennis Trujillo, Antonino Miceli, Ian Foster, Ryan Coffee, Jana Thayer, **Zhengchun Liu**. [fairDMS: Rapid Model Training by Data and Model Reuse](). 2022 IEEE International Conference on Cluster Computing. [Preprint](file/fairDMS-IEEE-CLUSTER.pdf).
-- Tirthak Patel, Devesh Tiwari, Raj Kettimuthu, William Allcock, Paul Rich and **Zhengchun Liu**. [What does Inter-Cluster Job Submission and Execution Behavior Reveal to Us?](). 2022 IEEE International Conference on Cluster Computing.
-- Joaquin Chung, Wojciech Zacherek, AJ Wisniewski, **Zhengchun Liu**, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster. [SciStream: Architecture and Toolkit for Data Streaming between Federated Science Instruments](https://doi.org/10.1145/3502181.3531475). *The 31st International ACM Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'22**).
-- Ahsan Ali, Hemant Sharma, Rajkumar Kettimuthu, Peter Kenesei, Dennis Trujillo, Antonino Miceli, Ian Foster, Ryan Coffee, Jana Thayer, **Zhengchun Liu**. [fairDMS: Rapid Model Training by Data and Model Reuse](https://arxiv.org/abs/2204.09805). 
+- [FAIR principles for AI models, with a practical application for accelerated high energy diffraction microscopy](), 
+Nikil Ravi, Pranshu Chaturvedi, E. A. Huerta, **Zhengchun Liu**, Ryan Chard, Aristana Scourtas, K.J. Schmidt, Kyle Chard, Ben Blaiszik and Ian Foster. 
+[arXiv:2207.00611](https://arxiv.org/abs/2207.00611). 
+
+- [fairDMS: Rapid Model Training by Data and Model Reuse](). 
+Ahsan Ali, Hemant Sharma, Rajkumar Kettimuthu, Peter Kenesei, Dennis Trujillo, Antonino Miceli, Ian Foster, Ryan Coffee, Jana Thayer, **Zhengchun Liu**. 
+2022 IEEE International Conference on Cluster Computing. [Preprint](file/fairDMS-IEEE-CLUSTER.pdf).
+
+- [What does Inter-Cluster Job Submission and Execution Behavior Reveal to Us?](). 
+Tirthak Patel, Devesh Tiwari, Raj Kettimuthu, William Allcock, Paul Rich and **Zhengchun Liu**. 
+2022 IEEE International Conference on Cluster Computing.
+
+- [SciStream: Architecture and Toolkit for Data Streaming between Federated Science Instruments](https://doi.org/10.1145/3502181.3531475). 
+Joaquin Chung, Wojciech Zacherek, AJ Wisniewski, **Zhengchun Liu**, Tekin Bicer, Rajkumar Kettimuthu and Ian Foster. 
+*The 31st International ACM Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'22**).
+
 - Jakob R. Elias, Ryan Chard, Maksim Levental, **Zhengchun Liu**, Ian Foster, Santanu Chaudhuri. [Real-Time Streaming and Event-driven Control of Scientific Experiments](https://arxiv.org/abs/2205.01476)
-- Rafael Vescovi, Ryan Chard, Nickolaus Saint, Ben Blaiszik, Jim Pruyne, Tekin Bicer, Alex Lavens, **Zhengchun Liu**, Michael E. Papka, Suresh Narayanan, Nicholas Schwarz, Kyle Chard, Ian Foster. [Linking Scientific Instruments and HPC: Patterns, Technologies, Experiences](https://arxiv.org/abs/2204.05128).
+
+- [Linking Scientific Instruments and HPC: Patterns, Technologies, Experiences](https://arxiv.org/abs/2204.05128).
+Rafael Vescovi, Ryan Chard, Nickolaus Saint, Ben Blaiszik, Jim Pruyne, Tekin Bicer, Alex Lavens, **Zhengchun Liu**, Michael E. Papka, Suresh Narayanan, Nicholas Schwarz, Kyle Chard, Ian Foster. 
 
 ### 2021
 
