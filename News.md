@@ -2,6 +2,7 @@
 layout: default
 title: What's new
 ---
+* __`08/2022`__ I joined AWS AI Labs as a Machine Learning Scientist to work on applying ML to large scale systems.
 * __`07/2022`__ My first ever NSF proposal for _Scalable Deep Learning-Based Quantitative Ultrasound Tomography_ was funded. 
 * __`05/2022`__ I was promoted as a Computer Scientist (tenure, from an Assistant Computer Scientist), which is comparable with the tenured faculty member at a university.
 * __`03/2022`__ Austin Yunker joined my team as a predoc to work on AI-assisted Non Destructiveinspection (NDI), and system/framework for scientific machine learning.

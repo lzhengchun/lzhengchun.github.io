@@ -3,11 +3,8 @@ layout: default
 title: Team
 ---
 
-
-
-* **Austin Yunker**, <u>Predoctoral researcher</u>, 2022.03 -- present.
-* __Simon Zhang__, <u>Research Aid</u>, Purdue University, 2022.05 -- present.
-  co-advise with Hemant Sharma
+* **Austin Yunker**, <u>Predoctoral researcher</u>, 2022.03 -- 2022.08.
+* __Simon Zhang__, <u>Research Aid</u>, Purdue University, 2022.05 -- 2022.08. co-advise with Hemant Sharma
 * **Ahsan Ali**, <u>Postdoctoral researcher</u>, 2021.06 -- 2022.05.
 - __Xiaolong Ma__,  <u>Research Aid</u>, University of Nevada, Reno, 2021.05 -- 2021.08.
 - __Simon Zhang__, <u>Research Aid</u>, Purdue University, 2021.05 -- 2021.08.
