@@ -4,8 +4,11 @@ title: Experience
 ---
 
 ## Research Work Experience
-### Argonne National Laboratory, United States 2019.08 - present 
-Assistant Computer Scientist
+### Amazon Web Service (AWS) AI Labs, United States 2022.08 - Present 
+Machine Learning Scientist
+
+### Argonne National Laboratory, United States 2019.08 - 2022.08 
+Computer Scientist
 
 - Data Science and Learning for Computer System(Explain, Predict and Optimize).
 - Deep Learning in High Performance Computing environment.
