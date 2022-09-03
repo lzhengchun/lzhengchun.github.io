@@ -4,16 +4,19 @@ title: Home
 ---
 
 ## Short Bio.
-Zhengchun Liu is a Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory, and a Scientist At-Large of the Consortium for Advanced Science and Engineering at [The University of Chicago](https://www.uchicago.edu/). Before this, he was a research scientist at the University of Chicago from 2018.03 to 2019.08, and a Postdoc at the Mathematics and Computer Science division of Argonne National Laboratory from 2016.09 to 2018.03. He focuses his research at the intersection of machine learning and computer system. 
+Zhengchun Liu is a Machine Learning Scientist at AWS AI Labs.
+Before this, he was a Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory, and a Scientist At-Large of the Consortium for Advanced Science and Engineering at [The University of Chicago](https://www.uchicago.edu/). 
+<!-- Before this, he was a research scientist at the University of Chicago from 2018.03 to 2019.08, and a Postdoc at the Mathematics and Computer Science division of Argonne National Laboratory from 2016.09 to 2018.03.  -->
+He focuses his research at the intersection of machine learning and computer system. 
 
-For more details and contact info, please see his resume, <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">cv.pdf</a> or <a href="file/Zhengchun_Liu_CV.html" target="_blank">cv.html</a>.
+For more details and contact info, please see his resume, <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">cv.pdf</a>.
 
 ## Research Highlights
 Zhengchun Liu works at the intersection of AI-for-Science(AI4S) and computer systems including HPC, distributed computing(e.g., geographically distributed science workflow) and AI systems(e.g., Cerebras, Graphcore, SambaNova etc) for AI4S apps. More specifically, on one side he focuses his effort on applying advanced data science and machine learning techniques for solving and/or accelerating domain scientific applications such as synchrotron X-ray imaging and climate (i.e., AI for Science). On the other side, he also works on building frameworks to facilitate the AI model training and inference process in the context of AI for Science (i.e., system for AI).
 
 ---
 ## Research Interests:
-* Wide-area data transfer, performance modeling and optimization; 
+* Performance modeling and optimization for large scale systems; 
 * Data Science and Machine Learning for scientific applications;
 * High Performance Computing and Artificial Intelligence;
 * Edge Computing and AI at Edge.
