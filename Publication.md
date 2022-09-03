@@ -36,8 +36,7 @@ Justin Wozniak, **Zhengchun Liu**, Rafael Vescovi, Ryan Chard, Bogdan Nicolae, I
 SMC 2021. Communications in Computer and Information Science, vol 1512. Springer.
 
 - [BFTrainer: Low-Cost Training of Neural Networks on Unfillable Supercomputer Nodes](). <br> 
-**Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster.<br>
-[[Preprint](https://arxiv.org/abs/2106.12091)], [[Code](https://github.com/BFTrainer/Replayer)].
+**Zhengchun Liu**, Rajkumar Kettimuthu, Michael E. Papka, Ian Foster. [[Preprint](https://arxiv.org/abs/2106.12091)], [[Code](https://github.com/BFTrainer/Replayer)].
 
 - [Bridge Data Center AI Systems with Edge Computing for Actionable Information Retrieval](https://www.doi.org/10.1109/XLOOP54565.2021.00008). <br>
 **Zhengchun Liu**, Ahsan Ali, Peter Kenesei, Antonino Miceli, Hemant Sharma, Nicholas Schwarz, Dennis Trujillo, Hyunseung Yoo, Ryan Coffee, Naoufal Layad, Jana Thayer, Ryan Herbst, Chun Hong Yoon, Ian Foster. <br>
@@ -53,7 +52,7 @@ Journal of Geoscientific Model Development, 14, 6355–6372, 2021. [[PDF](http:/
 
 - [BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning](https://doi.org/10.1107/S2052252521011258). <br>
 **Zhengchun Liu**,  Hemant Sharma, Jun-Sang Park, Peter Kenesei, Antonino Miceli, Jonathan Almer, Rajkumar Kettimuthu, Ian Foster.<br>
-International Union of Crystallography (IUCrJ), Vol. 9, No. 1, 2022. [[PDF](https://journals.iucr.org/m/issues/2022/01/00/fs5198/fs5198.pdf)], [[Code](https://github.com/lzhengchun/BraggNN)], [[Commentary](https://doi.org/10.1107/S2052252521013415)], [[Story](https://www.anl.gov/article/hitting-a-new-peak-scientists-enhance-xray-data-analysis-with-artificial-intelligence)].
+International Union of Crystallography (IUCrJ), Vol. 9, No. 1, 2022. [[Code](https://github.com/lzhengchun/BraggNN)], [[Commentary](https://doi.org/10.1107/S2052252521013415)], [[Story](https://www.anl.gov/article/hitting-a-new-peak-scientists-enhance-xray-data-analysis-with-artificial-intelligence)].
 
 ### 2020
 [Log-Based Identification, Classification, and Behavior Prediction of HPC Applications](https://doi.org/10.1145/1122445.1122456).<br>
