@@ -7,6 +7,10 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2022
+- [Masked Sinogram Model with Transformer for ill-Posed Computed Tomography Reconstruction: a Preliminary Study](https://arxiv.org/abs/2209.01356).<br>
+**Zhengchun Liu**, Rajkumar Kettimuthu, Ian Foster. <br>
+[arXiv:2209.01356](https://arxiv.org/abs/2209.01356), [Code](https://github.com/lzhengchun/TomoTx).
+
 - [FAIR principles for AI models, with a practical application for accelerated high energy diffraction microscopy](). <br>
 Nikil Ravi, Pranshu Chaturvedi, E. A. Huerta, **Zhengchun Liu**, Ryan Chard, Aristana Scourtas, K.J. Schmidt, Kyle Chard, Ben Blaiszik and Ian Foster. <br>
 [arXiv:2207.00611](https://arxiv.org/abs/2207.00611). 
