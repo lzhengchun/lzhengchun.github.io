@@ -32,6 +32,7 @@ Zhengchun Liu works at the intersection of AI-for-Science(AI4S) and computer sys
 
 ---
 ## Honors, Awards:
+* [`2022/08`] The _IMPACT ARGONNE_ award for notable achievement in Innovation [[Award Plaque]()]. 
 * [`2021/11`] [***Best paper awarded***](file/xloop21-bset-paper.png) at the 3rd Annual Workshop on Extreme-Scale Experiment-in-the-Loop Computing.
 * [`2021/10`] Future Generation Computer Systems [2021 Best Paper Award](https://www.journals.elsevier.com/future-generation-computer-systems/awards/future-generation-computer-systems-2021-best-paper-award).
 * [`2020/05`] The _IMPACT ARGONNE_ award for notable achievement in Innovation [[Award Plaque](file/impact-argonne.pdf)]. 
@@ -45,8 +46,8 @@ Zhengchun Liu works at the intersection of AI-for-Science(AI4S) and computer sys
 * [`2015/09`] The [5th Spanish Parallel Progamming Contest](http://luna.inf.um.es/2015/), [The ___1st___ Place](file/certificado_2015_UAB.pdf), [Results](http://luna.inf.um.es/2015/results.php?lang=en).
 * [`2014/09`] The [IV Spanish Parallel Progamming Contest](http://luna.inf.um.es/2014/) , [The ___2nd___ Place](file/certificado_2014_UAB.pdf), [Results](http://luna.inf.um.es/2014/results.php?lang=en).
 
----
+<!-- ---
 <span style="color:blue">
 ***NEWS***: 
 We are looking for intern students, contact me if you have experience or are interested in any one of: Machine Learning, performance modeling, simulation, high performance computing, distributed systems, workflow over distributed infrastructure or smart computing/storage/network. Visiting scholar/student is welcomed as well.
-</span>
+</span> -->
