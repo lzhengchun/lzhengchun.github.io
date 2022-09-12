@@ -32,7 +32,7 @@ Zhengchun Liu works at the intersection of AI-for-Science(AI4S) and computer sys
 
 ---
 ## Honors, Awards:
-* [`2022/08`] The _IMPACT ARGONNE_ award for notable achievement in Innovation [[Award Plaque]()]. 
+* [`2022/07`] The _IMPACT ARGONNE_ award for notable achievement in Innovation [[Award Plaque]()]. 
 * [`2021/11`] [***Best paper awarded***](file/xloop21-bset-paper.png) at the 3rd Annual Workshop on Extreme-Scale Experiment-in-the-Loop Computing.
 * [`2021/10`] Future Generation Computer Systems [2021 Best Paper Award](https://www.journals.elsevier.com/future-generation-computer-systems/awards/future-generation-computer-systems-2021-best-paper-award).
 * [`2020/05`] The _IMPACT ARGONNE_ award for notable achievement in Innovation [[Award Plaque](file/impact-argonne.pdf)]. 
