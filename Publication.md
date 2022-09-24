@@ -7,13 +7,21 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2022
+- [Deep learning at the edge enables real-time streaming ptychographic imaging](https://arxiv.org/abs/2209.09408). <br>
+Anakha V Babu, Tao Zhou, Saugat Kandel, Tekin Bicer, **Zhengchun Liu**, William Judge, Daniel J. Ching, Yi Jiang, Sinisa Veseli, Steven Henke, Ryan Chard, Yudong Yao, Ekaterina Sirazitdinova, Geetika Gupta, Martin V. Holt, Ian T. Foster, Antonino Miceli, Mathew J. Cherukara <br>
+[arXiv:2209.09408](https://arxiv.org/abs/2209.09408).
+
+- [A Comprehensive Evaluation of Novel AI Accelerators for Deep Learning Workloads](). <br>
+Murali Emani, Zhen Xie, Siddhisanket Raskar, Varuni Sastry, William Arnold, Bruce Wilson, Rajeev Thakur, Venkatram Vishwanath, **Zhengchun Liu**, Michael Papka, Cindy Orozco Bohorquez, Rick Weisner, Karen Li,  Yongning Sheng, Yun Du, Jian Zhang, Alexander Tsyplikhin, Gurdaman Khaira, Jeremy Fowers, Ramakrishnan Sivakumar, Victoria Godsoe, Adrian Macias, Chetan Tekur, Matthew Boyd. <br>
+13th IEEE International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (in conjunction with SC'22)
+
 - [Masked Sinogram Model with Transformer for ill-Posed Computed Tomography Reconstruction: a Preliminary Study](https://arxiv.org/abs/2209.01356).<br>
 **Zhengchun Liu**, Rajkumar Kettimuthu, Ian Foster. <br>
 [arXiv:2209.01356](https://arxiv.org/abs/2209.01356), [Code](https://github.com/lzhengchun/TomoTx).
 
 - [FAIR principles for AI models, with a practical application for accelerated high energy diffraction microscopy](). <br>
 Nikil Ravi, Pranshu Chaturvedi, E. A. Huerta, **Zhengchun Liu**, Ryan Chard, Aristana Scourtas, K.J. Schmidt, Kyle Chard, Ben Blaiszik and Ian Foster. <br>
-[arXiv:2207.00611](https://arxiv.org/abs/2207.00611). 
+Scientific Data(2022). [Preprint](https://arxiv.org/abs/2207.00611). 
 
 - [fairDMS: Rapid Model Training by Data and Model Reuse](). <br>
 Ahsan Ali, Hemant Sharma, Rajkumar Kettimuthu, Peter Kenesei, Dennis Trujillo, Antonino Miceli, Ian Foster, Ryan Coffee, Jana Thayer, **Zhengchun Liu**. <br>
@@ -30,8 +38,9 @@ Joaquin Chung, Wojciech Zacherek, AJ Wisniewski, **Zhengchun Liu**, Tekin Bicer,
 - [Real-Time Streaming and Event-driven Control of Scientific Experiments](https://arxiv.org/abs/2205.01476).<br>
 Jakob R. Elias, Ryan Chard, Maksim Levental, **Zhengchun Liu**, Ian Foster, Santanu Chaudhuri. 
 
-- [Linking Scientific Instruments and HPC: Patterns, Technologies, Experiences](https://arxiv.org/abs/2204.05128).<br>
+- [Linking Scientific Instruments and HPC: Patterns, Technologies, Experiences](http://dx.doi.org/10.2139/ssrn.4141629).<br>
 Rafael Vescovi, Ryan Chard, Nickolaus Saint, Ben Blaiszik, Jim Pruyne, Tekin Bicer, Alex Lavens, **Zhengchun Liu**, Michael E. Papka, Suresh Narayanan, Nicholas Schwarz, Kyle Chard, Ian Foster. 
+*Patterns(2022)*<br>
 
 ### 2021
 
