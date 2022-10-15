@@ -6,6 +6,11 @@ title: Home
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=QmES0pkAAAAJ&hl=en).
 
 ## Selected Publications
+### 2023
+- [Moving Small Files in a Networked Environment](https://doi.org/10.1016/j.future.2022.09.016).<br>
+Chao Jin, David Abramson, Jake Carroll, **Zhengchun Liu**, Rajkumar Kettimuthu. 
+*Future Generation Computer Systems, Vol. 139, Feb. 2023, Pages 167-180*
+
 ### 2022
 - [Deep learning at the edge enables real-time streaming ptychographic imaging](https://arxiv.org/abs/2209.09408). <br>
 Anakha V Babu, Tao Zhou, Saugat Kandel, Tekin Bicer, **Zhengchun Liu**, William Judge, Daniel J. Ching, Yi Jiang, Sinisa Veseli, Steven Henke, Ryan Chard, Yudong Yao, Ekaterina Sirazitdinova, Geetika Gupta, Martin V. Holt, Ian T. Foster, Antonino Miceli, Mathew J. Cherukara <br>
@@ -40,7 +45,7 @@ Jakob R. Elias, Ryan Chard, Maksim Levental, **Zhengchun Liu**, Ian Foster, Sant
 
 - [Linking Scientific Instruments and HPC: Patterns, Technologies, Experiences](http://dx.doi.org/10.2139/ssrn.4141629).<br>
 Rafael Vescovi, Ryan Chard, Nickolaus Saint, Ben Blaiszik, Jim Pruyne, Tekin Bicer, Alex Lavens, **Zhengchun Liu**, Michael E. Papka, Suresh Narayanan, Nicholas Schwarz, Kyle Chard, Ian Foster. 
-*Patterns(2022)*<br>
+*Patterns(2022) Vol. 3, ISSUE 10, Oct. 14, 2022*<br>
 
 ### 2021
 
