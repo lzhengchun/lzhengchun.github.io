@@ -4,7 +4,7 @@ title: What's new
 ---
 * __`08/2022`__ I'm on a Sabbatical leave from Argonne National Laboratory since 08/12 and joined AWS AI Labs as a Machine Learning Scientist to work on ML for large scale systems.
 * __`07/2022`__ I am, the 3rd time, awarded the IMPACT ARGONNE award for notable achievement in **Innovation**.
-* __`07/2022`__ My first ever NSF proposal for _Scalable Deep Learning-Based Quantitative Ultrasound Tomography_ was funded. 
+* __`07/2022`__ My first ever NSF proposal for _Scalable Deep Learning-Based Quantitative Ultrasound Tomography_ was [funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152765). 
 * __`05/2022`__ I was promoted as a Computer Scientist (tenure, from an Assistant Computer Scientist), which is comparable with the tenured faculty member at a university.
 * __`03/2022`__ Austin Yunker joined my team as a predoc to work on AI-assisted Non Destructiveinspection (NDI), and system/framework for scientific machine learning.
 * __`03/2022`__ Join our force on wide area data transfer optimization with Globus team, our solution [won](img/DMC22.JPG) the **Best Integrated Software Experience** [award](https://www.newswise.com/articles/globus-wins-best-integrated-software-experience-award) at SCA'22, [story](https://www.anl.gov/article/argonnes-globus-software-wins-award-at-2021-data-mover-challenge).
