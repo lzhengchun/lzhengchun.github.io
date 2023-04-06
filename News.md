@@ -2,6 +2,7 @@
 layout: default
 title: What's new
 ---
+* __`03/2023`__ I was promoted to a Senior Applied Scientist, keep working on ML for large scale systems at AWS AI Labs.
 * __`08/2022`__ I'm on a Sabbatical leave from Argonne National Laboratory since 08/12 and joined AWS AI Labs as a Machine Learning Scientist to work on ML for large scale systems.
 * __`07/2022`__ I am, the 3rd time, awarded the IMPACT ARGONNE award for notable achievement in **Innovation**.
 * __`07/2022`__ My first ever NSF proposal for _Scalable Deep Learning-Based Quantitative Ultrasound Tomography_ was [funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152765). 
