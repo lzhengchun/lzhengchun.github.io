@@ -7,6 +7,14 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2023
+- [FreeTrain: A Framework to Utilize Unused Supercomputer Nodes for Training Neural Networks](https://doi.org/10.1109/CCGrid57682.2023.00036)<br>
+**Zhengchun Liu**, Rajkumar Kettimuthu, Michael E Papka, Ian Foster<br>
+2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
+
+- [Full Waveform Inversion-Based Ultrasound Computed Tomography Acceleration Using Two-Dimensional Convolutional Neural Networks](https://doi.org/10.1115/1.4062092)<br>
+Christopher Kleman, Shoaib Anwar, **Zhengchun Liu**, Jiaqi Gong, Xishi Zhu, Austin Yunker, Rajkumar Kettimuthu, Jiaze He<br>
+*Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems*
+
 - [Moving Small Files in a Networked Environment](https://doi.org/10.1016/j.future.2022.09.016).<br>
 Chao Jin, David Abramson, Jake Carroll, **Zhengchun Liu**, Rajkumar Kettimuthu. 
 *Future Generation Computer Systems, Vol. 139, Feb. 2023, Pages 167-180*

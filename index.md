@@ -4,11 +4,12 @@ title: Home
 ---
 
 ## Short Bio.
-Zhengchun Liu is a Machine Learning Scientist at AWS AI Labs.
-Before this, he was a Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory, and a Scientist At-Large of the Consortium for Advanced Science and Engineering at [The University of Chicago](https://www.uchicago.edu/). 
-<!-- Before this, he was a research scientist at the University of Chicago from 2018.03 to 2019.08, and a Postdoc at the Mathematics and Computer Science division of Argonne National Laboratory from 2016.09 to 2018.03.  -->
-He focuses his research at the intersection of machine learning and computer system. 
 
+Zhengchun Liu focuses his research and development around Data, Artificial intelligence and High Performance Computing system.
+Currently, he is on sabbatical leave from Argonne National Laboratory and works as a Senior Machine Learning Scientist at AWS AI Labs on cloud-based Autonomous Data Warehouse services.
+Before this, he was a Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory, and a Scientist At-Large of the Consortium for Advanced Science and Engineering at [The University of Chicago](https://www.uchicago.edu/) worked on AI for science and HPC system. 
+<!-- Before this, he was a research scientist at the University of Chicago from 2018.03 to 2019.08, and a Postdoc at the Mathematics and Computer Science division of Argonne National Laboratory from 2016.09 to 2018.03.  -->
+<!-- He focuses his research at the intersection of machine learning and computer system.  -->
 For more details and contact info, please see his resume, <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">cv.pdf</a>.
 
 ## Research Highlights
@@ -25,7 +26,7 @@ Zhengchun Liu works at the intersection of AI-for-Science(AI4S) and computer sys
 ## Professional Memberships and Activities:
 * **Professional Membership**: Association for Computing Machinery (ACM). 
 * **Co-Chair**: [17th SRMPDS 2021](https://srmpds.github.io/);[16th SRMPDS 2020](https://srmpds.github.io/);[15th SRMPDS 2019](https://srmpds.github.io/); [14th SRMPDS 2018](https://srmpds.github.io/index-2018.html); [13th SRMPDS 2017](https://sites.google.com/site/srmpds/); [2nd AI-Science 2019](https://ai-science.github.io/);
-* **Editorship**: Journal of [Future Generation Computer Systems, FGCS](https://www.journals.elsevier.com/future-generation-computer-systems). Special Issue on "High-Performance Computing for Autonomous Cloud" of [Cluster Computing](https://www.springer.com/journal/10586).
+* **Editorship**: Journal of [Future Generation Computer Systems, FGCS](https://www.journals.elsevier.com/future-generation-computer-systems), [2020-2023](file/FGCS-certs-of-service.pdf). Special Issue on "High-Performance Computing for Autonomous Cloud" of [Cluster Computing](https://www.springer.com/journal/10586).
 * **Technical Program Committee**: [IARIA SIMUL'16](https://www.iaria.org/conferences2016/ComSIMUL16.html); [IARIA SIMUL'15](https://www.iaria.org/conferences2015/ComSIMUL15.html); [DAAC'17](http://www.depts.ttu.edu/cac/conferences/ucc2017/page-2/daacworkshop.html); [DAAC'18](); [IARIA ICDS'19](https://www.iaria.org/conferences2019/ComICDS19.html); [AI-Science 2019](https://ai-science.github.io/);[DLS'19](https://www.tacc.utexas.edu/workshop/2019/deep-learning);[ICDCS'20](); [SC'20](https://sc20.supercomputing.org); [AI for Scientific App.](https://ai4s.github.io); [HPCC'20](http://cse.stfx.ca/~hpcc/2020); [HPCC'21](http://www.ieee-hpcc.org/2021/); [IPDPS'23](https://www.ipdps.org/ipdps2023/2023-program-committee.html).
 * **Conference Reviewer**: [COMPUTATION TOOLS'15](https://www.iaria.org/conferences2015/COMPUTATIONTOOLS15.html); [Euro-Par'17](http://europar2017.usc.es/); [CLUSTER 2017](https://cluster17.github.io/); [HiPC'17](http://hipc.org/); [WoWS'17](https://words.sdsc.edu/wows2017); [IPDPS'18](http://www.ipdps.org/ipdps2018/2018_call_for_papers.html); [HiPC](http://hipc.org); [ICACCP](http://www.icaccpa.in/); [ICDS'19](https://www.iaria.org/conferences2019/ICDS19.html)
 * **Journal Reviewer**: [Algorithms-MDPI](http://www.mdpi.com/journal/algorithms); [ Sustainability–MDPI](http://www.mdpi.com/journal/sustainability); [Sensors](https://www.mdpi.com/journal/sensors); [FGCS](https://www.journals.elsevier.com/future-generation-computer-systems)([_Outstanding Reviewer_](file/outstanding-reviewer-zliu-fgcs.pdf)); [AJCSIT](http://www.imedpub.com/computer-science-and-information-technology/)--[iMedPub](http://www.imedpub.com) ([_Outstanding Reviewer_](file/AJCSIT-outstanding-reviewer.png)); [IEEE-Access](http://ieeeaccess.ieee.org/); [JOCS](https://www.journals.elsevier.com/journal-of-computational-science)([Rec.](file/reviewer-zliu-jocs.pdf)); [IEEE-TPDS](https://www.computer.org/csdl/journal/td).
