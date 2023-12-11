@@ -11,6 +11,18 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E Papka, Ian Foster<br>
 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 
+- [Deep learning at the edge enables real-time streaming ptychographic imaging](https://doi.org/10.1038/s41467-023-41496-z)<br>
+Anakha V Babu, Tao Zhou, Saugat Kandel, Tekin Bicer, **Zhengchun Liu**, William Judge, Daniel J Ching, Yi Jiang, Sinisa Veseli, Steven Henke, Ryan Chard, Yudong Yao, Ekaterina Sirazitdinova, Geetika Gupta, Martin V Holt, Ian T Foster, Antonino Miceli, Mathew J Cherukara
+Nature Communications 14, 7059 (2023). 
+ 
+- [RAPIDS: Reconciling Availability, Accuracy, and Performance in Managing Geo-Distributed Scientific Data](https://dl.acm.org/doi/pdf/10.1145/3588195.3592983)<br>
+Lipeng Wan, Jieyang Chen, Xin Liang, Ana Gainaru, Qian Gong, Qing Liu, Ben Whitney, Joy Arulraj, **Zhengchun Liu**, Ian Foster, Scott Klasky
+2023 the 32nd International Symposium on High-Performance Parallel and Distributed Computing
+
+- [Tomo2Mesh: Fast porosity mapping and visualization for synchrotron tomography](https://doi.org/10.1109/e-Science58273.2023.10254907)<br>
+Aniket Tekawade, Viktor Nikitin, Yashas Satapathy, **Zhengchun Liu**, Xuan Zhang, Peter Kenesei, Weijian Zheng, Francesco De Carlo, Ian Foster, Rajkumar Kettimuthu
+2023 IEEE 19th International Conference on e-Science
+
 - [Full Waveform Inversion-Based Ultrasound Computed Tomography Acceleration Using Two-Dimensional Convolutional Neural Networks](https://doi.org/10.1115/1.4062092)<br>
 Christopher Kleman, Shoaib Anwar, **Zhengchun Liu**, Jiaqi Gong, Xishi Zhu, Austin Yunker, Rajkumar Kettimuthu, Jiaze He<br>
 *Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems*
