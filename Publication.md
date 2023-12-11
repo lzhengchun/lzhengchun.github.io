@@ -7,28 +7,32 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2023
+- [Rapid detection of rare events from in situ X-ray diffraction data using machine learning](https://arxiv.org/abs/2312.03989)<br>
+Zheng, Weijian, Jun-Sang Park, Peter Kenesei, Ahsan Ali, **Zhengchun Liu**, Ian T. Foster, Nicholas Schwarz, Rajkumar Kettimuthu, Antonino Miceli, and Hemant Sharma<br>
+ *Under Peer Review*
+
 - [FreeTrain: A Framework to Utilize Unused Supercomputer Nodes for Training Neural Networks](https://doi.org/10.1109/CCGrid57682.2023.00036)<br>
 **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E Papka, Ian Foster<br>
-2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
+*2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid)*
 
 - [Deep learning at the edge enables real-time streaming ptychographic imaging](https://doi.org/10.1038/s41467-023-41496-z)<br>
-Anakha V Babu, Tao Zhou, Saugat Kandel, Tekin Bicer, **Zhengchun Liu**, William Judge, Daniel J Ching, Yi Jiang, Sinisa Veseli, Steven Henke, Ryan Chard, Yudong Yao, Ekaterina Sirazitdinova, Geetika Gupta, Martin V Holt, Ian T Foster, Antonino Miceli, Mathew J Cherukara
-Nature Communications 14, 7059 (2023). 
+Anakha V Babu, Tao Zhou, Saugat Kandel, Tekin Bicer, **Zhengchun Liu**, William Judge, Daniel J Ching, Yi Jiang, Sinisa Veseli, Steven Henke, Ryan Chard, Yudong Yao, Ekaterina Sirazitdinova, Geetika Gupta, Martin V Holt, Ian T Foster, Antonino Miceli, Mathew J Cherukara<br>
+*Nature Communications* 14, 7059 (2023). 
  
 - [RAPIDS: Reconciling Availability, Accuracy, and Performance in Managing Geo-Distributed Scientific Data](https://dl.acm.org/doi/pdf/10.1145/3588195.3592983)<br>
-Lipeng Wan, Jieyang Chen, Xin Liang, Ana Gainaru, Qian Gong, Qing Liu, Ben Whitney, Joy Arulraj, **Zhengchun Liu**, Ian Foster, Scott Klasky
-2023 the 32nd International Symposium on High-Performance Parallel and Distributed Computing
+Lipeng Wan, Jieyang Chen, Xin Liang, Ana Gainaru, Qian Gong, Qing Liu, Ben Whitney, Joy Arulraj, **Zhengchun Liu**, Ian Foster, Scott Klasky<br>
+*2023 the 32nd International Symposium on High-Performance Parallel and Distributed Computing*
 
 - [Tomo2Mesh: Fast porosity mapping and visualization for synchrotron tomography](https://doi.org/10.1109/e-Science58273.2023.10254907)<br>
-Aniket Tekawade, Viktor Nikitin, Yashas Satapathy, **Zhengchun Liu**, Xuan Zhang, Peter Kenesei, Weijian Zheng, Francesco De Carlo, Ian Foster, Rajkumar Kettimuthu
-2023 IEEE 19th International Conference on e-Science
+Aniket Tekawade, Viktor Nikitin, Yashas Satapathy, **Zhengchun Liu**, Xuan Zhang, Peter Kenesei, Weijian Zheng, Francesco De Carlo, Ian Foster, Rajkumar Kettimuthu<br>
+*2023 IEEE 19th International Conference on e-Science*
 
 - [Full Waveform Inversion-Based Ultrasound Computed Tomography Acceleration Using Two-Dimensional Convolutional Neural Networks](https://doi.org/10.1115/1.4062092)<br>
 Christopher Kleman, Shoaib Anwar, **Zhengchun Liu**, Jiaqi Gong, Xishi Zhu, Austin Yunker, Rajkumar Kettimuthu, Jiaze He<br>
 *Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems*
 
 - [Moving Small Files in a Networked Environment](https://doi.org/10.1016/j.future.2022.09.016).<br>
-Chao Jin, David Abramson, Jake Carroll, **Zhengchun Liu**, Rajkumar Kettimuthu. 
+Chao Jin, David Abramson, Jake Carroll, **Zhengchun Liu**, Rajkumar Kettimuthu.<br>
 *Future Generation Computer Systems, Vol. 139, Feb. 2023, Pages 167-180*
 
 ### 2022
@@ -64,7 +68,7 @@ Joaquin Chung, Wojciech Zacherek, AJ Wisniewski, **Zhengchun Liu**, Tekin Bicer,
 Jakob R. Elias, Ryan Chard, Maksim Levental, **Zhengchun Liu**, Ian Foster, Santanu Chaudhuri. 
 
 - [Linking Scientific Instruments and HPC: Patterns, Technologies, Experiences](http://dx.doi.org/10.2139/ssrn.4141629).<br>
-Rafael Vescovi, Ryan Chard, Nickolaus Saint, Ben Blaiszik, Jim Pruyne, Tekin Bicer, Alex Lavens, **Zhengchun Liu**, Michael E. Papka, Suresh Narayanan, Nicholas Schwarz, Kyle Chard, Ian Foster. 
+Rafael Vescovi, Ryan Chard, Nickolaus Saint, Ben Blaiszik, Jim Pruyne, Tekin Bicer, Alex Lavens, **Zhengchun Liu**, Michael E. Papka, Suresh Narayanan, Nicholas Schwarz, Kyle Chard, Ian Foster.<br>
 *Patterns(2022) Vol. 3, ISSUE 10, Oct. 14, 2022*<br>
 
 ### 2021
