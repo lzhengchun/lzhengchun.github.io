@@ -6,6 +6,20 @@ title: Home
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=QmES0pkAAAAJ&hl=en).
 
 ## Selected Publications
+### 2024
+- [Intelligent Scaling in Amazon Redshift]()<br>
+Vikram Nathan, Vikramank Singh, **Zhengchun Liu**, Mohammad Rahman, Andreas Kipf, Dominik Horn, Davide Pagano, Gaurav Saxena, Balakrishnan Narayanaswamy, Tim Kraska.<br>
+2024 The ACM Special Interest Group on Management of Data.<br>
+[Keynote at AWS ReInvent](https://youtu.be/pJG6nmR7XxI?t=2727), [Product](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-ai-driven-scaling-optimizations-preview/), [News](https://aws.amazon.com/blogs/aws/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/). 
+
+- [Stage: Query Execution Time Prediction in Amazon Redshift]()<br>
+Ziniu Wu, Ryan Marcus, **Zhengchun Liu**, Parimarjan Negi, Vikram Nathan, Pascal Pfeil, Gaurav Saxena, Mohammad Rahman, Balakrishnan Narayanaswamy, Tim Kraska.<br>
+2024 The ACM Special Interest Group on Management of Data. [arXiv](https://arxiv.org/abs/2403.02286)
+
+- [MalleTrain: Deep Neural Networks Training on Unfillable Supercomputer Nodes]()<br>
+Xiaolong Ma, Feng Yan, Lei Yang, Ian Foster, Michael Papka, **Zhengchun Liu**, Rajkumar Kettimuthu.<br>
+2024, 15th ACM/SPEC International Conference on Performance Engineering.<br>
+
 ### 2023
 - [Rapid detection of rare events from in situ X-ray diffraction data using machine learning](https://arxiv.org/abs/2312.03989)<br>
 Zheng, Weijian, Jun-Sang Park, Peter Kenesei, Ahsan Ali, **Zhengchun Liu**, Ian T. Foster, Nicholas Schwarz, Rajkumar Kettimuthu, Antonino Miceli, and Hemant Sharma<br>
