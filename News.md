@@ -2,6 +2,9 @@
 layout: default
 title: What's new
 ---
+* __`07/2024`__ Our paper on *Why TPC is not enough: An analysis of the Amazon Redshift Fleet* is accepted by VLDB 2024. Along this line, I have published papers on: 1/ [How are researchers moving scientific data](https://doi.org/10.1145/3208040.3208053), 2/ How are supercomputers used by researchers [paper 1](https://dl.acm.org/doi/abs/10.1145/3392717.3392774), and [paper 2](https://doi.ieeecomputersociety.org/10.1109/SC41405.2020.00088). This series of research reveal the common mismatch between benchmark and actual workload, service that is designed for vs. actually used as by real customers.
+* __`06/2024`__ Present our work on *Machine Learning in Redshift for Redshift Autonomics* at [SIGMOD 2024](https://2024.sigmod.org/), [slides](file/SIGMOD-2024-Predictor.pdf).
+* __`03/2024`__ Two papers, 1/ [Autonomous Cloud Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/3626246.3653394) and 2/ [Machine Learning in Data Warehouse for Data Warehouse](https://dl.acm.org/doi/10.1145/3626246.3653391), are accepted by [SIGMOD 2024](https://2024.sigmod.org/).
 * __`11/2023`__ Our AI-driven Autonomous Data Warehouse is launched [Keynote](https://youtu.be/pJG6nmR7XxI?t=2727). I'm honored to lead the AI/ML part, more technical details are available in Tim Kraska's [Talk](https://www.youtube.com/watch?v=U3f2FObbvKc).
 * __`03/2023`__ I was promoted to a Senior Applied Scientist, keep working on ML for large scale systems at AWS AI Labs.
 * __`08/2022`__ I'm on a Sabbatical leave from Argonne National Laboratory since 08/12 and joined AWS AI Labs as a Machine Learning Scientist to work on ML for large scale systems.
