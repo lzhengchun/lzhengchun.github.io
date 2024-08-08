@@ -7,12 +7,16 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2024
-- [Intelligent Scaling in Amazon Redshift]()<br>
+- [Why TPC is not enough: An analysis of the Amazon Redshift Fleet ]().<br>
+Alexander van Renen, Dominik Horn, Pascal Pfeil, Kapil Eknath Vaidya, Wenjian Dong, Murali Narayanaswamy, **Zhengchun Liu**, Gaurav Saxena, Andreas Kipf, Tim Kraska.<br>
+VLDB 2024 - 50th International Conference on Very Large Data Bases
+
+- [Intelligent Scaling in Amazon Redshift](https://dl.acm.org/doi/abs/10.1145/3626246.3653394)<br>
 Vikram Nathan, Vikramank Singh, **Zhengchun Liu**, Mohammad Rahman, Andreas Kipf, Dominik Horn, Davide Pagano, Gaurav Saxena, Balakrishnan Narayanaswamy, Tim Kraska.<br>
 2024 The ACM Special Interest Group on Management of Data.<br>
 [Keynote at AWS ReInvent](https://youtu.be/pJG6nmR7XxI?t=2727), [Product](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-ai-driven-scaling-optimizations-preview/), [News](https://aws.amazon.com/blogs/aws/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/). 
 
-- [Stage: Query Execution Time Prediction in Amazon Redshift]()<br>
+- [Stage: Query Execution Time Prediction in Amazon Redshift](https://dl.acm.org/doi/10.1145/3626246.3653391)<br>
 Ziniu Wu, Ryan Marcus, **Zhengchun Liu**, Parimarjan Negi, Vikram Nathan, Pascal Pfeil, Gaurav Saxena, Mohammad Rahman, Balakrishnan Narayanaswamy, Tim Kraska.<br>
 2024 The ACM Special Interest Group on Management of Data. [arXiv](https://arxiv.org/abs/2403.02286)
 
