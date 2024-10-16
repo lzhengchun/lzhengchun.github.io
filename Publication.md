@@ -25,9 +25,9 @@ Xiaolong Ma, Feng Yan, Lei Yang, Ian Foster, Michael Papka, **Zhengchun Liu**, R
 2024, 15th ACM/SPEC International Conference on Performance Engineering.<br>
 
 ### 2023
-- [Rapid detection of rare events from in situ X-ray diffraction data using machine learning](https://arxiv.org/abs/2312.03989)<br>
+- [Rapid detection of rare events from in situ X-ray diffraction data using machine learning](https://doi.org/10.1107/S160057672400517X)<br>
 Zheng, Weijian, Jun-Sang Park, Peter Kenesei, Ahsan Ali, **Zhengchun Liu**, Ian T. Foster, Nicholas Schwarz, Rajkumar Kettimuthu, Antonino Miceli, and Hemant Sharma<br>
- *Under Peer Review*
+ *Journal of Applied Crystallography*, Volume 57, August 2024, Pages 1158-1170
 
 - [FreeTrain: A Framework to Utilize Unused Supercomputer Nodes for Training Neural Networks](https://doi.org/10.1109/CCGrid57682.2023.00036)<br>
 **Zhengchun Liu**, Rajkumar Kettimuthu, Michael E Papka, Ian Foster<br>
