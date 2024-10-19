@@ -18,7 +18,7 @@ Vikram Nathan, Vikramank Singh, **Zhengchun Liu**, Mohammad Rahman, Andreas Kipf
 
 - [Stage: Query Execution Time Prediction in Amazon Redshift](https://dl.acm.org/doi/10.1145/3626246.3653391)<br>
 Ziniu Wu, Ryan Marcus, **Zhengchun Liu**, Parimarjan Negi, Vikram Nathan, Pascal Pfeil, Gaurav Saxena, Mohammad Rahman, Balakrishnan Narayanaswamy, Tim Kraska.<br>
-2024 The ACM Special Interest Group on Management of Data. [arXiv](https://arxiv.org/abs/2403.02286)
+2024 The ACM Special Interest Group on Management of Data. [slides](file/SIGMOD-2024-Predictor.pdf)
 
 - [MalleTrain: Deep Neural Networks Training on Unfillable Supercomputer Nodes]()<br>
 Xiaolong Ma, Feng Yan, Lei Yang, Ian Foster, Michael Papka, **Zhengchun Liu**, Rajkumar Kettimuthu.<br>
