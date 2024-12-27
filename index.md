@@ -6,8 +6,8 @@ title: Home
 ## Short Bio.
 
 Zhengchun Liu focuses his Research and Development around Data, Artificial intelligence and High Performance Computing system.
-Currently, he is on sabbatical leave from Argonne National Laboratory and works as a Senior Machine Learning Scientist at AWS on AI-powered Scaling and Optimization for Amazon Redshift Serverless.
-Before this, he was a Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory, and a Scientist At-Large of the Consortium for Advanced Science and Engineering at [The University of Chicago](https://www.uchicago.edu/) worked on AI for science and HPC system. 
+Currently, he works as a Senior Machine Learning Scientist at AWS on AI-powered Scaling and Optimization for AWS Data Warehouse services.
+Before this, he was a Computer Scientist at the [Data Science and Learning](http://www.anl.gov/dsl) division of Argonne National Laboratory, and a Scientist At-Large of the Consortium for Advanced Science and Engineering at [The University of Chicago](https://www.uchicago.edu/) worked on AI for science and HPC system for 8 years.
 For more details and contact info, please see his resume, <a href="file/Zhengchun_Liu_CV.pdf" target="_blank">cv.pdf</a>.
 
 ## Research Highlights
