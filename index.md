@@ -18,7 +18,7 @@ Zhengchun Liu works at the intersection of AI-for-Science(AI4S) and computer sys
 * Performance modeling and optimization for large scale systems; 
 * Data Science and Machine Learning for scientific applications;
 * High Performance Computing and Artificial Intelligence;
-* Edge Computing and AI at Edge.
+* Machine Learning for System, Autonomous Data Warehouse.
 
 ---
 ## Professional Memberships and Activities:
