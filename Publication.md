@@ -7,7 +7,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Publications
 ### 2024
-- [Why TPC is not enough: An analysis of the Amazon Redshift Fleet ]().<br>
+- [Why TPC is not enough: An analysis of the Amazon Redshift Fleet ](https://www.vldb.org/pvldb/vol17/p3694-saxena.pdf).<br>
 Alexander van Renen, Dominik Horn, Pascal Pfeil, Kapil Eknath Vaidya, Wenjian Dong, Murali Narayanaswamy, **Zhengchun Liu**, Gaurav Saxena, Andreas Kipf, Tim Kraska.<br>
 VLDB 2024 - 50th International Conference on Very Large Data Bases
 
@@ -20,7 +20,7 @@ Vikram Nathan, Vikramank Singh, **Zhengchun Liu**, Mohammad Rahman, Andreas Kipf
 Ziniu Wu, Ryan Marcus, **Zhengchun Liu**, Parimarjan Negi, Vikram Nathan, Pascal Pfeil, Gaurav Saxena, Mohammad Rahman, Balakrishnan Narayanaswamy, Tim Kraska.<br>
 2024 The ACM Special Interest Group on Management of Data. [slides](file/SIGMOD-2024-Predictor.pdf)
 
-- [MalleTrain: Deep Neural Networks Training on Unfillable Supercomputer Nodes]()<br>
+- [MalleTrain: Deep Neural Networks Training on Unfillable Supercomputer Nodes](https://dl.acm.org/doi/10.1145/3629526.3645035)<br>
 Xiaolong Ma, Feng Yan, Lei Yang, Ian Foster, Michael Papka, **Zhengchun Liu**, Rajkumar Kettimuthu.<br>
 2024, 15th ACM/SPEC International Conference on Performance Engineering.<br>
 
