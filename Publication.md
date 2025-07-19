@@ -11,6 +11,14 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 Yan Zhou, Chunwei Liu, Bhuvan Urgaonkar, Zhengle Wang, Magnus Mueller, Chao Zhang, Songyue Zhang, Pascal Pfeil, Dominik Horn, **Zhengchun Liu**, Davide Pagano, Tim Kraska, Samuel Madden, Ju Fan.<br>
 VLDB 2025 - 51st International Conference on Very Large Data Bases
 
+- [A deep learning-based approach to improve reconstruction of ultrasound computed tomography with full waveform inversion](https://iopscience.iop.org/article/10.1088/1361-665X/adc359/meta).<br>
+Shoaib Anwar, Austin Yunker, Rajkumar Kettimuthu, Mark A Anastasio, **Zhengchun Liu**, Weihua Su, Jiaze He.<br>
+Smart Materials and Structures
+
+- [Query performance prediction using multiple experts](https://patentimages.storage.googleapis.com/f0/f8/4a/b5835431515723/US12248473.pdf).<br>
+**Zhengchun Liu**, Gaurav Saxena, Balakrishnan Narayanaswamy, Kaihui Zheng, Mohammad Rezaur Rahman, Tim Kraska.<br>
+United States.<br>
+
 ### 2024
 - [Why TPC is not enough: An analysis of the Amazon Redshift Fleet ](https://www.vldb.org/pvldb/vol17/p3694-saxena.pdf).<br>
 Alexander van Renen, Dominik Horn, Pascal Pfeil, Kapil Eknath Vaidya, Wenjian Dong, Murali Narayanaswamy, **Zhengchun Liu**, Gaurav Saxena, Andreas Kipf, Tim Kraska.<br>
