@@ -6,6 +6,11 @@ title: Home
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=QmES0pkAAAAJ&hl=en).
 
 ## Selected Publications
+### 2025
+- [PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking](https://www.arxiv.org/abs/2506.16379).<br>
+Yan Zhou, Chunwei Liu, Bhuvan Urgaonkar, Zhengle Wang, Magnus Mueller, Chao Zhang, Songyue Zhang, Pascal Pfeil, Dominik Horn, **Zhengchun Liu**, Davide Pagano, Tim Kraska, Samuel Madden, Ju Fan.<br>
+VLDB 2025 - 51st International Conference on Very Large Data Bases
+
 ### 2024
 - [Why TPC is not enough: An analysis of the Amazon Redshift Fleet ](https://www.vldb.org/pvldb/vol17/p3694-saxena.pdf).<br>
 Alexander van Renen, Dominik Horn, Pascal Pfeil, Kapil Eknath Vaidya, Wenjian Dong, Murali Narayanaswamy, **Zhengchun Liu**, Gaurav Saxena, Andreas Kipf, Tim Kraska.<br>
